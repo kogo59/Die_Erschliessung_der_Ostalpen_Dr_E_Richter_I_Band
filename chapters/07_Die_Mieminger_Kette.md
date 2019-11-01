@@ -265,8 +265,8 @@ wenn er die verdammte Rinne mit heiler Haut hinter sich und einen 4 stündigen
 Rückmarsch vor sich habe.
 
 Als nächste gelungene Ersteigung veröffentlichte R. von Lichtenberg seine
-am 17. Juli 1885 mit Guem sen.^[^730]^ und dem Hirten Grüsser von der Marienberg-
-alpe aus unternommene Tour. Morgens 3 U. von der Alpe aufbrechend, stiegen
+am 17. Juli 1885 mit Guem sen.^[^730]^ und dem Hirten Grüsser von der Marienbergalpe
+aus unternommene Tour. Morgens 3 U. von der Alpe aufbrechend, stiegen
 sie^[^731]^ zur Einsattlung zwischen Grünstein und Höllkopf (Arzberg) empor, wandten
 sich dann über eine Sandreisse links (nördlich) in die Felsen, wo sie durch Runsen
 und über Steilwände das obere Kar und zuletzt wieder auf plattigem und brüchigem

@@ -52,7 +52,7 @@ Hilfsmittel verschafft hat. Ihm gebührt unser Aller wärmster Dank.<br /><br />
 * [Zimbaspitze durch das Sarotla Thal gesehen.](ch004.xhtml#b025)
 * [Gruppe der Mädelegabel von Buchenrain.](ch005.xhtml#b056)
 * [Zugspitze vom Eibsee.](ch007.xhtml#b128)
-* Die Hinterauthaler Kette von der Vogelkarspitze aus gesehen .
+* [Die Hinterauthaler Kette von der Vogelkarspitze aus gesehen.](ch010.xhtml#b200)
 * Das Kaisergebirge von Süden gesehen .
 * Die Schönfeldspitze vom Steinernen Meere aus.
 * Der Gipfel des Hohen Dachsteins.
