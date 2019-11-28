@@ -238,7 +238,7 @@ getrotzt haben.
 Den höchsten Gipfel erkletterte^[^105]^ zuerst am ı4. August 1870 der Bergführer
 Chr. Zuderell und zwar aus eigener Initiative, ohne von einem Touristen dazu
 veranlasst zu sein. 12&nbsp;U. 30 (?) von der oberen Sporer Alpe, etwa ¾ Stunden
-weit dem Öefentobel folgend, wandte er sich nach links über Rasen und Gerölle
+weit dem Oefentobel folgend, wandte er sich nach links über Rasen und Gerölle
 einer in der zerklüfteten Wand aufwärts führenden Rinne zu. In derselben aufkletternd
 erreichte er den Hauptgrat des Rhätikons, den er eine Strecke weit verfolgte bis zu einem
 schmalen, verwitterten, südöstlich verlaufenden Felsbande,
@@ -282,7 +282,7 @@ Von der oberen Sporer Alpe bis etwa 300&nbsp;m. unterhalb des Passes im Oefentob
 marschirend, stieg Schaller an der östlichen Seite eines kleinen
 Wasserlaufes in die Felsen des Massivs ein. Durch eine schnee- und trümmererfüllte
 Hochmulde erreichte man den von Punkt 2633 der Schweizer Excursionskarte
-zum Öefenpass herabziehenden Felsgrat, dann den Punkt 2633 selbst und
+zum Oefenpass herabziehenden Felsgrat, dann den Punkt 2633 selbst und
 von hier eine Scharte am Fusse des eigentlichen Gipfels. Von derselben führte
 ein schmales, schuttbedecktes Felsband ziemlich weit in die Steilwände der Südseite hinaus.
 Nach zwei vergeblichen Versuchen konnte endlich durch die Wand
@@ -682,7 +682,7 @@ Hornspitze anlehnen. Eine flotte Kletterei brachte ihn über stotzige Wände und
 steile Felsbänder, die jedoch gute Griffe boten, ohne allzugrosse Schwierigkeiten
 zur Spitze, die von der Schweizerseite als keckes, schlankes Horn erscheint, dessen
 jäher Abfall jeglicher Annäherung spottet. Nachfolger scheint Hämmerle bisher
-nicht gefunden zu haben. .
+nicht gefunden zu haben.
 
 Der **Naafkopf**^[^135]^ 2573&nbsp;m. oder Schneethälispitz ist von verschiedenen Seiten
 leicht zu besteigen und wird deshalb auch besonders aus dem Gamperton Thale

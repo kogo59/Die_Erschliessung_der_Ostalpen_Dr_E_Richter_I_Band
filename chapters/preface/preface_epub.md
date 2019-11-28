@@ -5,11 +5,11 @@
 ::::
 
 :::: { .fs-xxl .align-center }
-**DIE ERSCHLIESSUNG**<br />
+**DIE ERSCHLIESSUNG**
 ::::
 
 :::: { .fs-xs .align-center }
-DER<br />
+DER
 ::::
 
 :::: { .fs-jumbo .align-center }

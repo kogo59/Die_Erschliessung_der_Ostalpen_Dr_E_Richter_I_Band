@@ -683,7 +683,6 @@ Seebenalpe, und von Obermieming-Telfs über den Niedermundesattel nach Tillfuss
 und die Eröffnung des Alpelhauses, und so dürfte denn für die Zukunft die schöne
 und grossartige Mieminger Kette vielleicht etwas mehr touristische Beachtung finden,
 als dies leider bisher der Fall war.
-
 :::
 
 # Die Arnspitzen^[^770]^<br /> {#ARNSPITZEN .unnumbered}
@@ -692,7 +691,6 @@ Von **M. v. Prielmayer**  in  München.<br /><br />
 ::::
 
 ::: justified
-
 Aus dem waldreichen Bergrevier zwischen der Mieminger- und Karwendel-Gruppe springt
 gegen Nordosten der Zug der Arnspitzen vor, scharfe, von Norden her in der Isarthalspalte
 sichtbare Felsgipfel. Im Süden von dem Waldgebirge durch den Hohen Sattel 1547&nbsp;m. ö. M.M.

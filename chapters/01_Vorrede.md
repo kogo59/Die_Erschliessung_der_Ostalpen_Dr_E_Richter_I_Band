@@ -53,8 +53,8 @@ Hilfsmittel verschafft hat. Ihm gebührt unser Aller wärmster Dank.<br /><br />
 * [Gruppe der Mädelegabel von Buchenrain.](ch005.xhtml#b056)
 * [Zugspitze vom Eibsee.](ch007.xhtml#b128)
 * [Die Hinterauthaler Kette von der Vogelkarspitze aus gesehen.](ch010.xhtml#b200)
-* Das Kaisergebirge von Süden gesehen .
-* Die Schönfeldspitze vom Steinernen Meere aus.
+* [Das Kaisergebirge von Süden gesehen.](ch013.xhtml#b249)
+* [Die Schönfeldspitze vom Steinernen Meere aus.](ch014.xhtml#b278)
 * Der Gipfel des Hohen Dachsteins.
 * Priel und Spitzmauer von der Polsterlucke aus .
 

@@ -2258,7 +2258,6 @@ und im Karwendel, sowie deren nördlichen Vorbergen beschäftigt.]{.footnote}
 
 [^605]: [Bairische Annalen, Jahrgang 1834 (Nr. 120 vom 7. October).]{.footnote}
 
-Siehe die Ansicht: Zugspitz vom Höllenthal, Seite 125. i
 [^606]: [Bairische Annalen, Jahrgang 1835, Nr. 4,5 u. 7.]{.footnote}
 
 [^607]: [Deutsches Hausbuch von Guido Görrcs, 1846, I. Heft.]{.footnote}
@@ -2363,6 +2362,8 @@ indem er Fräulein Laval, die durch eigene Schuld in Gefahr gerathen war, Hilfe 
 [^656]: [Alpenfreund, von H. Schwaiger, II, 1892, Nr. 20 und 21, «Ersteigungsgeschichte der Dreithorspitzes von Dr. J. Mainzer.]{.footnote}
 
 [^657]: [*Oefelekopf*:  vergleiche [Öfelekopf](https://de.wikipedia.org/wiki/%C3%96felekopf)]{.footnote}
+
+[^658]: [«Aus den nördlichen Kalkalpen», 593, 603 ff.]{.footnote}
 
 [^659]: [*Musterstein*:  vergleiche [Musterstein](https://de.wikipedia.org/wiki/Musterstein)]{.footnote}
 

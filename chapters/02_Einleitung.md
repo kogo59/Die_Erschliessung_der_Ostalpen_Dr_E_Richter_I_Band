@@ -583,7 +583,7 @@ Auch dass es für die Pfleger mehrerer naturwissenschaftlichen Disciplinen
 äusserst nützlich und nothwendig ist, die Alpennatur zu kennen, soll nicht geleugnet
 werden. Aber nennenswerthe Vergrösserungen unserer wissenschaftlichen Einsicht
 können gegenwärtig durch Ersteigung jungfräulicher Gipfel und Auffindung neuer
-Uebergänge nicht mehr gewonnen werden. Auch denken’ Jene, die derlei unternehmen,
+Uebergänge nicht mehr gewonnen werden. Auch denken Jene, die derlei unternehmen,
 gewiss nicht an dergleichen; niemals wird jetzt ein «alpines» Problem aus
 wissenschaftlichen Gründen angegriffen. Das Streben, das Neue, was da etwa noch
 verborgen ist, zu sehen, und sich von ihm eine Vorstellung zu schaffen, hat nur

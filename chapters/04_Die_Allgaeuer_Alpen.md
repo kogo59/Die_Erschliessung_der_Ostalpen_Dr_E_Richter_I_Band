@@ -132,7 +132,7 @@ erscheint die alpine Thätigkeit des Freiherrn Friedrich von Lupin^[^213]^ von M
 sie wird sich vielleicht noch aus seinen zahlreichen Fachschriften ermitteln lassen,
 augenblicklich sehen wir uns fast nur auf seine für unseren Zweck wenig geeignete
 Selbstbiographie (Weimar 1844, 4 Bände) angewiesen. Er wurde 1804 als bayrischer
-Bergcommissär—das Amt war eigens für ihn erst geschaffen worden —
+Bergcommissär —&nbsp;das Amt war eigens für ihn erst geschaffen worden&nbsp;—
 angestellt, und zwar infolge einer Eingabe, in der er sich zu petrographischen^[^214]^
 Untersuchungen, Erstellung von bezüglichen Karten und Sammlungen unter Betonung
 seiner Gewandtheit im Bergsteigen erboten und mit Hinblick auf Entdeckungsreisen in
@@ -452,7 +452,7 @@ Wir erwähnen besonders: Biberkopf, Mädelegabel, Höffats, Schnecken,
 Wilde, Hochvogel. Es muss also für bewiesen gelten, dass diese Gipfel, die
 als‚ Eckpunkte des Dreiecksnetzes dienten, damals bestiegen wurden. Ausserdem
 erfolgte aber schon 1819—1820 die Detailaufnahme des Allgäu mittels des Messtisches
-zur Herstellung der Steuerpläne 1 : 5000. Diese ausserordentlich detaillirte
+zur Herstellung der Steuerpläne 1&nbsp;:&nbsp;5000. Diese ausserordentlich detaillirte
 Aufnahme setzt nach sachverständigem Gutachten voraus, dass so ziemlich alle
 Gipfel und Spitzen, ausgenommen etwa einzelne scharfe Zacken, die durch ihre
 Form ein sicheres Anvisiren ermöglichten, mit Signalen versehen worden sind.
@@ -470,7 +470,7 @@ weisen, dass man sich ohne künstliche Signalisirung behalf.
 Die angeführten Arbeiten lieferten die Grundlage für die durch Oberlieutenant
 Aulitscheck vom topographischen Bureau 1822 vorgenommene Terrainaufnahme, die
 erste und einzige des Allgäu, deren Ergebniss in den Blättern des
-topographischen Atlas 1 : 50000 vorliegt; welche Gipfel hiebei bestiegen wurden,
+topographischen Atlas 1&nbsp;:&nbsp;50000 vorliegt; welche Gipfel hiebei bestiegen wurden,
 lässt sich nicht ermitteln. Die Karte entbehrt der Höhenangaben, da officielle
 Höhenmessungen im Allgäuer Gebirge bis zum heutigen Tage überhaupt nicht
 ausgeführt wurden, die alsbald zu besprechende Grenze ausgenommen. Die bei
@@ -479,9 +479,9 @@ der Berghöhen erforderliche Genauigkeit; trotzdem beruhten bis 1851 fast nur au
 dieser Grundlage die Höhenangaben für rein bairische Berge.^[^237]^
 
 In Tirol und Vorarlberg fand die erste Triangulirung und Katasteraufnahme 1816—1820 statt.
-Sie bildete die Grundlage für die Militärmappirung, deren Originalaufnahmen 1 : 28.800
+Sie bildete die Grundlage für die Militärmappirung, deren Originalaufnahmen 1&nbsp;:&nbsp;28.800
 unzugänglich blieben; dagegen gelangte 1824—1839 die sogenannte alte Specialkarte
-von Tirol und Vorarlberg 1 : 144.000 zur Veröffentlichung. Die Punkte des trigonometrischen
+von Tirol und Vorarlberg 1&nbsp;:&nbsp;144.000 zur Veröffentlichung. Die Punkte des trigonometrischen
 Hauptnetzes waren zugleich bezüglich ihrer Höhenlage genau bestimmt worden; im Uebrigen
 wurden bis 1860 keine Höhenmessungen vorgenommen, sondern nur die bei der
 Katastrirung gewonnenen Höhenwinkel zur Berechnung benützt. Das uns vorliegende
@@ -524,15 +524,15 @@ von anderer Seite bestimmte Nachrichten vorliegen, im Verzeichniss unter den
 weniger sorgfältig gemessenen Gipfeln wie Parseierspitze, Bergwerkskopf,
 Braunarlenspitze u. dgl. auftreten, die allgemein als damals unbestiegen gelten.
 Ist schon diese Grundlage nicht ganz sicher, so haben wir auch aus der Durchsicht der in
-dem grossen Massstab 1 : 2880 gezeichneten Katasterblätter nicht
+dem grossen Massstab 1&nbsp;:&nbsp;2880 gezeichneten Katasterblätter nicht
 wie für das Allgäu den Eindruck gewonnen, dass in der hier viel umfassenderen
 kahlen Hochregion die Signalisirung fast aller Gipfel für nöthig oder. ausführbar
 erachtet worden ist. Immerhin begegnen wir hier noch einer Anzahl neuer Gipfelsignale,
 die wir nur mangels zeitlicher Angaben nicht verwerthen können; sehr
 hoch möchten wir die Zahl der «Freispitzen» nach 1856 nicht veranschlagen. Mit
 Benützung des Katasters wurde 1870—1872 in unserem Gebiet von den Mappirungsofficieren
-die Terrainaufnahme 1 : 25.000 nebst zahlreichen Winkelmessungen
-für die Höhenbestimmung durchgeführt, woraus dann die Specialkarte 1 : 75,000
+die Terrainaufnahme 1&nbsp;:&nbsp;25.000 nebst zahlreichen Winkelmessungen
+für die Höhenbestimmung durchgeführt, woraus dann die Specialkarte 1&nbsp;:&nbsp;75,000
 hervorging.
 
 Der vierte Zeitraum erstreckt sich bis 1869. In jeder Hinsicht steht nun das
@@ -725,7 +725,7 @@ trug. Wir sehen hiebei vom Barth’schen «Wegweiser» ab, dessen Publikum erst
 kommen musste; dass es kam, wird nicht in letzter Linie dem «Führer» zuzuschreiben sein,
 unter dessen Mitarbeitern Barth’s Name voransteht. Weniger
 bekannt dürfte sein, dass Waltenberger einen beträchtlichen Theil seiner Zeit
-auf Herstellung einer grossen Allgäuer Karte (1 : 25,000) und der hiezu nöthigen
+auf Herstellung einer grossen Allgäuer Karte (1&nbsp;:&nbsp;25,000) und der hiezu nöthigen
 genauen Messungen verwandte, aber aus finanziellen Rücksichten die Vollendung
 unterlassen musste.^[^250]^
 
@@ -754,7 +754,7 @@ nebst zugehörigen Querlinien wird in kurzer Zeit den Unterschied zwischen touri
 Licht- und Schattenseite dieses Gebirges verschwinden machen. Dann wird
 es freilich auch bald um den tiefen Frieden der Lechthaler Zackenwildniss geschehen
 sein, der ohnedies seit der Eröffnung der Arlbergbahn 1884 und der Localbahn
-nach Füssen 1889 mehr und mehr gestört wurde. —
+nach Füssen 1889 mehr und mehr gestört wurde.—
 
 Schon aus der bisherigen Darstellung dürfte ersichtlich geworden sein, dass
 die hochtouristischen Unternehmungen sich vorzugsweise im Algäu abspielten; noch
@@ -957,13 +957,13 @@ Lechseite, vom Schochenalp Thal, zu besonderen Erörterungen keinen
 Anlass gibt, da es sich hier nur um Anschluss an die bereits besprochenen Linien
 handelt. Ganz neu dagegen ist der im August 1884 von Koesel ausgeführte und
 seither nicht wiederholte directe Anstieg von Einödsbach. Koesel brauchte
-hierzu 2 ¾, Stunden und fand keine besonderen Schwierigkeiten. Er verliess seine
+hierzu 2¾&nbsp;Stunden und fand keine besonderen Schwierigkeiten. Er verliess seine
 Begleiter, die den gewöhnlichen Weg machten, vor dem Anstieg zur Bacheralpe,
 stieg an den Hängen des Laubschrofens hinauf bis zum sogenannten Resseck, von
 hier über das Kar in die von der Mädelegabel direct abstürzenden Felsen, hielt
 sich links gegen die Trettachspitze und erreichte den Grat zwischen dieser und der
 Mädelegabel, welchem entlang er letztere ohne Mühe ersteigen konnte. Die andere
-Gesellschaft traf mehr als 2 Stunden später ein. Bei den folgenden Touren handelt
+Gesellschaft traf mehr als 2&nbsp;Stunden später ein. Bei den folgenden Touren handelt
 es sich um die directe Linie von Spielmannsau durch die Trettachschlucht
 zum Schwarzmilzgrat^[^262]^ zwischen Kratzer und Mädelegabel, die erheblich kürzer,
 aber schwieriger und nicht immer verwendbar ist. Schon 1868 stieg Waltenberger
@@ -972,7 +972,7 @@ erreicht wurde. Am 20. Juni 1880 gingen unter Führung B. Schraudolph’s,
 der die Tour ohne Touristen schon öfter gemacht hatte, Ingenieur Otto Heiss von
 Kempten und Koesel vom Gipfel herab auf bekanntem Wege zur Schwarzen Milz,
 stiegen dann direct durch die Wilden Gräber zur Trettachschlucht ab und erreichten
-2 Stunden nach Verlassen des Gipfels die Spielmannsau; die Tour war bei dem
+2&nbsp;Stunden nach Verlassen des Gipfels die Spielmannsau; die Tour war bei dem
 herrschenden Nebel sehr gefährlich. Bald darauf führte Schraudolph eine zweite
 Partie den gleichen Weg. Koesel wiederholte den Gang später in Gesellschaft
 von Ad. Lutz von Immenstadt, verliess aber nach dem Abstieg in die Trettachschlucht die
@@ -1046,7 +1046,7 @@ in dem zum Ferner, dessen Spalten hier Vorsicht erfordern, vorspringenden
 Gipfelkörper nahe am Verbindungsgrat zum Hauptgipfel, auf welchen Grat in der
 Höhe übergegangen wurde; die Besteigung zeigte sich «weit schärfer» als jene des
 Hauptgipfels. Die nächste Ersteigung vollführte Waltenberger 1870. Am 10. April
-1887 folgt Wundt (bis zum Kamin 1 Stunde, zur Spitze 1¼, Stunde^[^270]^  und am
+1887 folgt Wundt (bis zum Kamin 1 Stunde, zur Spitze 1¼, Stunde)^[^270]^  und am
 23. Juli 1888 Fambach: «Abweichend von der Barth’schen Route kletterte ich
 durch eine sehr steile Felsrinne, welche vom Ferner durch die Mitte der Südwand
 geradlinig zum Gipfel emporführte. Die Besteigung bietet, abgesehen von
@@ -1109,16 +1109,16 @@ neuen Tour ist die Verbindung zwischen Hohem Licht und Mädelegabel eröffnet,
 1884 wurde von Dr. Fürst, Reitner und Rechtsanwalt Schuler von Kempten
 mit Victor Schraudolph der Nordanstieg behufs Feststellung der späteren Weg-
 anlage wiederholt. Am 20. Juli 1885 erreichten Lieutenant Huber und Jäger mit
-B. Schraudolph vom Gipfel der Mädelegabel in 2¾, Stunden den Gipfel des
+B. Schraudolph vom Gipfel der Mädelegabel in 2¾&nbsp;Stunden den Gipfel des
 Hohen Lichtes. Vom Südostfusse des letzteren wurde in einer engen und steilen,
 oben mit Schnee gefüllten Schuttrinne ziemlich schwierig zum Sattel aufgestiegen,
-worauf auf gewöhnlicher Linie in ¼ Stunde der Gipfel erreicht wurde. Abstieg
-über die Nordseite. Am 16. September 1888 versuchte Bracker vom Gipfel direct
+worauf auf gewöhnlicher Linie in ¼&nbsp;Stunde der Gipfel erreicht wurde. Abstieg
+über die Nordseite. Am 16.&nbsp;September 1888 versuchte Bracker vom Gipfel direct
 gegen das Schochenalpthal abzusteigen. Als Steilabfälle das weitere Vordringen
 hemmten, querte er die Bergwand in südlicher Richtung, bis er den gegen die
 Peischelspitze ziehenden Grat erreichte. Durch die erste Scharte desselben ging er
-ins Schochenalpthal und über Birglesgrat nach Einödsbach. Am 18. August 1888 überstieg
-Spiehler, von der Rappensee Hütte kommend, die Scharte dicht nördlich
+ins Schochenalpthal und über Birglesgrat nach Einödsbach. Am 18.&nbsp;August 1888
+überstieg Spiehler, von der Rappensee Hütte kommend, die Scharte dicht nördlich
 vom Hohen Licht und erreichte auf dieser kürzesten Linie die Mädelegabel, der
 Aufstieg zur Scharte erforderte kurze Kletterei, jenseits zieht Geröll hinab.
 
@@ -1257,7 +1257,7 @@ wo die Hirten sagen, dass man auf den Nördlichen Schafalpenkopf von beiden
 Seiten sehr wohl hinaufkomme. Am 8. September 1869 erzwang sich von Barth,
 von Warmatsgund^[^299]^ über den Fiderersattel kommend, nach zweistündiger abenteuerlicher
 Kletterei im Nordwestgewände, zuletzt östlich über den Gipfelgrat den Aufgang zum
-Nördlichen Schafalpenkopf 2319m. Wenige Minuten auf dem
+Nördlichen Schafalpenkopf 2319&nbsp;m. Wenige Minuten auf dem
 Gipfelgrat westlich zurück konnte der Abstieg ohne Schwierigkeit nach Süden durch
 eine der Rinnen genommen werden, deren Vorhandensein aus der Ferne nicht
 wahrzunehmen ist. Auf der letzteren Linie wurde derselbe Gipfel am 4. November 1882
@@ -1277,14 +1277,14 @@ Rückweg ebenso. In Einödsbach erfuhr er, gewöhnlich gehe man zwischen Südlic
 und Mittlerem Schafalpenkopf auf die Walser Seite über und besteige den Berg
 von dorther. Am 3. Juni 1886 stieg Bracker über die Zwehren Alpe zum Sattel
 östlich von der Kühgehrenspitze und über den Grat östlich auf die Hammerspitze^[^301]^
-2179m.; die Gratlinie südöstlich weiter verfolgend erreichte er die Hochgehrenspitze 2252m.
-Von dort ab fand er den Grat nicht mehr gangbar und stieg ins
+2179&nbsp;m.; die Gratlinie südöstlich weiter verfolgend erreichte er die Hochgehrenspitze
+2252&nbsp;m. Von dort ab fand er den Grat nicht mehr gangbar und stieg ins
 Wildenthal ab. Am 12. October 1890 endlich ging Bracker von Warmatsgund auf
 den Sattel am Birwangereck und stieg von da an der Nordseite der Kanzelwand
 auf; das letzte Stück unter dem Gipfel zu forciren fand er nicht rathsam, sondern
 kletterte den Westhang entlang bis zum Südgrat des Berges, von wo der Gipfel
-der Kanzelwand^[^302]^ 2063&nbsp;m. leicht erreicht wurde. Am 12. October ı890 überschritten
-Modlmayr und Chr. Wolff in Gesellschaft von Buchenberg und Kränzle
+der Kanzelwand^[^302]^ 2063&nbsp;m. leicht erreicht wurde. Am 12.&nbsp;October 1890
+überschritten Modlmayr und Chr. Wolff in Gesellschaft von Buchenberg und Kränzle
 aus Augsburg von Warmatsgund her den Fiderersattel, gingen ins Ochsenkar und,
 statt normal ins Ochsenloch zwischen Mittlerem und Südlichem Schafalpenkopf,
 beschwerlich und nicht ohne Schwierigkeiten zu der Scharte zwischen letzterem
@@ -1293,7 +1293,7 @@ Der Abstieg erfolgte über die Scharte zurück nach Mittelberg. Von all diesen G
 scheint nur das Geishorn etwas öfter besucht zu werden. —
 
 Im Südwesten ragt als letzter noch zum Allgäu gerechneter Gipfel der **Widderstein**^[^294]^
-2536m., der als «widerostein» schon 1059 urkundlich erwähnt wird. Aus
+2536&nbsp;m., der als «widerostein» schon 1059 urkundlich erwähnt wird. Aus
 dem Bregenzerwald wird uns berichtet, dieser Berg sei vor ungefähr 50 Jahren von
 einer grösseren Anzahl Einheimischer mit grossen Schwierigkeiten erstmals erstiegen
 worden. Wir können diese Angabe dahin richtigstellen, dass eine Ersteigung geegentlich
@@ -1494,8 +1494,8 @@ an den Gipfel selbst. Am 7. September 1886 führte A. Spiehler mit Führer Joh.
 Schiffer von Elbigenalp^[^319]^, der den Gipfel früher als Jäger bestiegen hatte, die
 Besteigung aus, wobei im Allgemeinen von Barth’s Linie eingeschlagen wurde, und
 zwar über die «Kartenblätter». Eine neue Linie von der Westscharte aus schlugen
-am 14. August 1890 Chr. Wolff und Dr. Modlmayr ein. «Von Spielmannsau zum
-Märzle 3 Stunden, zur Scharte westlich des Gipfels 2 Stunden. Nun auf der Nordseite
+am 14.&nbsp;August 1890 Chr. Wolff und Dr. Modlmayr ein. «Von Spielmannsau zum
+Märzle 3&nbsp;Stunden, zur Scharte westlich des Gipfels 2&nbsp;Stunden. Nun auf der Nordseite
 traversirend über eine mit Geröll und Schneeflecken bedeckte Fläche, die
 zwischen den rechter Hand zum Grat hinauf sich aufbauenden Felsstufen und den
 links rasch zum Marchplateau abfallenden Steilhängen eingelagert war, alle zum
@@ -1617,7 +1617,7 @@ Aufstiegslinie anzuschliessen.^[^321]^ Hier sei bemerkt, dass gerade im Sommer 1
 Felsabstürze an der Urbeleskarspitze in einem Massstabe erfolgten, dass man z. B.
 in Bschlabs^[^323]^ glaubte, einen feuerspeienden Berg vor sich zu haben.^[^322]^
 
-Am 1.September 1889 musste A.Spiehler, dem nur von Barth’s Beschreibung
+Am 1. September 1889 musste A.Spiehler, dem nur von Barth’s Beschreibung
 bekannt war, mit Führer Erh. Wolf ebenfalls an der Ostkante umkehren und
 gerieth genau auf denselben Anstieg wie die vorige Partie; trotz starkem Neuschnee
 boten nur die Querung der Rinne und später ein wenig Vorsprünge
@@ -2202,7 +2202,7 @@ schräg rechts hinabziehende Stufe benützt und mannshoch zur Sohle abgesprungen
 Die Absicht, in der Grabensohle aufwärts zu dringen, vereitelte eine Steilstufe. Auf
 schmalem, abschüssigem, mit feinem Geröll und Schnee bedecktem Plattenband wurde
 mit grösster Vorsicht ein nur wenige Schritte entfernter, die schwarzen Wände spaltender,
- mächtiger Riss gewonnen; diesen aufwärts, und in derVerbreiterung zugleich rechts
+ mächtiger Riss gewonnen; diesen aufwärts, und in der Verbreiterung zugleich rechts
 haltend, trat man neuerdings auf den gestuften, helleren Fels der Ostseite über. Hier
 steht kaminartig eine Steilschlucht über der anderen. Drei solcher Spalten waren
 rasch durchklettert, die vierte war am schwierigsten; etwas über der Hälfte gebrochen,
@@ -2340,13 +2340,13 @@ in der Richtung zum Oythal erwies sich stellenweise als nicht ungefährlich; zur
 über Himmeleck. Am 26. Juli 1889 gingen Fambach, Kranzfelder und Richter,
 Lieutenants von Neu-Ulm, von Oberstdorf durch das Oythal zur Käseralpe, Hütte
 auf dem Wildenfeld und Scharte zwischen Grossem und Kleinem Wilden, zu welcher
-von der andern Seite ein äusserst steiles Couloir emporzieht (4¼, Stunden). Auf
+von der andern Seite ein äusserst steiles Couloir emporzieht (4¼&nbsp;Stunden). Auf
 schmalen Felsbändern zum grossen Plateau auf der Südostseite, von dem aus die
 Besteigung des Südlichen und Mittleren Gipfels ohne Schwierigkeit erfolgt.
 Der Nördliche Gipfel wurde über den Verbindungsgrat erreicht, zuletzt steile
-Felskletterei (2 Stunden). Abstieg wegen Nebel auf gleichem Wege. Endlich ging
+Felskletterei (2&nbsp;Stunden). Abstieg wegen Nebel auf gleichem Wege. Endlich ging
 Chr. Wolff am 9. August 1890 von der Käseralpe zur Ochsenhütte und über endloses Geröll
-in 1½, Stunden zur Scharte zwischen Grossem und Kleinem Wilden.
+in 1½&nbsp;Stunden zur Scharte zwischen Grossem und Kleinem Wilden.
 Ein Versuch auf letzteren scheiterte an den hohen, wandbegrenzten Stufen des
 Grates. Auf die Hornbacher Seite einbiegend, gelangte er auf eine zunächst von
 der überschrittenen Scharte gelegene untergeordnete Gipfelbildung des Hauptgrates
@@ -2456,7 +2456,8 @@ in den «Nördlichen Kalkalpen» eingehend geschildert und später durch Dr. Rud
 Sendtner^[^381]^ (Z.A.V. 1881) behandelt; wir werden deshalb die Touren der beiden
 Genannten nur kurz skizziren. Die drei Gipfel, die hier in Betracht kommen, sind von
 Ueber eine Besteigung des gegen den Haldensee vorhängenden Zackens, dem der Name
-West nach Ost **Gimpel**^[^382]^ 2174&nbsp;m., **Kellespitze**^[^383]^ 2236&nbsp;m. und **Gehrenspitze**^[^384]^ 2162&nbsp;m.
+West nach Ost **Gimpel**^[^382]^ 2174&nbsp;m., **Kellespitze**^[^383]^ 2236&nbsp;m.
+und **Gehrenspitze**^[^384]^ 2162&nbsp;m.
 Ueber eine Besteigung des gegen den Haldensee^[^386]^ vorhängenden Zackens, dem der Name
 Rothe Flüh^[^385]^ gebührt, ist nichts bekannt, sie dürfte kaum besondere Schwierigkeiten
 verursachen. Die Besteigung der Kellespitze und Gehrenspitze durch Königin
@@ -2541,7 +2542,7 @@ J. Forster und Dr. Steiger aus Memmingen vollführten Besteigung zeigte sich,
 dass es unzweckmässig ist, bis zum Gimpelgrätle aufzusteigen, dass vielmehr der
 oben erwähnte Gemspfad ganz bequem und rasch in ziemlichem Abstand unter der
 Gratlinie hindurchleitet. (Ueber neuere Partien im Tannheimer Gebirge berichtet
-H. Schwaiger im Alpenfreund ı891, Nr. 13.)
+H. Schwaiger im Alpenfreund 1891, Nr. 13.)
 
 :::
 
@@ -2656,7 +2657,7 @@ angesehen wird.]{.footnote}
 [^249]: [1871. «Der Daumen im Algäu.» (Z. A. V. I. 154.) — 1872. «Orographie der Algäuer Alpen.» — 1875. «Die Rhätikon-Kette, Lechthaler und Vorarlberger Alpen. (Ergänzungsheft 40 zu Petermann's Mittheilungen.) — 1877. «Die Gebirgsgruppe des Hohen Ifen.» (Z. A. V. VII 15.)
 ]{.footnote}
 
-[^250]: [) Aus jüngster Zeit wären noch zwei Führer nachzutragen: Hans Modlmayr Oberstorf und Umgebung, 2. Aufl., Würzburg 1891 und Adolf Thürlings Oberstorf. Augsburg 1891, von denen jener auch dem Hochtouristen im strengsten Sinne Rechnung trägt.]{.footnote}
+[^250]: [Aus jüngster Zeit wären noch zwei Führer nachzutragen: Hans Modlmayr Oberstorf und Umgebung, 2. Aufl., Würzburg 1891 und Adolf Thürlings Oberstorf. Augsburg 1891, von denen jener auch dem Hochtouristen im strengsten Sinne Rechnung trägt.]{.footnote}
 
 [^251]: [Wie bekannt, ist der Schreiber dieser Zeilen, Herr Reallehrer A. Spiehler am 18. Juli 1891
 im kräftigsten Mannesalter plötzlich verschieden. Ich kann nicht unterlassen, hier als Leiter dieses

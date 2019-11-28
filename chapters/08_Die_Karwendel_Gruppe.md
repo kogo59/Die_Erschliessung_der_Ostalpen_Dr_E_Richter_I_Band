@@ -1761,7 +1761,7 @@ fand die erste Aufnahme statt, und zwar durch den Ingenieur-Geographen Alois von
 Auftrage des topographischen Bureaus. Die Originalzeichnung 1:23.000 in Tuschmanier — selbstverständlich
 ohne Curven und Coten — ist noch vorhanden, doch kam sie nie zur Veröffentlichung,
 obwohl sie für damalige Zeiten ein ziemlich gutes Bild des Terrains gibt. Die zweite officielle Aufnahme
-fand dann im Jahre 1820 durch Oberlieutenant Naus^[^602]^  statt, der den westlichen Theil des Kammes bis
+fand dann im Jahre 1820 durch Oberlieutenant Naus statt, der den westlichen Theil des Kammes bis
 Scharnitz aufnahm, während Aulitschek 1818 den östlichen, von der Wörnergruppe bis zur Rappenspitze ziehenden
 Theil behandelt hatte, Auch diese Aufnahme war bezüglich des Terrains nur eine Aufnahme à la vue;
 es wurden keine Höhen gemessen. sondern nur Böschungsgrade mit dem einfachsten

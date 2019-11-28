@@ -10,6 +10,9 @@ Authors:
 * [M. v. Prielmayer](https://archive.is/o6uso) (1843–1917)
 * Ferdinand Kilger
 * [Heinrich Schwaiger](https://books.google.de/books?id=84l3DwAAQBAJ&lpg=PA289&ots=Wdlo8lNb2s&dq=Heinrich%20Schwaiger%201857%201902&hl=de&pg=PA289#v=onepage&q=Heinrich%20Schwaiger%201857%201902&f=false)   (1857–1902)
+* [Theodor Trautwein](https://de.wikipedia.org/wiki/Trautwein) (1833-1894)
+* [Ludwig Purtscheller](https://de.wikipedia.org/wiki/Ludwig_Purtscheller) (1849-1900)
+
 
 # Licenses
 The authors died  before 1949 ,so this work should be in the public domain in

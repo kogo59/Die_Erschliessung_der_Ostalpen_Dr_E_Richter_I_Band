@@ -654,7 +654,7 @@ Die Tour Euringer’s wiederholten im Jahre 1891 Babel und Lindenschmitt (Münch
 zuletzt G. Tröltsch (Augsburg) immer in Begleitung
 des Führers N. Waldner.
 
-++Blankahorn** 2889&nbsp;m.^[^480]^ A. Spiehler ging am 30. August 1882 von der
+**Blankahorn** 2889&nbsp;m.^[^480]^ A. Spiehler ging am 30. August 1882 von der
 Gassillschlucht unter den Gatschkopfwänden durch in das Furamenten Thal,
 vom Blankenboden zum Westgrat und diesem folgend zur Spitze. Den Abstieg
 nahm er direct an der Südflanke zum Blankenboden. Seit Spiehler’s Ersteigung ist
@@ -1123,7 +1123,7 @@ Fläche zum Gipfel (1 Stunde).^[^515]^
 Im August 1881 wurde der Weg, den Vogl einschlug, von A. Plattner
 gemacht, der dann über den Bschlabser Sattel ging.
 
-**Engelspitze** 2233&nbsp;m. und **Seelakopf** oder Schlierekopf 2374&nbspm.
+**Engelspitze** 2233&nbsp;m. und **Seelakopf** oder Schlierekopf 2374&nbsp;m.
 Prof. v. Vogl, der viel mit der Bevölkerung von Namlos und Tarrenz verkehrte und von ihr
 öfter diese zwei Bergspitzen besonders rühmen hörte, entschloss sich daher 1875
 zur Ersteigung der Engelsspitze. Von Namlos^[^516]^ ging er durch den Wald links zu
