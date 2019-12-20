@@ -55,7 +55,7 @@ Hilfsmittel verschafft hat. Ihm gebührt unser Aller wärmster Dank.<br /><br />
 * [Die Hinterauthaler Kette von der Vogelkarspitze aus gesehen.](ch010.xhtml#b200)
 * [Das Kaisergebirge von Süden gesehen.](ch013.xhtml#b249)
 * [Die Schönfeldspitze vom Steinernen Meere aus.](ch014.xhtml#b278)
-* Der Gipfel des Hohen Dachsteins.
+* [Der Gipfel des Hohen Dachsteins.](ch015.xhtml#b337)
 * Priel und Spitzmauer von der Polsterlucke aus .
 
 Die Heliogravure «Das Fluchthorn», welche dem 3. Hefte beigegeben war, ist für den

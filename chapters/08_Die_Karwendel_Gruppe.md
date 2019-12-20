@@ -1573,8 +1573,8 @@ Gipfel wohl unterschieden waren. Gehört ja auch die bekannte Martinswand unsere
 Kette an.
 
 Ja noch mehr: sie sind ohne Zweifel auch schon zum Vergnügen bestiegen
-worden. Der Innsbrucker Johann Georg Ernstinger, dessen interessantes «Rais-
-buch» im 134. Band der Bibliothek des literarischen Vereines in Stuttgart veröffentlicht
+worden. Der Innsbrucker Johann Georg Ernstinger, dessen interessantes «Raisbuch»
+im 134. Band der Bibliothek des literarischen Vereines in Stuttgart veröffentlicht
 ist,^[^918]^ hat wohl noch vor 1600 (neben dem «Zurschenberg» und der
 «Waldrast») die Frau Hitt bestiegen, «ain sehr hohes gebürg und das höchst, so
 da herumb ist, welches, ein lauter felsen, sich in der höh etwas zuespizent und

@@ -1855,8 +1855,8 @@ Ausführung — gar oft wird dieselbe jedoch nicht über den Gufel hinauf ausged
 — für tüchtige Anlagen und jedenfalls für völlige Schwindelfreiheit des
 Besteigers.» Hier tritt uns zugleich von Barth’s stets bekundetes Streben, die
 übertriebenen Nachrichten von Schwierigkeiten und Gefahren auf ihren wahren
-Werth zurückzuführen, deutlich entgegen. Weniger kommt das in seiner E
-inzelbeschreibung des Anstieges zum Ausdruck: «Das Mitnehmen eines Führers halte
+Werth zurückzuführen, deutlich entgegen. Weniger kommt das in seiner
+Einzelbeschreibung des Anstieges zum Ausdruck: «Das Mitnehmen eines Führers halte
 ich bei dieser Partie für unbedingt geboten; nicht als ob der Weg besonders schwer
 zu finden wäre, derselbe ist vielmehr von einer, man möchte sagen, grausigen
 Einfachheit; man sieht vor sich eine nahezu senkrechte grüne Wand und klettert

@@ -955,8 +955,8 @@ wahrscheinlich  von dem Worte watz, wass, wax, das ist scharf, rauh, her,
 nicht aber, wie vielfach geglaubt wird, von dem Namen einer Person. Allerdings
 kommt «Watzmann» als Eigenname bereits in den Salzburger Urkunden des 8. und
 12. Jahrhunderts vor.^[^1191]^ In der G. Ph. Finkh’schen Karte von 1671 erscheint der
-Gipfel unter der Bezeichnung «Wazman M.» Auch «S. Barthlme» und der «Schran-
-pach» sind in der erwähnten Karte eingezeichnet.
+Gipfel unter der Bezeichnung «Wazman M.» Auch «S. Barthlme» und der «Schranpach»
+sind in der erwähnten Karte eingezeichnet.
 
 Die **Vordere Watzmannspitze**^[^1192]^ (Hocheck) 2650&nbsp;m. wurde schon seit jeher von
 Gemsjägern und Hirten und später, Ende der Zwanzigerjahre, auch von Wallfahrern
@@ -968,8 +968,8 @@ Valentin Stanig^[^025]^. Als Ersteigungsjahr gibt F. M. Vierthaler («Wanderunge
 II, 38) das Jahr 1801 an; da Stanig jedoch (nach derselben Quelle I, 33) 1801
 den Hohen Göll erstieg und Stanig in seinen «Excursionen auf den hohen Göhl»
 (Z. A. V. 1881, 394 ff.) ausdrücklich bemerkt, dass er «vor zwei Jahren» die höchste
-Watzmannspitze erklettert hätte, so lässt sich nicht genau sagen, ob die Watzmann-
-Ersteigung auf 1799 oder 1801 fällt. 1803 kann Stanig die Watzmannfahrt nicht
+Watzmannspitze erklettert hätte, so lässt sich nicht genau sagen, ob die
+Watzmann-Ersteigung auf 1799 oder 1801 fällt. 1803 kann Stanig die Watzmannfahrt nicht
 mehr ausgeführt haben, da er in diesem Jahre Salzburg verliess, wohl aber die
 Ersteigung des Hohen Göll.^[^1193]^
 
@@ -982,7 +982,7 @@ dem berühmten Geologen, gemessen. Die Höhenangaben schwanken zwischen 8400
 bis 9058 Pariser Fuss. Am richtigsten scheint die trigonometrische Messung des
 General-Quartiermeisterstabes von 1807 mit 1376'9 Wiener Klafter zu sein. Stanig
 führte den Uebergang von der Vorderen zu der höchsten (Mittel-) Spitze des
-Watzmanns mit Messinstrumenten beladen aus und entwirft über dieselbe (Z. A.V.
+Watzmanns mit Messinstrumenten beladen aus und entwirft über dieselbe (Z. A. V.
 1881, 394 ff.) ein sehr anschauliches Bild:
 
 «Beladen mit meinen Messinstrumenten, begann ich diesen nie begangenen
@@ -1045,7 +1045,7 @@ mich vor dem Falle zu hüten und mich gleichwohl hinabtreiben zu lassen. Hinter
 mir geriethen Steine in Lauf und versetzten mir manches Unsanfte. Nun kam ich
 immer weiter und schon stürzte der grosse Schwall vor mir in den Abgrund hinab.
 Mit allem Kraftaufwande und Geistesgegenwart schwang ich mich im Laufe seitwärts auf
-ein festes Oertchen mit einem kalten «Holla, da halt’ ich nicht: mehr
+ein festes Oertchen mit einem kalten «Holla, da halt’ ich nicht mehr
 mit!» und liess diese fatale Kameradschaft mit fürchterlichem Getöse neben mir in
 den Abgrund stürzen, mich begnügend, ihr blos mit dem Auge nachzufolgen. Nun
 setzte ich sorgsam den Weg weiter und kam nach einer halben Stunde, erschöpft
@@ -3019,7 +3019,7 @@ in München. Derselbe ist jedoch, nach einer gütigen Mittheilung Herrn Th. Trau
 
 [^1237]: [*Göllkette*:  vergleiche [Göll](https://de.wikipedia.org/wiki/G%C3%B6ll)]{.footnote}
 
-[^1238]: [Koch-Sternfeld, «Salzburg und Berchtesgaden», II, 363, und Dr. A. Prinzinger sen,
+[^1238]: [Koch-Sternfeld, «Salzburg und Berchtesgaden», II, 363, und Dr. A. Prinzinger sen.
 «Die Höhennamen in der Umgebung von Salzburg», Abhandlungen der Gesellschaft für
 Salzburger Landeskunde, I, 42 ff., und Derselbe, Mittheilungen der Gesellschaft für
 Salzburger Landeskunde 1870, 19 ff.]{.footnote}

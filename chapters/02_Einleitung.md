@@ -273,7 +273,7 @@ erschöpft. Muth und Unternehmungsgeist waren überall wachgerufen, und
 in der Reiseliteratur beginnt das Hochgebirge eine ganz andere Rolle zu spielen
 als früher. Schon tritt ein Bergsteiger auf, der im modernen Sinn das Vergnügen
 an der Leistung empfindet und betont, V. Stanig^[^025]^, der erste Ersteiger der Mittleren
-Watzmannspitze,[^004] der höchsten Glocknerspitze, des Göll und Triglav. Stanig,
+Watzmannspitze,^[^004]^ der höchsten Glocknerspitze, des Göll und Triglav. Stanig,
 der übrigens fleissig Höhen und Winkel maass und Pflanzen sammelte, hatte die
 grösste Lust an gefährlichen Klettereien. Er war sich auch seiner Ueberlegenheit
 über die meisten Zeitgenossen wohl bewusst; «einige kleine Proben», schreibt er,
@@ -810,7 +810,7 @@ Lexikon.]{.footnote}
 
 [^003]: [Schrank und Moll, Naturhistorische Briefe, Salzburg 1785.]{.footnote}
 
-[^004]: [Näheres über Stanig siehe Z. A.V. 1881.]{.footnote}
+[^004]: [Näheres über Stanig siehe Z. A. V. 1881.]{.footnote}
 
 [^005]: [Der Schneeberg, Wien 1831, Vorrede.]{.footnote}
 
