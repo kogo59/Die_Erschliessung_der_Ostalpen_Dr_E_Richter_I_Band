@@ -107,7 +107,7 @@ zwischen den einzelnen Gruppen sind. Manche Gebiete sind erst im letzten Jahrzeh
 beachtet und besucht worden, während die Anfänge der Bergfahrten und ihrer Literatur
 auch bei uns in das vorige Jahrhundert zurückreichen. Es scheint nebst bequemerer
 oder weniger günstiger Lage zu gewissen Verkehrslinien und Mittelpunkten dafür noch
-besonders der Umstand massgebend, ob in einer Gruppe ein «berühmter» ‚Gipfel vorhanden
+besonders der Umstand massgebend, ob in einer Gruppe ein «berühmter» Gipfel vorhanden
 war. Durch angebliche oder wirkliche Ueberhöhung seiner Nachbarn, auffallende Form,
 isolirte Lage und weite Sichtbarkeit haben Glockner, Ortler, Watzmann
 und ähnliche Berge schon früh die Aufmerksamkeit auf sich gezogen, und dadurch
@@ -311,7 +311,7 @@ durch Schultes hergestellt. Dieser lebhafte und anziehende Schriftsteller
 (geb. 1773, gest. 1831) hatte schon vor dem erwähnten Glocknerbuche ein Werk über
 das Salzkammergut und eines über den Wiener Schneeberg verfasst. «Das erste
 Buch, welches mein unvergesslicher Vater dem reiferen Knaben in die Hände gab,
-war Schultes’ Werk über den Schneeberg,» sagt Schmidl.^[^005]^ Nicht minder knüpft
+war Schultes Werk über den Schneeberg,» sagt Schmidl.^[^005]^ Nicht minder knüpft
 Weidmann ausdrücklich an Schultes an, dessen Bücher er zum Theil neu herausgab.
 Schmidl, der sich später durch Höhlenforschungen und geographische Schriften
 einen guten Namen gemacht hat, schenkte in seinen Reisehandbüchern den Hochalpen

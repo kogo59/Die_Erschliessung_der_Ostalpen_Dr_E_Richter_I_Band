@@ -65,7 +65,7 @@ in einer Längenausdehnung von 20 Kilometern und in einer
 mittleren Gipfelhöhe von 2585&nbsp;m.^[^713]^  über Grünstein, Hohe Griesspitzen, Obere
 Platte und Hochwand (mit Karkopf) zu seinem Ostabschluss, der Hohen Munde.
 Abgesehen vom westlichen Seitenkamm der Gruppe, der in Sonnenspitze und
-Wampeten Schrolen gipfelt, kommen die nördlich und südlich abzweigenden Nebenkämme
+Wampeten Schroffen gipfelt, kommen die nördlich und südlich abzweigenden Nebenkämme
 mit ihren Gipfeln nicht in Betracht, da bis jetzt nur die im Hauptkamm liegenden Berge
 von Touristen erstiegen wurden. Doch ist es gerade die Sonnenspitze,
 welcher der erste Platz in der Ersteigungsgeschichte der Mieminger Berge gebührt,
@@ -382,7 +382,7 @@ Fernerspitze fand ich einen Steinmann,^[^742]^ auf der Ostspitze errichtete ich 
 kleines Steinmannl. Auf demselben Wege wieder hinab. Durch Wegsuchen, tiefen,
 lockeren Schnee und Lawinengefahr 2&nbsp;Stunden aufgehalten, 8&nbsp;U. am
 Thal- (Stettl-) bach, 9&nbsp;U. in Obermieming.» So hatte die Westspitze abermals
-den Angriff ab- geschlagen. Aber nur mehr kurze Zeit vermochte sie ihre Unnahbarkeit
+den Angriff abgeschlagen. Aber nur mehr kurze Zeit vermochte sie ihre Unnahbarkeit
 zu bewahren. Am 25.&nbsp;Juni 1890 stieg^[^743]^ Schreiber dieses mit Paul Probst
 die steilen Gras- und Schroffengehänge über dem Stettlbach hinan zum Kar der
 «Grossen Schoas». Nach Traversirung des Kars in westlicher Richtung erfolgte der
@@ -507,7 +507,7 @@ Schneegestöber die herrliche Rundsicht, die besonders in Bezug auf das
 Wettersteingebirge von höchstem Interesse ist. Um 9&nbsp;U.&nbsp;55 verliess er
 den Gipfel, und Nebel, Schnee und Regen mit kurzer Unterbrechung waren seine
 Begleiter beim Rückweg nach Wildermieming, das er schon nach 2&nbsp;Stunden
-4o&nbsp;Minuten erreichte. Erst acht Jahre später fanden sich auch für die Obere Platte
+40&nbsp;Minuten erreichte. Erst acht Jahre später fanden sich auch für die Obere Platte
 H. Schwaiger aus München von Obermieming aus den Berg, und zwar auf dem
 Nachfolger von Barth’s. Am 8.&nbsp;August 1881 erstiegen^[^753]^ G. Hofmann und
 bekannten Wege über den Mitterberg. Nur im letzten Anstieg über die Wände hielten
@@ -721,7 +721,7 @@ links über den aus massigen Blöcken bestehenden Grat empor, noch eine Steilstu
 überkletternd und eine zwei bis drei Schritte lange Scharfkante rittlings überschreitend,
 erreichten sie über den schmalen, leicht steigenden Grat in einer halben
 Stunde den Gipfel; die Plattenpartie nahm etwa 10&nbsp; Minuten in Anspruch. Im
-Ab-stiege verfolgten sie zunächst die Anstiegslinie bis unter die Steilstufen des
+Abstiege verfolgten sie zunächst die Anstiegslinie bis unter die Steilstufen des
 Nordwestgehänges zurück, bogen dort, Pfadspuren folgend, rechts ab quer unter den
 Wänden durch und wandten sich dann durch eine immer stärker sich ausprägende
 Sinke abwärts; bald traten sie in einen schroffenumschlossenen Graben ein und trafen
@@ -748,7 +748,7 @@ in ostnordöstlicher Richtung die steile, gelbfarbige Haselrinne bis fast
 zum Riedboden herab; der Einstieg in dieselbe ist zu gewinnen auf einem Steige,
 der in der Nähe des verfallenen Bergwerks nächst der Scharnitz gegen den Riedsattel
 emporführt und von da rechts auf einem Jagdsteige, oder von der Leutaschklamm aus
-auf dem Jagdsteige über die MilzbrandIn zum Jägerhause und von da
+auf dem Jagdsteige über die Milzbrandln zum Jägerhause und von da
 weiter zu der Rinne. In ihrem obersten Theile gabelt sie; nach links ansteigend
 wird die grüne Scharte zwischen der Vorderen Arnspitze und einem südöstlich
 davon stehenden Kopfe, 1961&nbsp;m. b. T. B., gewonnen und von hier aus leicht der

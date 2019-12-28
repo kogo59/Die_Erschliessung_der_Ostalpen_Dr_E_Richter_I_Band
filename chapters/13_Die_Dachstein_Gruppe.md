@@ -31,7 +31,7 @@ und deshalb wurde dort zwischen Dachstein und Thorstein nicht scharf unterschied
 Von den Reisenden schon ganz und gar nicht. Sie hörten wohl hin
 und wieder beide Namen nennen, sahen aber nur einen Berg, und um doch beide
 Namen zu respectiren, wandten sie dieselben stellvertretend an. Also berichtet
-Schultes, der am 6. September ı804 durch den Thiergarten zum Gletscher
+Schultes, der am 6.&nbsp;September 1804 durch den Thiergarten zum Gletscher
 aufgestiegen war: «Unsere Führer trieben uns vor sich her ..., endlich
 sahen wir das Eisfeld vor uns ...., scharf schnitten sich in dem dunklen Blau
 die eisigen, kalkweissen Gipfel des Dachsteins aus.» Da kam Nebel, und «der
@@ -833,7 +833,7 @@ Niederem Kreuz von den Hallstätter Führern Alexander Wimmer und Peter
 Zauner im Spätsommer 1888 durch Einschlagen einiger Eisenstifte praktikabel
 gemacht worden.^[^1426]^ Am 15.&nbsp;September 1889 wollte nun Josef Reiff mit den
 Genannten den Aufstieg über die Scharte machen, musste jedoch wegen totaler Vereisung
-der Felsen umkehren.”) Dieselben waren schon am ı2. September 1888 bei
+der Felsen umkehren.”) Dieselben waren schon am 12.&nbsp;September 1888 bei
 einem Versuch auf das Hohe Kreuz von Osten durch furchtbaren Sturm zur
 Umkehr gezwungen worden.^[^1426]^ Am 23. September 1890 brach J. Reiff mit Alexander
 Wimmer und dessen Sohn Hans abermals von der Simonyhütte auf, und
@@ -931,7 +931,7 @@ Einen directen Anstieg vom Carlseisfeld auf den höchsten Gipfel vollführte
 am 26. Juni 1888 R. H. Schmitt (allein). Er stieg vom Gletscher durch ein
 Couloir an, das sich fast unmittelbar vom Gipfel herabzieht; oben über Terrassenstufen
 und WandIn; zuletzt rechts auf den Grat und wenige Schritte links
-hinüber auf den Gipfel. (Von der Simonyhütte in 1&nbsp;Stunde 4o&nbsp;Minuten.^[^1442]^)
+hinüber auf den Gipfel. (Von der Simonyhütte in 1&nbsp;Stunde 40&nbsp;Minuten.^[^1442]^)
 
 **Hoher Koppenkarstein**^[^1445]^ 2878 m. Dieser schöne Gipfel, der, nach drei Seiten
 schroff abstürzend, einen Eckpfeiler des höheren, vergletscherten Dachstein-Hauptstockes
@@ -1425,7 +1425,7 @@ Die Uebung eingehender Kritik und genauer Nachforschung war damals nicht Mode.]{
 
 [^1352]: [So benannt nach dem Klagenfurter Studenten Nagel, der hier bei einem Versuche, den Thorstein allein vom Thorsteingletscher zu besteigen, durch Absturz auf den Gletscher am 3. August 1879 verunglückte. (Tourist 1879, Nr. XVII, 7.)]{.footnote}
 
-[^1353]: [Schmitt in M. A.V. 1889, 171 und Drasch in Oe. A. Z. 1889, 265—268. Schmitt gibt als Datum den ı2., Drasch aber den 11.&nbsp;Juli an.]{.footnote}
+[^1353]: [Schmitt in M. A.V. 1889, 171 und Drasch in Oe. A. Z. 1889, 265—268. Schmitt gibt als Datum den 12., Drasch aber den 11.&nbsp;Juli an.]{.footnote}
 
 [^1354]: [Briefl. Mitth. Purtscheller’s an A. v. Böhm. Das obere steilste Stück der Eisrinne wurde nach rechts umgangen.]{.footnote}
 

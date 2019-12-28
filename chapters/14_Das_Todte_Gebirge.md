@@ -535,7 +535,7 @@ Museums Franzisco-Carolinum, Linz 1858.]{.footnote}
 
 [^1562]: [«Monographie des Todten Gebirges». Von G. Geyer. Jb. Oe. T.-C. 1878, IX, 115. — N. D. A. Z. 1878, VII, 139.]{.footnote}
 
-[^1563]: [Die Côte 2185 m. der Specialkarte ist wohl zu niedrig gegriffen, da dieser Gipfel die ganze Teufelsmauer bedeutend überhöht,]{.footnote}
+[^1563]: [Die Côte 2185 m. der Specialkarte ist wohl zu niedrig gegriffen, da dieser Gipfel die ganze Teufelsmauer bedeutend überhöht.]{.footnote}
 
 [^1564]: [G. Hauenschild  Jb. A. V. 1866, II, 182. — Dr. I. Schiestl. Jb. Oe. T.-C. 1873, IV, 71. — «Monographie des Todten Gebirges». Von G. Geyer. Jb. Oe. T.-C. 1878, IX, 183. — Die Alpen bei Lietzen im Ennsthal. Von
 A. Kutschera. Tourist 1872, IV, 1. 57. — Archäologische Entdeckungen auf dem Hochmölbing-Warscheneckplateau. Von A. Kutschera. Tourist 1873, V, 17. — Stationen der Salzburg-Tiroler Bahn. Von G. Jäger. Tourist 1875, VII, 318.]{.footnote}

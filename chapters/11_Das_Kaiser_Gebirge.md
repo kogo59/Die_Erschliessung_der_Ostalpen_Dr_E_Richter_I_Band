@@ -67,7 +67,7 @@ Sprengungen, Drahtseile und Stiften verbessert, Unterkunftshütten erbaut, so da
 gegenwärtig sowohl der bequeme Tourist als der kühnere Bergsteiger die herrlichen
 Landschaftsbilder, die dieses Gebirge bietet, nach seiner Art geniessen kann. Auch
 literarisch ist das Kaisergebirge keineswegs stiefmütterlich behandelt worden. Die
-Monographie von Trautwein: «Das Kaisergebirge» , II. Auflage, München ı891,
+Monographie von Trautwein: «Das Kaisergebirge» , II. Auflage, München 1891,
 bietet erschöpfende Beschreibung und verlässlichen Wegweiser. (Daselbst und Z. A. V.
 1879 findet sich auch die vom Alpenverein herausgegebene Specialkarte, auf die
 hiermit verwiesen sei.)
@@ -875,7 +875,7 @@ zu untersuchen, woraus bestimmt anzunehmen ist, dass der Aufstieg durch
 die sogenannte «Mutter» genommen wurde.
 
 Am 5. Juni 1869 finden wir Carl Hofmann aus München auf dem Gipfel
-des Treflauers,^[^1097]^den er, nach den Messungen Schlagintweit’s, als sein erstes
+des Treffauers,^[^1097]^den er, nach den Messungen Schlagintweit’s, als sein erstes
 und hauptsächlichstes Ziel in der Gruppe betrachtete. Der Aufstieg geschah vom
 Schiesslinger Hof aus, wo er den Sohn des Besitzers, Peter Schiesslinger (recte
 Eisenmann), als Begleiter mitnahm, da er ihm als ausgezeichneter Steiger bezeichnet
@@ -957,13 +957,13 @@ Metallobelisk, «Hofmannsäule» genannt.
 Gelegentlich einer führerlosen Ersteigung des Treffauer im Jahre 1882 durch
 A. Zott und Gebrüder Zametzer führten diese auch noch die Ersteigung des
 **Kleinen Kaisers** aus, der sich als Zwischenkopf zwischen Treffauer und Sonneneck aus
-dem Hauptkamme erhebt. Vom Treflauer längs des Grates mit theilweiser
+dem Hauptkamme erhebt. Vom Treffauer längs des Grates mit theilweiser
 kleiner Abweichung nach Westen absteigend, gelangten sie hinab zum Schneekarrinnl.
 Dasselbe hoch oben unter der Grateinsenkung querend, trachteten sie jenseits
 zuerst über steile Felspartien einem breiten Bande zu, auf welchem eine Schlucht
 angetroffen wurde, die sie unerwarteter Weise direct zur Spitze des Kleinen Kaisers
 führte. Eine directe Ersteigung des «Kleinen Kaisers» aus den Oberen Scharlinger
-Böden führte im Jahre ı891 Ed. Schmidl allein aus.
+Böden führte im Jahre 1891 Ed. Schmidl allein aus.
 
 Das **Schneekarinnl** wurde im Jahre 1885 durch Max Oberwallner aus
 München mit Widauer auch als Uebergang von Bärenstatt nach Hinterbärenbad
@@ -1035,7 +1035,7 @@ Die meisten Ersteigungen derselben wurden vom Hintersteiner See aus bewerkstelli
 der etwas schwierige Uebergang über die Hochköpfe zum Sonneneck jedoch
 selten ausgeführt.
 
-Merzbacher bestieg am 3. Juni 1881 den Scheflauer mit Widauer und
+Merzbacher bestieg am 3. Juni 1881 den Scheffauer mit Widauer und
 nahm als zweiter Tourist den Abstieg zu den «Thalöfen», welche Tour Max Kleiber aus
 München am 9.&nbsp;August gleichen Jahres wiederholte.
 
@@ -1120,7 +1120,7 @@ trotzdem der Text durch die Ansichten wesentlich an Verständlichkeit gewinnen w
 
 [^1054]: [*Mauckspitze*:  vergleiche [Maukspitze](https://de.wikipedia.org/wiki/Maukspitze)]{.footnote}
 
-[^1055]: [Z.A.V. 1,529.]{.footnote}
+[^1055]: [Z. A. V. 1,529.]{.footnote}
 
 [^1056]: [*Carl Hofmann*:  vergleiche [Karl Hofmann](https://de.wikipedia.org/wiki/Karl_Hofmann_(Bergsteiger))]{.footnote}
 
@@ -1135,15 +1135,15 @@ aus München, diese Passage zu verbessern, was die Besteigung bedeutend abkürze
 
 [^1061]: [*Höchste Thörlspitze*:  vergleiche [Törlspitzen](https://de.wikipedia.org/wiki/T%C3%B6rlspitzen)]{.footnote}
 
-[^1062]: [M.A.V. 1885, 194. Die isolirt aus dem Griesener Kar aufragenden Felszacken des Mitter
+[^1062]: [M. A. V. 1885, 194. Die isolirt aus dem Griesener Kar aufragenden Felszacken des Mitter
 Kaiser und Kleinen Kaiser wurden touristisch zum ersten Male am 8. August 1890 erstiegen durch
 Dr. P. Kiesewetter und Albrecht von Krafft.]{.footnote}
 
 [^1063]: [*Lärcheckspitze*:  vergleiche [Lärchegg](https://de.wikipedia.org/wiki/L%C3%A4rchegg)]{.footnote}
 
-[^1064]: [M.A.V. 1880, 86.]{.footnote}
+[^1064]: [M. A. V. 1880, 86.]{.footnote}
 
-[^1065]: [M.A.V. 1880, 85.]{.footnote}
+[^1065]: [M. A. V. 1880, 85.]{.footnote}
 
 [^1066]: [M. A. V. 1886, 213.]{.footnote}
 
@@ -1151,11 +1151,11 @@ Dr. P. Kiesewetter und Albrecht von Krafft.]{.footnote}
 
 [^1068]: [*Vordere und Hintere Karlspitze*:  vergleiche [Karlspitzen](https://de.wikipedia.org/wiki/Karlspitzen)]{.footnote}
 
-[^1069]: [M.A.V. 1876, 72.]{.footnote}
+[^1069]: [M. A. V. 1876, 72.]{.footnote}
 
 [^1070]: [Der nicht leicht zu besteigende Felszacken des Todtensessels mit
 mehreren gleichen Trabanten wurde zum ersten Male am 3. October 1886 durch Georg Winkler und
-Alois Zott, das zweite Mal durch Albrecht von Krafft am 22. September 1888 erstiegen. M.A.V. 1888, 254.]{.footnote}
+Alois Zott, das zweite Mal durch Albrecht von Krafft am 22. September 1888 erstiegen. M. A. V. 1888, 254.]{.footnote}
 
 [^1071]: [«Sagen aus dem Kaisergebirge. Gesammelt von einem Kaiserfreund», betitelt sich
 ein stattliches Büchlein, das in zweiter Auflage, mit touristischen Beschreibungen, im Verlage von
@@ -1165,7 +1165,7 @@ alle mit Sagen umwoben sind. Karg hat sie auf seinen zahlreichen Touren im Kaise
 zu einem hübschen Hochgebirgssträusschen gebunden, wie wir es selten in dieser Fülle und
 Mannigfaltigkeit wieder finden.]{.footnote}
 
-[^1072]: [M.A.V. 1881, 8.]{.footnote}
+[^1072]: [M. A. V. 1881, 8.]{.footnote}
 
 [^1073]: [Tour. 1883, 13.]{.footnote}
 
@@ -1178,17 +1178,17 @@ Dr. Paul Kiesewetter dann gemeinschaftlich zum Hohen Winkel ab.]{.footnote}
 
 [^1076]: [*Fleischbankspitze*:  vergleiche [Fleischbank](https://de.wikipedia.org/wiki/Fleischbank_(Kaisergebirge))]{.footnote}
 
-[^1077]: [M.A.V. 1881, 232.]{.footnote}
+[^1077]: [M. A. V. 1881, 232.]{.footnote}
 
-[^1078]: [M.A.V. 1886, 213.]{.footnote}
+[^1078]: [M. A. V. 1886, 213.]{.footnote}
 
 [^1079]: [*Todtenkirchl*:  vergleiche [Totenkirchl](https://de.wikipedia.org/wiki/Totenkirchl)]{.footnote}
 
-[^1080]: [M.A. V. 1890, 205.]{.footnote}
+[^1080]: [M. A. V. 1890, 205.]{.footnote}
 
 [^1081]: [Tour. 1886, 16.]{.footnote}
 
-[^1082]: [M.A.V. 1886, 213.]{.footnote}
+[^1082]: [M. A. V. 1886, 213.]{.footnote}
 
 [^1083]: [M. A. V. 1890, 205.]{.footnote}
 
@@ -1204,17 +1204,17 @@ Eine zweite Ersteigung erfolgte am 19. September 1891 durch Albrecht von Krafft 
 
 [^1088]: [M. von Frey, Z. A. V. 1879, 209.]{.footnote}
 
-[^1089]: [M.A.V. 1883, 254.]{.footnote}
+[^1089]: [M. A. V. 1883, 254.]{.footnote}
 
 [^1090]: [Auf Anregung und durch Unterstützung der Münchener Haltspitzler
 hat nunmehr die Section Kufstein des D. u. Oe. A.-V. den Weg über den Gamsänger mittelst Stiften
 und Drahtseilen verbessert.]{.footnote}
 
-[^1091]: [N.D. A. Z. 1879, 137.]{.footnote}
+[^1091]: [N. D. A. Z. 1879, 137.]{.footnote}
 
 [^1092]: [*Kleine Haltspitze*:  vergleiche [Kleine Halt](https://de.wikipedia.org/wiki/Kleine_Halt)]{.footnote}
 
-[^1093]: [M.A.V. 1890, 169.]{.footnote}
+[^1093]: [M. A. V. 1890, 169.]{.footnote}
 
 [^1094]: [*Treffauer Kaiser*:  vergleiche [Treffauer](https://de.wikipedia.org/wiki/Treffauer)]{.footnote}
 
@@ -1222,7 +1222,7 @@ und Drahtseilen verbessert.]{.footnote}
 
 [^1096]: [*Robert Schlagintweit*:  vergleiche [Robert von Schlagintweit](https://de.wikipedia.org/wiki/Robert_von_Schlagintweit)]{.footnote}
 
-[^1097]: [Z.A.V. 1869, 523.]{.footnote}
+[^1097]: [Z. A.V. 1869, 523.]{.footnote}
 
 [^1098]: [M. A. V. 1887, 114.]{.footnote}
 

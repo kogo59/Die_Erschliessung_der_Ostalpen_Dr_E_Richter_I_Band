@@ -92,7 +92,7 @@ Schnee bedeckt sind. Einige dieser Alpen sind steile Felsen, deren hohe spitzige
 Rücken sich in die Wolken eintauchen, andere sind mit Tannen bewachsen und
 die zwischen ihnen entstehenden Thäler geben gutes Futter für das Vieh. Der
 Grünten ist nach de Lucci’s Messung 4060 Fuss hoch und blosser fester Sandfelsen.
-«Zwo» Stunden hinter Sonthofen steht der Hochvogel, der an 9000 Fuss
+«Zwo» Stunden hinter Sonthofen steht der Hochvogel, der an 9000&nbsp;Fuss
 Höhe hat und oben Granit zeigt.
 
 Noch ärmer ist die «Vorarlbergische Chronik oder Merkwürdigkeiten des
@@ -121,7 +121,7 @@ die Fortsetzung über Vorarlberg fertiggestellt war, gebührt der Ehrenplatz auc
 unter den Touristen unseres Gebietes, deren Reihe mit ihnen eröffnet wird.
 
 Nur wenige Männer vermögen wir heute noch aus jener Zeit namhaft zu
-machen, die—gleichfalls im Dienste der Wissenschaft—um die Aufhellung des
+machen, die — gleichfalls im Dienste der Wissenschaft — um die Aufhellung des
 Gebietes bemüht waren, und nur schwer gelingt es, noch einige Anhaltspunkte über
 ihre Thätigkeit zu gewinnen. In Schranck’s^[^212]^ «Bayrischer Flora» (1789, zwei Bände)
 wird bemerkt, dass der fleissige junge Botanist Frölich im Herbst 1787 eine Reise
@@ -146,7 +146,7 @@ sondern sich überall in den öden Regionen hoch über den letzten Alphütten
 herumgetrieben zu haben. Mit dem Höhenmesser reichte er, mit seinen Fusseisen stieg
 er weit über die Wohnung der Menschen hinauf. Kein Mensch versperrte ihm den
 Weg, denn er begegnete Niemandem. «Der Wiederstein, einer der mächtigsten
-Ferner im Felsenstocke des Allgäu, erhebt sich über 9000 Fuss über die Meeresfläche
+Ferner im Felsenstocke des Allgäu, erhebt sich über 9000&nbsp;Fuss über die Meeresfläche
 und zeichnet sich durch seinen schroffen Abfall und die Felsenwände, die
 ihn umgeben, vor allen seinen Brüdern durch das Schreckbare aus. Noch nicht
 erstiegen, war er eine Jungfrau unter den Bergen, so gut als die der Schweiz.»
@@ -197,12 +197,12 @@ häufiger durch inländische Reisende in dieser Absicht besucht würden. Diess w
 die Industrie steigern, und jenen Speculationsgeist erwecken, der den Schweitzer
 alle Kleinigkeiten musterhaft zu benutzen lehrt.» Folgt Hinweis auf Mineralquellen,
 Molkenkur u. s. w. «Was diese Punkte (Reinlichkeit und Gasthäuser) im Illerthale
-betrifft, so lassen sie itzt schon nicht viel mehr zu wünschen übrig. .... An Seen
+betrifft, so lassen sie itzt schon nicht viel mehr zu wünschen übrig. ... An Seen
 ist das Illerthal nicht so reich (als Partenkirchen), aber viel reicher an herrlichen
 Nebenthälern und schönen sanften Mittelgebirgen; z. B. der Grinten, der Stoiber,
 das Rindalberhorn und der Hoheneifer, von wo man das ganze obere Schwaben,
 das herrliche Rheinthal, den Bodensee und die Gebirge bis tief in die Schweitz
-übersieht. ..... Wer hier Glätscher besuchen wollte, der fände sie ebenfalls auf
+übersieht. ... Wer hier Glätscher besuchen wollte, der fände sie ebenfalls auf
 der Mädeler Gabel und gegen den Hochvogel, die aber schwerer zu besteigen
 sind, und an Ausdehnung und Schönheit dem Plattacher Glätscher in Werdenfels
 nachstehen.»
@@ -309,13 +309,13 @@ Innsbruck 1839—1846. Von Joh. Jak. Staffler^[^224]^. Ueber die Wichtigkeit, di
 grundlegenden Arbeiten, den Nährquellen der folgenden Literatur, auch in touristischer
 Hinsicht beizumessen ist, brauchen wir kein Wort zu verlieren; uns sind
 sie von besonderem Werth als die ältesten Quellen für die Hochtouristik unseres
-österreichischen Gebietsantheiles.[^225] Wir heben das Wenige, was die Verfasser in
+österreichischen Gebietsantheiles.^[^225]^ Wir heben das Wenige, was die Verfasser in
 dieser Hinsicht ihren Zeitgenossen darbieten, heraus, in der Ueberzeugung, dass
 damals nicht viel mehr geboten werden konnte. Bei Weber gelangen von den
 Jochübergängen nur die allergebräuchlichsten kurz zur Erwähnung, und die Zahl
 der Gipfel, deren Besteigung empfohlen oder kurz angedeutet wird, ist sehr gering:
 «Die berühmte Bergspitze Dirstentritt, eigentlich der leicht ersteigliche Vorsprung
-der höheren Tarratonwand,[^226] mit entzückender Doppelaussicht. Der besteigenswerthe
+der höheren Tarratonwand,^[^226]^ mit entzückender Doppelaussicht. Der besteigenswerthe
 Turnelle. Der Säuling, leicht ersteiglich dem versuchten Wanderer, mit hochgepriesener
 Rundsicht. Der Muttekopf, der höchste und an Aussicht genussreichste Hochberg in
 diesem Theile des Oberlandes, 8760 Fuss über dem Meeresspiegel, leicht ersteiglich und
@@ -349,7 +349,7 @@ Felsen herabstürzt; am wasserreichsten ist aber der Stäubi bei Reutte. Im Alga
 einer Seitenschlucht des Bernhardsthales, welches in das Lechthal mündet, stürzt ein
 Giessbach 250‘ hoch vom Aermerskar herab.» Die Reisehandbücher von A. Schmidl,
 Wien 1844, und Jos. Reichl, Danzig 1848, Walther’s «Topische Geographie von
-Bayern», München 1844, sowie L. Steub’s^[^228]^: «Drei Sommer ın Tirol», München 1846,
+Bayern», München 1844, sowie L. Steub’s^[^228]^: «Drei Sommer in Tirol», München 1846,
 bringen uns nichts wesentlich Neues; doch muss besonders Steub’s mächtig fördernder
 Einfluss auf die Touristik im Allgemeinen auch für unser Gebiet anerkannt
 werden; dagegen haben wir von dem 1840—1854 erschienenen dreibändigen, mit
@@ -452,7 +452,7 @@ Wir erwähnen besonders: Biberkopf, Mädelegabel, Höffats, Schnecken,
 Wilde, Hochvogel. Es muss also für bewiesen gelten, dass diese Gipfel, die
 als‚ Eckpunkte des Dreiecksnetzes dienten, damals bestiegen wurden. Ausserdem
 erfolgte aber schon 1819—1820 die Detailaufnahme des Allgäu mittels des Messtisches
-zur Herstellung der Steuerpläne 1&nbsp;:&nbsp;5000. Diese ausserordentlich detaillirte
+zur Herstellung der Steuerpläne 1&nbsp;:&nbsp;5.000. Diese ausserordentlich detaillirte
 Aufnahme setzt nach sachverständigem Gutachten voraus, dass so ziemlich alle
 Gipfel und Spitzen, ausgenommen etwa einzelne scharfe Zacken, die durch ihre
 Form ein sicheres Anvisiren ermöglichten, mit Signalen versehen worden sind.
@@ -470,7 +470,7 @@ weisen, dass man sich ohne künstliche Signalisirung behalf.
 Die angeführten Arbeiten lieferten die Grundlage für die durch Oberlieutenant
 Aulitscheck vom topographischen Bureau 1822 vorgenommene Terrainaufnahme, die
 erste und einzige des Allgäu, deren Ergebniss in den Blättern des
-topographischen Atlas 1&nbsp;:&nbsp;50000 vorliegt; welche Gipfel hiebei bestiegen wurden,
+topographischen Atlas 1&nbsp;:&nbsp;50.000 vorliegt; welche Gipfel hiebei bestiegen wurden,
 lässt sich nicht ermitteln. Die Karte entbehrt der Höhenangaben, da officielle
 Höhenmessungen im Allgäuer Gebirge bis zum heutigen Tage überhaupt nicht
 ausgeführt wurden, die alsbald zu besprechende Grenze ausgenommen. Die bei
@@ -507,7 +507,7 @@ Höllhörner möchten wir jedoch das bei der Trettachspitze Gesagte geltend mach
 
 Die Grundlage aller heutigen geodätischen Arbeiten und Kartenwerke über
 Tirol und Vorarlberg bildet die mit grosser Sorgfalt vom militär-geographischen
-Institut ausgeführte Triangulirung ı851—ı855. Das vom k. u. k. Oberst E. Pechmann 1865
+Institut ausgeführte Triangulirung 1851—ı855. Das vom k. u. k. Oberst E. Pechmann 1865
 herausgegebene Verzeichniss der trigonometrisch bestimmten Höhen
 führt eine Reihe von Gipfeln an, von denen ausdrücklich versichert wird, dass sie
 im trigonometrischen Netz mit grösster Verlässlichkeit bestimmt und durch Stein-
@@ -585,7 +585,7 @@ sie gefahrlos, wenn der Fuss dazu eingerichtet ist. Unentbehrlich sind daher die
 grobgenähten Schuhe mit dicken Sohlen, Nägeln und Griffen, die Steigeisen und
 der Bergstock...»
 
-Die geognostische Durchforschung wurde durch Bergmeister C.W. Gümbel^[^242]^
+Die geognostische Durchforschung wurde durch Bergmeister C. W. Gümbel^[^242]^
 im Allgäu hauptsächlich im Sommer und Herbst 1854 durchgeführt; die Ergebnisse
 sind niedergelegt in dem 1861 erschienenen Werke: «Geognostische Beschreibung
 des bayrischen Alpengebirges.» Auch die österreichischen Theile unseres Gesammtgebietes
@@ -659,12 +659,12 @@ unserem Gebiet angehören, bestimmt und mehr oder weniger mit Notizen begleitet
 werden, die allerdings nur mit Kritik zu benützen sind. Dass heute vielbesuchte
 Berge des Bregenzerwaldes damals die Fremden nicht anlockten, erfahren wir gelegentlich
 der Schilderung seiner Besteigung der Damülser Mittagspitze 1856 und
-des Hohen Freschen ı859. In Dr. J. F. Vonbun’s^[^247]^: «Feldkirch und seine Umgebungen»,
+des Hohen Freschen 1859. In Dr. J. F. Vonbun’s^[^247]^: «Feldkirch und seine Umgebungen»,
 Innsbruck 1868, finden wir die Besteigung des Hohen Freschen
 durch das Laternserthal, sowie die der Hohen Kugel näher geschildert. Endlich
 haben wir der «Landeskunde» von Dr. Jos. Ritter von Bergmann^[^248]^, Innsbruck 1868,
-zu gedenken, in der auch die bisherige Vorarlberger Reiseliteratur zusammen-
-gestellt ist.
+zu gedenken, in der auch die bisherige Vorarlberger Reiseliteratur zusammengestellt
+ist.
 
 Den fünften Zeitraum endlich fasst der Name «Alpenverein» zusammen.
 Zwar sind die glänzenden Leistungen, denen wir sofort im Allgäu begegnen werden,
@@ -725,7 +725,7 @@ trug. Wir sehen hiebei vom Barth’schen «Wegweiser» ab, dessen Publikum erst
 kommen musste; dass es kam, wird nicht in letzter Linie dem «Führer» zuzuschreiben sein,
 unter dessen Mitarbeitern Barth’s Name voransteht. Weniger
 bekannt dürfte sein, dass Waltenberger einen beträchtlichen Theil seiner Zeit
-auf Herstellung einer grossen Allgäuer Karte (1&nbsp;:&nbsp;25,000) und der hiezu nöthigen
+auf Herstellung einer grossen Allgäuer Karte (1&nbsp;:&nbsp;25.000) und der hiezu nöthigen
 genauen Messungen verwandte, aber aus finanziellen Rücksichten die Vollendung
 unterlassen musste.^[^250]^
 
@@ -767,7 +767,7 @@ erinnert werden, dass uns die österreichischen Quellen theilweise schwieriger
 zugänglich sind; sehr in Betracht kommt auch die Gepflogenheit mancher hervorragenden
 Touristen, über ihre Leistungen wenig oder Nichts bekannt zu geben;
 endlich ist der Umstand zu berücksichtigen, dass die meisten Leistungen der neueren
-Zeit angehören, über .sie also — wenn überhaupt — in der Regel an allgemein
+Zeit angehören, über sie also — wenn überhaupt — in der Regel an allgemein
 zugänglicher Stelle berichtet ist, wodurch uns gegenüber den zahlreichen unveröffentlichten
  oder schwer zugänglichen Nachrichten, die wir zu bringen haben, eine
 kürzere Fassung auferlegt wird.
@@ -842,7 +842,7 @@ Wenden wir uns zunächst zur Geschichte des Hauptgipfels, der **Mädelegabel**^[
 2643&nbsp;m. im engeren Sinne, so wird als erster Besteiger gewöhnlich O. Sendtner
 genannt. Dass er selbst dieser Meinung war, legt von seinen eigenen Aeusserungen
 nur die Stelle nahe: «Das ist die Jungfrau des Allgäu, deren Felsenantlitz von
-8105 Par. F. Höhe unbewegt in die schattige Tiefe schaut.» Genauere Kenner der
+8105&nbsp;Par. F. Höhe unbewegt in die schattige Tiefe schaut.» Genauere Kenner der
 Literatur beanspruchen diese Ehre für Dr. Zör unter Berufung auf folgende Stelle
 bei Stützle: «In gewöhnlichen Sommern lastet nämlich eine ungeheure Masse
 Schnee auf der Mädelergabel — und kein Sterblicher, der nicht in einer grausen Eiskluft
@@ -936,7 +936,7 @@ Fragen wir nach der ersten touristischen Besteigung von der Einödsbacher
 Seite, so tritt uns Gross mit der Angabe entgegen: «Vincenz (Schraudolph) ist
 der erfahrenste und zuverlässigste Führer für den Besteiger des Mädeli von Einödsbach
 aus und mit seiner Hilfe hat der Botaniker Sendtner der stolzen Jungfrau
-den Strohkranz auf das Haupt gedrückt. .. » Die Widersprüche, die hier obwalten,
+den Strohkranz auf das Haupt gedrückt. ... »Die Widersprüche, die hier obwalten,
 lassen sich augenblicklich nicht sicher lösen. Vincenz war ein Vetter des
 Führers Baptist und ist 1858 im Bacher Gewänd verfallen. Sendtner hat allerdings,
 nach seinen Barometermessungen zu schliessen, die Mädelegabel zweimal
@@ -1107,8 +1107,8 @@ Abstieg zur Scharte südlich des Gipfels und gelangte durch die Hochregionen
 des Schochenalpthales zum Waltenberger Haus. Mit dieser auch für Schraudolph
 neuen Tour ist die Verbindung zwischen Hohem Licht und Mädelegabel eröffnet,
 1884 wurde von Dr. Fürst, Reitner und Rechtsanwalt Schuler von Kempten
-mit Victor Schraudolph der Nordanstieg behufs Feststellung der späteren Weg-
-anlage wiederholt. Am 20. Juli 1885 erreichten Lieutenant Huber und Jäger mit
+mit Victor Schraudolph der Nordanstieg behufs Feststellung der späteren Weganlage
+wiederholt. Am 20.&nbsp;Juli 1885 erreichten Lieutenant Huber und Jäger mit
 B. Schraudolph vom Gipfel der Mädelegabel in 2¾&nbsp;Stunden den Gipfel des
 Hohen Lichtes. Vom Südostfusse des letzteren wurde in einer engen und steilen,
 oben mit Schnee gefüllten Schuttrinne ziemlich schwierig zum Sattel aufgestiegen,
@@ -1155,21 +1155,21 @@ vergebliche Versuche gemacht, den Gipfel auf der bairischen Seite zu ersteigen;
  Thal querend zur Hochalpe am Hohen Licht. Am 17. Juli 1881 wird der directe
  Anstieg von der bairischen Seite durch Koesel mit Schraudolph wiederholt.
  «Von Einödsbach zur Biber Alpe und direct von hier aus über die Felsen zur Spitze
- in 4½, Stunden; die Tour ist zwar etwas kürzer, aber viel beschwerlicher als die
+ in 4½&nbsp;Stunden; die Tour ist zwar etwas kürzer, aber viel beschwerlicher als die
  gewöhnliche. Abstieg, wie ich glaube, zunächst eine Strecke auf dem gewöhnlichen
  Wege, dann links unter den Rappenköpfen durch, die grossen Schuttkare am Südabhang
  der Hauptkette querend, zur Steinscharte, auf den Linkerskopf^[^283]^, hinab ins
  Bacherloch und nach Einödsbach. Die ganze Reise ist sehr mühsam und dürfte
- sich nicht für Jedermann empfehlen.» Aechnlich stieg am 29. Juni 1883 Bracker
+ sich nicht für Jedermann empfehlen.» Aehnlich stieg am 29. Juni 1883 Bracker
  mit Schraudolph vom Biberkopf ab, um über die Scharte zwischen den Rappenköpfen
  zum Rappensee^[^282]^ zu gelangen. M. Reichert, Josef und Heinrich Zametzer
  nahmen am 9. August 1884 ebenfalls den Abstieg «zunächst eine Strecke auf dem
  aufwärts verfolgten Ostgrate zurück, dann nach Norden hinab über theils begrünte,
  theils geröllbedeckte Schichtenstufen und Bänder, um nach langwieriger Querung
  des Hochalpenthales noch das Hohe Licht zu ersteigen und nach Lechleiten zurückzukehren.
- » Am 26. August 1884 stieg Prof. Dr. Zöppritz von Königsberg in
- Preussen mit Schraudolph vom Biberkopf hinab auf die Oberbiber Alpe, der erste
- Abstieg auf dieser Linie. Jäger bemerkt a. a. O., dass Schraudolph diese bairische Linie
+ »Am 26. August 1884 stieg Prof. Dr. Zöppritz von Königsberg in Preussen mit
+ Schraudolph vom Biberkopf hinab auf die Oberbiber Alpe, der erste Abstieg auf
+ dieser Linie. Jäger bemerkt a. a. O., dass Schraudolph diese bairische Linie
  erst dreimal und nur mit ganz sicheren Touristen gemacht habe; ferner
  habe er in Lechleiten erfahren, es sei vor einigen Jahren ein berüchtigter Wildschütze
  auf der Südwestseite herabgestiegen, was bis jetzt noch Niemand nachgemacht habe.
@@ -1298,8 +1298,8 @@ dem Bregenzerwald wird uns berichtet, dieser Berg sei vor ungefähr 50 Jahren vo
 einer grösseren Anzahl Einheimischer mit grossen Schwierigkeiten erstmals erstiegen
 worden. Wir können diese Angabe dahin richtigstellen, dass eine Ersteigung geegentlich
 der Vermessungen 1816 — 1820 stattgefunden haben muss. Was die Volkserinnerung
-1856: «Auf der Spitze des Widdersteins — so geht die Sage — lag noch vor nicht
 aus einer Signalstange zu bilden vermag, zeigt die Notiz bei Dr. Schnars^[^303]^
+1856: «Auf der Spitze des Widdersteins — so geht die Sage — lag noch vor nicht
 langer Zeit ein zugehauener Balken, ein Stück der Arche Noahs; den dazu gehörigen
 Anker will man auf einem Berge bei Telfs im Oberinnthale gefunden haben.»
 
@@ -1308,8 +1308,8 @@ Trobitius, dem Arzt Dr. Henne von Kempten und einigen ungenannten Nichtbotaniker
 2. August 1831 ausgeführte Besteigung, der bisher im 15. Jahrgang,
 I. Band der «Flora» (Regensburg 1832) schlummerte; es ist der älteste gedruckte
 Hochtourenbericht unseres Gesammtgebietes. Koeberlin schreibt: Die Obengenannten
-«luden mich auch vergangenes Jahr zur Theilnahme an einer Gebirgs-
-Reise ein, wonach ich schon längst wieder sehnliches Verlangen trug». Folgt
+«luden mich auch vergangenes Jahr zur Theilnahme an einer Gebirgs-Reise ein,
+wonach ich schon längst wieder sehnliches Verlangen trug». Folgt
 schwungvolles Lob des Hochgebirges und Schilderung der Zugangsroute. «Am Abend
 ziemlich spät erreichten wir den Hauptort des Thales, Hirschegg, und bekamen bei
 dem dortigen Landarzt ein recht ordentliches Quartier. Nach kurzer Nachtruhe
@@ -1325,7 +1325,7 @@ Fusse des Berges auf südöstlicher Seite bis zur obersten Spitze hinauf, die ku
 Ruhefristen eingerechnet, in einem fort 9 Stunden Steigens. ... Nachdem wir
 schon auf eine ziemliche Höhe (die obere Gentschel genannt) gekommen und einige
 Schneerisse schon weit unter uns waren, gewann alles für den Botaniker ein noch
-günstigeres Ansehen.... Das Steigen wurde von nun an immer beschwerlicher
+günstigeres Ansehen. ... Das Steigen wurde von nun an immer beschwerlicher
 und mitunter auch gefährlicher, obwohl unsere Führer den Berg grösstentheils
 umgingen, so dass wir den Hauptgipfel von der Abendseite bestiegen. Tiefe
 Risse mit Eismassen angefüllt mussten durchschritten werden, und das Gerölle
@@ -1337,10 +1337,10 @@ sämmtliche Botaniker aber drangen durch, auch den letzten steilen Weg bis zum
 Gipfel noch zu vollenden. Wir waren nun ganz in die Region der Felsen und
 Felstrümmer und Schneefelder gekommen, wo nur hie und da noch in den Rissen
 und an ganz geschützten Orten eine und die andere Pflanze von niederem Wuchs
-und dichte Rasen bildend, gedieh.... Endlich nach schwerer Arbeit und angreifendem
+und dichte Rasen bildend, gedieh. ... Endlich nach schwerer Arbeit und angreifendem
 Steigen über den Grat des Berges, wo zu beiden Seiten Abgründe von
 mehreren tausend Fuss Tiefe gähnten, erreichten wir doch mit Gottes Hülfe den
-obersten Gipfel, der eine Höhe von 8660 Fuss über der Meeresfläche hat. Es
+obersten Gipfel, der eine Höhe von 8660&nbsp;Fuss über der Meeresfläche hat. Es
 könnten etwa 20 Personen auf ihm bequem Platz haben, und von österreichischen
 Trigonometern, die ihn vor vielen Jahren bestiegen haben, ist ein Signalzeichen oben
 errichtet. Hier fanden wir nun reichlichen Ersatz für alle unsere
@@ -1358,7 +1358,7 @@ Endlich hatten wir doch alle unter dem Schirme Gottes die gefährlichsten
 Stellen unversehrt zurückgelegt, und kamen wieder auf Weideplätze, wo keine dringende
 Gefahr mehr war. ... Wir wendeten uns nun auf eine andere Seite des
 Berges, so dass wir auf der nordwestlichen herabstiegen und ihn also ganz umgingen.
-Der Weg führt durch üppige Weiden.... Das Oertchen Baad^[^305]^ liegt auf
+Der Weg führt durch üppige Weiden. ... Das Oertchen Baad^[^305]^ liegt auf
 dieser Seite zunächst am Fusse des Berges und hat seinen Namen von einer Quelle
 Schwefelwasser, das zu Zeiten zum Trinken und Baden gebraucht wird. Nach
 kurzem Ausruhen eilten wir, mit unsern (botanischen) Schätzen belastet, unserm
@@ -1415,7 +1415,7 @@ Kirchlstein zur March kommend, einen Versuch, über die dortigen Wände
 aufzusteigen. Ein von rechts unten nach links oben ziehendes schmales Felsband
 wurde verfolgt, bis es in der jähen, keinerlei Haltpunkte gewährenden Wand sich
 dermassen abschrägte und verschmälerte, zugleich steil und gewunden aufwärts zog,
-“dass die Begehung zunächst dem äusserst geübten, mit scharfen Eisen versehenen
+dass die Begehung zunächst dem äusserst geübten, mit scharfen Eisen versehenen
 Führer überlassen werden musste. Da Spiehler mit diesem Hilfsmittel nicht versehen war,
 begnügte er sich mit Constatirung der durch Wolf nachgewiesenen
 Möglichkeit des Aufstiegs von dieser Seite, die von Barth seinerzeit ebenso wie auch
@@ -1441,7 +1441,7 @@ für die nicht direct anwohnende Menschheit ein dichter Schleier, als
 H. von Barth am 2. September 1869, vom Allgäu kommend, das Hornbacher Joch
 überschritt, um in wenigen verwegenen Streifzügen das Material zu seinen
 bewunderungswürdigen Schilderungen zu erholen, denen die Literatur bis heute nichts
-wesentlich Neues beizufügen hatte. Der Aufstieg begann ¼, Stunde oberhalb der
+wesentlich Neues beizufügen hatte. Der Aufstieg begann ¼&nbsp;Stunde oberhalb der
 Petersbergalpe im Hornbachthal^[^364]^; hier leitet ein schwer findbares Steiglein das steile
 Gehänge hinauf über den Hinteren Bärenkopf zum Plateau der March, von wo
 zur Scharte westlich der Marchspitze aufgestiegen wurde. «Noch bevor man die
@@ -1509,7 +1509,7 @@ des Gehänges eine Fortsetzung des Wanderns von Band zu Band ausgeschlossen
 erscheint. Im erwähnten Kamin aufwärts zum Grat und mit ungefähr 25 Schritt
 in östlicher Richtung auf dem Grat zum Gipfel (von der Scharte 1 Stunde).
 Abstieg auf der gleichen Linie zur Marchhütte, Petersbergalpe und Hinterhornbach
-5½, Stunden.» (Wolff.) Dies scheint der beste Anstieg gewesen zu sein.
+5½&nbsp;Stunden.» (Wolff.) Dies scheint der beste Anstieg gewesen zu sein.
 
 :::: {.wrap-100  .break-before}
 ![Die Hornbacher Kette von Süden.](Ostalpen_Band_I_74b.jpg "Ostalpen_Band_I_74b.jpg"){#b074b}
@@ -1583,8 +1583,8 @@ rechts dagegen liess sich zwischen losen Felstrümmern auf schmalen, mit überh�
 Schnee bedeckten Bändern schräg ansteigend ohne besondere Schwierigkeiten
 vordringen. Links gewandt, wurde in einer vermeintlich am Grat mündenden Rinne
 hinangeklettert und zuletzt über eine steile, von zwei glatten Felstafeln
-eingeengte Platte mühsam hinaufgestemmt, womit der Gipfel erreicht war (3 Stunden
-vom unteren Ende der Rinne, 6 Stunden von Hinterhornbach). Der Abstieg
+eingeengte Platte mühsam hinaufgestemmt, womit der Gipfel erreicht war (3&nbsp;Stunden
+vom unteren Ende der Rinne, 6&nbsp;Stunden von Hinterhornbach). Der Abstieg
 erfolgte im Ganzen ebenso; bei der Umgehung des jähen Gratabsatzes wurde eine
 höhere Linie eingehalten, die an schmale, schneeüberwehte Felsgalerien führte, die
 gebückt überkrochen werden mussten. Die Besteigung muss, wenn auch nicht
@@ -1608,7 +1608,7 @@ Minuten mühsam über Geröll die fast horizontale Gipfellinie erreicht war. Dic
 neben dem eigentlichen Gipfel war ein Stück aus dem Grate herausgestürzt,
 nach der Farbe ein offenbar erst kürzlich erfolgter Bergbruch. Nicht ohne Mühe
 wurde durch den engen dadurch entstandenen Riss über etliche ganz lockere
-Felsstufen der Culminationspunkt gewonnen (6½, Stunden von Hinterhornbach).
+Felsstufen der Culminationspunkt gewonnen (6½&nbsp;Stunden von Hinterhornbach).
 Von hier wurde erkannt, dass man auf dem Ostgrat dem Gipfel ganz nahe gewesen war
 und oberhalb des bewussten Absturzes keine weitere Schwierigkeit
 bestand. Im Abstieg wurde etliche Schritte der Hauptgrat gegen Östen verfolgt,
@@ -1617,7 +1617,7 @@ Aufstiegslinie anzuschliessen.^[^321]^ Hier sei bemerkt, dass gerade im Sommer 1
 Felsabstürze an der Urbeleskarspitze in einem Massstabe erfolgten, dass man z. B.
 in Bschlabs^[^323]^ glaubte, einen feuerspeienden Berg vor sich zu haben.^[^322]^
 
-Am 1. September 1889 musste A.Spiehler, dem nur von Barth’s Beschreibung
+Am 1. September 1889 musste A. Spiehler, dem nur von Barth’s Beschreibung
 bekannt war, mit Führer Erh. Wolf ebenfalls an der Ostkante umkehren und
 gerieth genau auf denselben Anstieg wie die vorige Partie; trotz starkem Neuschnee
 boten nur die Querung der Rinne und später ein wenig Vorsprünge
@@ -1670,8 +1670,8 @@ Hauptgipfel in nordöstlicher Richtung vor sich; an schmalen Geröllbändern ste
 man an der linken Seite des Grates zu einer Einsattelung desselben hinab, einzelne,
 an den jäh abschiessenden Platten festgewachsene Grasstufen erleichtern den
 Weg nach der Gipfelkuppe. Ins Hornbachthal fällt die Nordseite des Glimspitzes
-schroff ab, doch erscheint eine Ersteigung von dieser Seite herauf als nicht durch-
-aus unthunlich, ist auch in der That möglich.»
+schroff ab, doch erscheint eine Ersteigung von dieser Seite herauf als nicht durchaus
+unthunlich, ist auch in der That möglich.»
 
 Die einzige noch bekannte touristische Ersteigung geschah am 20. August
 1890 durch A. Spiehler mit Erh. Wolf. Von Häselgehr wurde ins obere Wasserfallthal
@@ -1749,7 +1749,7 @@ wurde. Noch bedenklicher war die lange Gratstrecke westlich bis zum Gipfel. In
 der Hornbacher Kette ist diese Tour weitaus die schlimmste. Der ziemlich geräumige
 Gipfel zeigte sich unberührt. Der Aufstieg erforderte 1 Stunde, der Abstieg
 fast 1½ Stunden. Der weitere Abstieg wurde in das ausserordentlich wilde Bretterkar
-hinab genommen, das noch manche Kletterei erheischte. Der Gipfel war erst 5&nbsp;U. ı5
+hinab genommen, das noch manche Kletterei erheischte. Der Gipfel war erst 5&nbsp;U.&nbsp;15
 verlassen worden, bei Einbruch der Nacht war die Region der Felsabsätze und
 Schneefelder noch nicht überschritten und nach vielfachen Kreuzungen musste um 11&nbsp;U.
 an einem Steilhange gehalten und das Tageslicht erwartet werden. Folgenden Tages
@@ -1978,7 +1978,7 @@ Der zum Oythal jäh abstürzende Sallhenker ist von rückwärts gut
 zu besteigen; auch die Kleine Höfats ist vom Kleinen Loch zugänglich, und da
 man von hier aus auch zur Höfatsscharte oder ins Rothe Loch gelangen kann, so
 liesse sich die Höfatsbesteigung von jedem der drei Tobel her ausführen. Den Abstieg
-von der Höfatsscharte ins. Rothe Loch hat Blattner zwar nicht zu Jagdzwecken, aber
+von der Höfatsscharte ins Rothe Loch hat Blattner zwar nicht zu Jagdzwecken, aber
 behufs Edelweissholen dutzendmale ausgeführt; im Gegensatz zu Anderen erblickt er
 hierin nichts Aussergewöhnliches: «meist sehr steiles Gras, aber
 gut zu gehen»; natürlich ist sein Massstab ein sehr subjectiver. Den Mittleren
@@ -2054,7 +2054,7 @@ schreiten ‘hinter dem Seebache’ oder ‘vor dem Seebache’ die wahrhaft
 grauenhaften Seewände in das Oythal herab. Für jede Dame ist der Pfad durch
 den Kühgeren, das Geleit und in den Seeanger des Oythales passirbar, hingegen
 macht jener die ‘Fischer-Rinne’ herab Manchen stutzig, welcher die Höhe, der
-Allgäuer sagt “die Helle’, nicht gut verträgt. Der Weg über die Fischer-Rinne
+Allgäuer sagt 'die Helle’, nicht gut verträgt. Der Weg über die Fischer-Rinne
 wird durch von Barth näher geschildert, ausserdem die Besteigung des Wengenkopfes
 (ungefähr 2260&nbsp;m.) und der Anstieg zu den Geisalp Seen und über den
 Westgrat zum Nebelhorn bekanntgegeben, der seitdem nicht oft wiederholt
@@ -2148,7 +2148,7 @@ Hornbachthale aus erstieg. «Um 10&nbsp;U. kamen wir oben gut an; wenn ich wiede
 hinaufgehe, so gehe ich nicht wieder ins Weitthal, über Fuchsensattel ist es näher.»
 Schwerlich wird der directe Anstieg vom Weitthal gemeint sein, der ja kürzer
 wäre als über Fuchsensattel. Wahrscheinlich wurde vom oberen Weitthal auf die
-bairische‘ Seite übergegangen und dann der gewöhnliche Weg über den Balken
+bairische Seite übergegangen und dann der gewöhnliche Weg über den Balken
 genommen; so wurde noch unlängst ein Tourist geführt, der von Hinterhornbach
 durchs Weitthal aufsteigen wollte. Auch die Schilderung Schaubach’s ist nicht
 ganz klar, nur das wird deutlich, dass man damals stets über den Kalten Winkel
@@ -2174,12 +2174,12 @@ Oberlande reichende Aussicht belohnte die Mühen dieser schrecklichen Nacht.»
 
 Die erste eingehende Schilderung des gewöhnlichen Aufstieges bringt Gross
 1856. Er geht vom Schneefeld zur Kaltenwinkel Scharte, tritt dort auf die Südseite über
-und folgt nun der sogenannten «Schnur», einem Felsbande, das in süd-
-östlicher Richtung zum Gipfel führt (siehe Zeichnung). Missverständlicher Weise
+und folgt nun der sogenannten «Schnur», einem Felsbande, das in südöstlicher
+Richtung zum Gipfel führt (siehe Zeichnung). Missverständlicher Weise
 verstehen Gross, Barth und Andere unter Schnur eine steile, nicht leicht zu
 überschreitende Rinne, welche die wirkliche «Schnur» unterbricht und auf der Zeichnung
 ebenfalls deutlich zu erkennen ist. Der Classiker dieses wie so manchen
-anderen Gipfels ist von Barth, der am ı9. Juli 1869 erst spät am Vormittag von
+anderen Gipfels ist von Barth, der am 19.&nbsp;Juli 1869 erst spät am Vormittag von
 Sonthofen abrückte und auf dem Gipfel übernachtete, um Tags darauf seinen berühmten
 directen Abstieg über die Südkante ins Rosskar und über Eckalpe nach
 Hinterhornbach auszuführen. Heute wissen wir, dass das Aufregende der Tour nur
@@ -2189,7 +2189,7 @@ von ihm, sonst aber wahrscheinlich vor von Barth von Niemand ausgeführt worden.
 Einen ganz neuen und seither nicht wiederholten Aufstieg vollführten am
 20. Juli 1879 von Feilitzsch und Rösch über die Südflanke des Ostgrates. Als
 erstes Ziel diente die Gamsplaiss, die sich als grüner Fleck unter dem Ostgrat auffällig
-bemerkbar macht. Ueber eine Steilstufe brüchigen Gesteins von etwa 5o Meter Höhe
+bemerkbar macht. Ueber eine Steilstufe brüchigen Gesteins von etwa 50&nbsp;Meter Höhe
 wurde die untere und über eine zweite von etwa 30 Meter Höhe, deren lockeres Gestein
 vielfach mit Rissen und Sprüngen durchsetzt ist, die obere Gamsplaiss gewonnen. Alsbald
 wurde in der nächsten, schräg rechts aufwärts führenden Rinne aufgestiegen und
@@ -2255,7 +2255,7 @@ des obersten Weitthales erreicht und nunmehr unter annähernder Beibehaltung der
 Höhe das Ostgehänge des Wildenstocks durch das Vordere Wildenthal hindurch
 bis zu den Wilden Schnüren gequert, von wo direct zur Jochalpe abgestiegen
 wurde. Ueber die Möglichkeit des Anschlusses zum Hornbacher Joch gab die von
-Spiehler mit Brutscher am 19. September ı890 vom Oythal aus unternommene
+Spiehler mit Brutscher am 19. September 1890 vom Oythal aus unternommene
 Recognoscirung die erforderlichen Aufschlüsse.
 
 Vom Luitpoldhause her bietet sich noch die Variante über die Kreuzspitze
@@ -2408,7 +2408,7 @@ einer Rinne, die ihn etwas südlich vom Hauptgipfel auf den Grat führte.
 Die abgestürzte Signalstange wurde aufgerichtet. Abstieg auf dem Grat über das
 Kugelhorn zum Wildsee. Am 6. September 1885 gelangte Chr. Wolff von Hinterstein über
 Schreckenalpe, Kirchdachscharte und Knappenköpfe^[^375]^ in 4½, Stunden zum
-Kugelhorn und weiter in ı Stunde zum Rauhhorn. Die directe Fortsetzung der
+Kugelhorn und weiter in 1&nbsp;Stunde zum Rauhhorn. Die directe Fortsetzung der
 Gratwanderung in der Richtung zur Schafwanne erschien möglich, aber wegen einer
 hohen Stufe, mit welcher der Gipfelaufsatz in dieser Richtung zum Grat abfällt,
 unbequem; deshalb eine Strecke auf dem Grat wieder zurück, bis eine unverkennbare,
@@ -2786,7 +2786,7 @@ gewesen zu sein oder doch nicht die heutigen Wegverhältnisse dargeboten zu habe
 
 [^306]: [Autographirter Wegweiser und Amthor's Alpenfreund 1874.]{.footnote}
 
-[^307]: [*Hornbacher Kette*:  vergleiche [Hornbacher](https://de.wikipedia.org/wiki/Hornbachkette)]{.footnote}
+[^307]: [*Hornbacher Kette*:  vergleiche [Hornbachkette](https://de.wikipedia.org/wiki/Hornbachkette)]{.footnote}
 
 [^308]: [*Grosser Krottenkopf*:  vergleiche [Großer Krottenkopf](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Krottenkopf)]{.footnote}
 

@@ -57,7 +57,7 @@ Gipfeln der Karwendelgruppe.
 
 :::
 
-## 1. Die Falken.^[^806]^
+### 1. Die Falken.^[^806]^
 
 ::: justified
 
@@ -256,7 +256,7 @@ Bergfreunde.
 
 :::
 
-## 2. Vordere Karwendelkette.
+### 2. Vordere Karwendelkette.
 
 ::: justified
 
@@ -281,7 +281,7 @@ die **Oestliche Karwendelspitze**^[^819]^ 2538&nbsp;m., früher auch Wankspitze 
 zwar ohne besondere Schwierigkeiten über die Schutt- und Grasgehänge des
 «Wank». Auf demselben Wege zurückkehrend, wandte er sich am selben Tage noch
 dem nächsten Gipfel zu, indem er das westlich benachbarte Vogelkar durchkreuzte
-und auf ähnlichem Wege wie die Karwendelspitze auch die **Vogelkarspitze**[^820]
+und auf ähnlichem Wege wie die Karwendelspitze auch die **Vogelkarspitze**^[^820]^
 2524&nbsp;m. erstieg. Diese Spitze gewährt einen besonders günstigen Einblick in die
 nächstsüdliche Hinterauthaler Kette, wie aus der Beilage: «Aussicht von der Vogelkarspitze»
 ersichtlich wird. Zum Schluss erstieg Barth am selben Tage auch noch die
@@ -442,12 +442,11 @@ ausgeführt wurde.
 
 Die **Lärchfleckspitzen** aber (Westliche 2335 m., Oestliche 2348 m.), welche
 H. von Barth entgangen waren, wurden auf einem ungewöhnlich schwierigen
-Wege von H. Schwaiger, C. Weltin und J. Seibert aus München zuerst be-
-stiegen. Sie gingen vom Kirchlkar aus über die Kirchlscharte und von hier dem
-in zerrissenen Thürmen und Felsnadeln abbrechenden Hauptkamm bald südlich,
-bald nördlich auf schmalen Fels- und Grasbändern ausweichend, schliesslich über
-den südlich zum Gipfel ziehenden begrünten Seitenast, der Ostbegrenzung des
-Kirchlkares.
+Wege von H. Schwaiger, C. Weltin und J. Seibert aus München zuerst bestiegen. Sie
+gingen vom Kirchlkar aus über die Kirchlscharte und von hier dem in zerrissenen
+Thürmen und Felsnadeln abbrechenden Hauptkamm bald südlich, bald nördlich auf
+schmalen Fels- und Grasbändern ausweichend, schliesslich über den südlich zum
+Gipfel ziehenden begrünten Seitenast, der Ostbegrenzung des Kirchlkares.
 :::
 
 ## II. Hintere Karwendel- oder Birkkarkette.^[^838]^
@@ -874,8 +873,9 @@ der Eiskarlspitze südlich herabzieht und Oedkarl und Spitzkar trennt. Diesen Sc
 fand er zuerst breit und mit Geröll bedeckt, schliesslich in wilde Zacken
 aufgelöst. Doch waren die Schwierigkeiten nicht aussergewöhnlich, und um ½7&nbsp;U.
 betrat er den Gipfel. Er kehrte auf demselben Weg zurück, stieg im Oedkarl noch
-einige 100 Meter abwärts und legte sich, in der Krummholzregion angelangt, im Alpen-
-rosengestrüpp zur Ruhe. Von Feuer und ausreichenden Nahrungsmitteln keine Rede! —
+einige 100 Meter abwärts und legte sich, in der Krummholzregion angelangt, im
+Alpenrosengestrüpp zur Ruhe. Von Feuer und ausreichenden Nahrungsmitteln
+keine Rede! —
 
 Am nächsten Morgen versuchte nun der Unermüdliche, in das westlich benachbarte
 Spritzkar überzusteigen, um die gleichnamige Spitze zu erklimmen. Doch
@@ -901,7 +901,7 @@ Erst zehn Jahre später wagten sich wieder Freunde aufregender Bergfahrten an
 die wilden Gesellen des Vomperlochs. Am 25. Juni 1881 sehen wir Anton Blaim und
 H. Schwaiger^[^868]^ aus München auf dem stolzen Haupte des Hochglücks und wieder
 ein Jahr später, am gleichen Tage, H. Camelly, H. Huppmann und H. Schwaiger^[^869]^
-auf dessen westlicher Rivalin, der. Eiskarlspitze. Ebenfalls im Jahre 1881
+auf dessen westlicher Rivalin, der Eiskarlspitze. Ebenfalls im Jahre 1881
 erhielt das Hochglück einen Besuch durch Ludwig Purtscheller, der, die Gefährlichkeiten
 der Oestlichen Hochglückscharte wohl erkennend, seinen Aufstieg zur westlichen Scharte
 nahm und den Felsthurm im Hauptgrate überkletterte, der Barth bewogen hatte,
@@ -913,7 +913,7 @@ durch das wilde Oedkarl.
 
 Was aber Barth nicht erreicht hatte, durch das Spritzkar direct aus dem
 Vomperloche einen Weg zur Spritzkarspitze zu erzwingen, das führten am 6.&nbsp;Juli
-1884 J. Pock[^901] und Carl Wechner † aus Innsbruck in Gesellschaft von Julius
+1884 J. Pock^[^901]^ und Carl Wechner † aus Innsbruck in Gesellschaft von Julius
 Seibert und H. Schwaiger^[^873]^ aus München aus. Inzwischen war aber, dank der
 Section Innsbruck des D. u. Oe. A.-V., die Pfadlosigkeit des verrufenen Vomperloches
 durch Anlage zweier Wege gehoben. Dadurch war auch den genannten
@@ -1591,7 +1591,7 @@ des Andreas Hofer geschmückten Fahne versehen wurde.
 
 Um die Mitte des 19. Jahrhunderts mehren sich die Nachrichten über Ersteigungen.
 
-So besuchte Carl von Sonklar^[^920]^, damals Oberlieutenant, den **Grossen Solstein**[^921]
+So besuchte Carl von Sonklar^[^920]^, damals Oberlieutenant, den **Grossen Solstein**^[^921]^
 1846 und pries ihn als einen der schönsten Aussichtspunkte der Ostalpen.^[^919]^
 
 Ferner erstiegen Pfaundler und Trentinaglia, wie wir es auch vom
@@ -1823,7 +1823,7 @@ mit L. Gleitsmann.]{.footnote}
 
 [^819]: [*Oestliche Karwendelspitze*:  vergleiche [Östliche Karwendelspitze](https://de.wikipedia.org/wiki/%C3%96stliche_Karwendelspitze)]{.footnote}
 
-[^820]: [*Vogelkarspitze*:  vergleiche [Vogelkar](https://de.wikipedia.org/wiki/Vogelkarspitze)]{.footnote}
+[^820]: [*Vogelkarspitze*:  vergleiche [Vogelkarspitze](https://de.wikipedia.org/wiki/Vogelkarspitze)]{.footnote}
 
 [^821]: [Z.A.V. 1876, 64.]{.footnote}
 

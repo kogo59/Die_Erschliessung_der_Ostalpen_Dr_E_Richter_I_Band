@@ -87,7 +87,7 @@ der Arbeit Einzelnes zu erwähnen sein wird.
 
 Eine neue kartographische Darstellung ist von Seite des königl. bairischen
 Topographischen Bureaus zu erwarten, theils durch Neuherausgabe einzelner
-Blätter des «Topographischen Atlas» (1: 50.000), von denen das Blatt Tölz in
+Blätter des «Topographischen Atlas» (1:50.000), von denen das Blatt Tölz in
 zwei Sectionen zu Anfang der Achtzigerjahre in Kupferstich erschienen ist, das Blatt
 Auerburg (Schlierseer Gebiet und bairisches Innthal) aber 1893 in Heliogravure
 erscheinen soll, theils in vorläufiger Herausgabe von «Positionsblättern» in

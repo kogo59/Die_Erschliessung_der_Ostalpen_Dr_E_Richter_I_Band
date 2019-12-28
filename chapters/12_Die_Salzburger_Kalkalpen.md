@@ -739,7 +739,7 @@ aus Saalfelden bezeichnet und in letzterer Zeit auch mit einigen Verbesserungen
 (eisernen Stiften und Handhaben) versehen wurde.^[^1173]^ Dieselbe leitet von dem Steige,
 der in der Richtung der Wildalm und der Buchauer Scharte über das Hochplateau
 führt, rechts an der Innenwand der Westseite der Schönfeldspitze, das Wurmschartl
-rechts lassend, aufwärts (1 Stunde) und dann ın einer Stunde auf der Aussenseite
+rechts lassend, aufwärts (1 Stunde) und dann in einer Stunde auf der Aussenseite
 in der Windung von West nach Ost über den Grat der Schönfeldspitze auf diese
 selbst hinauf. Am 21. August 1891 unternahm Th. Zorn mit dem Führer J. Maier
 aus Saalfelden zum ersten Male den Abstieg über den Nordgrat. Der Einstieg erfolgte von
@@ -1076,7 +1076,7 @@ Watzmannspitze einen Besuch; seine Führer waren S. Hinterseer und Jäger G. Wei
 
 Den Abstieg von der Mittelspitze des Watzmanns direct in das Wimbachthal unternahmen
 zum ersten Male Carl Hofmann, Freiherr von Jeetze aus München und Johann Stüdl^[^046]^
-aus Prag am 2o. Juli 1869 in Begleitung des  Berchtesgadener Führers Josef Grafl. Da das
+aus Prag am 20.&nbsp;Juli 1869 in Begleitung des  Berchtesgadener Führers Josef Grafl. Da das
 ursprüngliche Project, alle drei Watzmannspitzen  zu erklimmen, wegen der vorgerückten
 Zeit sich unausführbar erwies, so wurde beschlossen, den Rückweg in das Wimbachthal
 zu nehmen. Ueber die Einzelheiten dieses abenteuerlichen Abstieges veröffentlichte
@@ -1427,7 +1427,7 @@ erstiegen. Die erste touristische Ersteigung führte Franz von Schilcher am
 27.&nbsp;August 1863 mit dem Führer Johann Grafl aus. Er schlug, Berchtesgaden
 um 5&nbsp;U.&nbsp;30 morgens verlassend, die Richtung gegen die Watzmannscharte
 ein, wandte sich aber bald östlich auf den Grat des Kleinen Watzmanns und erreichte,
-meist über diesen fortkletternd, um ıo U. 15 die Spitze. Der Abstieg erfolgte
+meist über diesen fortkletternd, um 1o&nbsp;U.&nbsp;15 die Spitze. Der Abstieg erfolgte
 zuerst in südöstlicher, dann in westlicher Richtung zur Lablscharte, einer thorartigen
 Einsenkung zwischen dem Kleinen Watzmann und einem östlich gelegenen
 Schroflen, und weiter zur Kührointalpe, wo man 4&nbsp;Stunden 10 &nbsp;Minuten
@@ -1949,7 +1949,7 @@ am 12.&nbsp;August 1879; Raucheck circa 2291&nbsp;m., Mittlerer und Vorderer Tan
 und Stangenkopf 2161&nbsp;m., am 15.&nbsp;Mai 1880; Grosses und Kleines
 Teufelshorn, am 16.&nbsp;Mai 1880; Hochgschirr, die Schottwiesköpfe und Hohe
 Riffel, am 30.&nbsp;October 1880 (das Hochgschirr im Ganzen viermal); Gratzspitze
-1755&nbsp;m., am 20.&nbsp;November 1881; Rothwandkopf&nbsp;194o m., am
+1755&nbsp;m., am 20.&nbsp;November 1881; Rothwandkopf 1940&nbsp;m., am
 27.&nbsp;November 1881; Fillingerhöhe 1932&nbsp;m., am 14.&nbsp;October 1883;
 Hochwies 2185&nbsp;m., Pitzkogel 2241&nbsp;m. und Hühnerkrall 2242&nbsp;m., am
 3.&nbsp;November 1884; Kirchstein circa 2000&nbsp;m., am 24.&nbsp;Mai 1885;
@@ -2156,7 +2156,7 @@ Gegenwärtig erfreut sich der Untersberg wohl unter allen Bergen der Salzburger
 Kalkalpen des zahlreichsten Besuches, was durch die Nähe der Stadt Salzburg und der
 Saisonorte Reichenhall und Berchtesgaden bedingt ist. Eine stärkere
 Frequenz trat zu Beginn der Siebzigerjahre ein, als die Sectionen Berchtesgaden,
-Reichenhall und Salzburg des D. u. Oe. A.-V. ın allen Theilen des Berges zahlreiche
+Reichenhall und Salzburg des D. u. Oe. A.-V. in allen Theilen des Berges zahlreiche
 Weganlagen, Wegverbesserungen und Markirungen durchführten. So wurde
 1873—1875 von der Section Salzburg ein Weg von dem Rosittenkalkofen zur
 Unteren Firmianalpe angelegt und dieser Weg 1889 über die «Steinerne Stiege»
@@ -2563,7 +2563,7 @@ Erklimmung des Reifhorns benützte er die Doppler’sche Abstiegsroute als An-
 und Aufstieg, der oberste Gipfelfels wurde aber direct über die Ostseite erklettert.
 
 Einige neue Excursionen auf die Loferer Steinberge führte der Verfasser
-von St. Ulrich am Pillersee aus. Am ı. November 1886 erstieg er, den Weg durch
+von St. Ulrich am Pillersee aus. Am 1. November 1886 erstieg er, den Weg durch
 das Lasthal nehmend, das **Grosse** und dann das südlich sich anschliessende **Kleine
 Rothhorn** 2398 und circa 2340&nbsp;m. und setzte die Gratwanderung, die an einigen
 Stellen erhebliche Schwierigkeiten bot, bis zum **Ulrichhorn** 2152&nbsp;m. fort. Der

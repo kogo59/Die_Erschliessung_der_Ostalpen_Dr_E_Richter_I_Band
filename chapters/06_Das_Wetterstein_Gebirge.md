@@ -99,7 +99,7 @@ die wirkliche Durchführung des Unternehmens vielfach angezweifelt.
 Diese Besteigung, sowie die folgenden, welche dem Ostgipfel galten, wurden
 vom Schneeferner weg in der allgemeinen Richtung gegen jenen Punkt des Hauptgrates
 Östlich des Gipfels ausgeführt, an welchem der eingangs erwähnte kurze
-Seitenast zwischen Schneeferner und Kleinem Schneeferner abzweigt; dabei wurde .
+Seitenast zwischen Schneeferner und Kleinem Schneeferner abzweigt; dabei wurde
 entweder der Scheitel dieses Seitenastes nahe dem Anschlusspunkte an den Hauptgrat
 oder unmittelbar dieser selbst erreicht.
 
@@ -153,11 +153,11 @@ Anstieg begonnen. Bald wurde die vom Vorjahre her bekannte Kluft erreicht und
 durchstiegen; Oberst und Hanni markirten den Anstieg mit Röthel (es fanden
 sich noch die Spuren der von Oberst im Vorjahre in gleicher Weise gemachten
 Markirung), auch die böse Platte wurde wieder passirt, diesmal ohne Anwendung
-des Seiles, weil sie mehr verwittert und rauher geworden war. Ueber weniger ge-
-neigtes Terrain wurde sodann, ¾ Stunden nach dem Verlassen des Ferners, der
-Grat, ½ Stunde östlich des Ostgipfels, erreicht. Hier blieb der Träger zurück. Der
+des Seiles, weil sie mehr verwittert und rauher geworden war. Ueber weniger geneigtes
+Terrain wurde sodann, ¾&nbsp;Stunden nach dem Verlassen des Ferners, der
+Grat, ½&nbsp;Stunde östlich des Ostgipfels, erreicht. Hier blieb der Träger zurück. Der
 Grat war nicht überall gangbar, es musste öfter an der Nord- oder Südseite ausgewichen
-werden. Eine 27 Fuss lange, scharfe Schneeschneide wurde von Hanni
+werden. Eine 27&nbsp;Fuss lange, scharfe Schneeschneide wurde von Hanni
 aufrecht überschritten, von den Uebrigen rittlings passirt. Ueber die letzte steile Erhebung
 des Grates wurde sodann der östliche Gipfel erreicht. Der von Oberst 1834
 errichtete Steinmann wurde wohlerhalten, die Fahne herabgerissen gefunden; eine
@@ -174,7 +174,7 @@ hing ich völlig frei in der Luft, wobei das Seil mir die Brust bis zur Beängst
 zusammenschnürte. Ehe der Vormann unten die Schlucht nicht ganz verlassen und
 hinter einer Wand seitwärts sich geborgen hatte, konnte kein Zweiter nachgeseilt
 werden, weil beständig Trümmer losgingen und in den Schacht hinabsprangen.
-Am schlimmsten ging es hier Herrn Oberst. Das auf dem Rücken festgeschnallte
+Am<a name="S124"></a> schlimmsten ging es hier Herrn Oberst. Das auf dem Rücken festgeschnallte
 Barometer, das das geringste Versehen natürlich zerbrochen oder sonst unbrauchbar
 gemacht haben würde, wurde ihm überall hinderlich. Er durfte sich nie wie wir
 andern ganz auf den Rücken niederlassen und im Schlot stemmte sich das Baro-
@@ -261,7 +261,7 @@ wobei auch der Abstieg zum österreichischen Schneekar von dem k. Forstgehilfen
 Strassberger (18. Juli 1852) und dessen Collegen Klarwein gemacht wurde.
 
 Mit der Erbauung der Knorrhütte^[^616]^ (1855) beim «guten Wasser», 2052&nbsp;m.
-b.T. B. hoch, also 686&nbsp;m. über der seither als Nachtquartier benützten Angerhütte
+b. T. B. hoch, also 686&nbsp;m. über der seither als Nachtquartier benützten Angerhütte
 gelegen, trat eine bedeutende Erleichterung der Ersteigung ein.
 
 1857 machte zum ersten Male ein Tourist den Uebergang vom Westgipfel
@@ -323,7 +323,7 @@ Wänden die grössten Schwierigkeiten entgegen, weil blankes Eis oft gerade die
 einzig gangbaren Stellen bedeckte und doch nicht in genügender Stärke, um das
 Schlagen von Stufen zu ermöglichen. Infolge dessen musste weit nach rechts
 ausgebogen werden. Mit Hilfe des Seiles wurde das Schlimmste überwunden und
-bald ein 3—5 Fuss tiefes Schneefeld erreicht, welches den Anstieg zu einer Scharte
+bald<a name="S128"></a> ein 3—5 Fuss tiefes Schneefeld erreicht, welches den Anstieg zu einer Scharte
 im Grate erleichterte. Noch folgte eine 4 Fuss hohe Schneewächte und der Grat
 war gewonnen, 1&nbsp;U. mittags, etwas oberhalb der Stelle, wo der Weg von der
 Knorrhütte herauf denselben erreicht. Ueber den theilweise mit einem 3—4 Fuss
@@ -335,7 +335,7 @@ Franz von Schilcher^[^621]^ mit Josef Ostler, vulgo Kosersepp, aus.^[^620]^ Mit 
 Johann um Mitternacht von der Bockhütte im Rainthal aufbrechend, erreichte er bei
 2 Fuss tiefem Neuschnee durch den übereisten Kamm auf dem gewöhnlichen Wege um
 8½&nbsp;U. den Westgipfel, tauschte mit dort anwesenden Fremden den Führer und
-stieg mit Josef um 10½&nsp;U. vom Gipfel ab. Westlich der wohl auch «Nase» benannten
+stieg mit Josef um 10½&nbsp;U. vom Gipfel ab. Westlich der wohl auch «Nase» benannten
 Erhebung des Grates wandten sie sich rechts und kletterten abwärts zum österreichischen
 Schneekar, anfänglich in einem nordöstlich hinabziehenden Graben zum
 Rande einer bogenförmig sich ausdehnenden Felswand und erreichten mit Hilfe
@@ -463,7 +463,7 @@ Im Anschlusse hieran folgte der Versuch des directen Abstieges gegen die
 Luttergrube. Der Boden des österreichischen Schneekars verliert gegen Norden rasch
 an Breite und fällt dann in Steilabstürzen auf die den Fuss der Wände umgürtenden
 Geröllfelder ab. Durch diese Wände zieht der wilde Schneekargraben hinab, den
-schon Schilcher theilweise zum Abstiege benützte (siehe Seite 128). Der Abstieg in
+schon Schilcher theilweise zum Abstiege benützte  (siehe [Seite 128](#S128)). Der Abstieg in
 diesem Graben zeigte sich steil, doch nicht schwindlig, das Gestein stark verwittert.
 Das directe Hinabkommen auf das unten liegende Geröllfeld war aber durch einen
 senkrechten Wandabsturz abgeschnitten, und da alle Versuche, ihn zu überwinden,
@@ -623,7 +623,7 @@ Steg überbrückt, der beim Anstiege von Grainau aus überschritten wurde. Der
 schwere Föhnsturm des 4. October 1885, welcher furchtbar in den Wäldern hauste,
 beschädigte diesen so, dass er abgebrochen werden musste. An seiner Stelle überspannt
 nun ein 29¼&nbsp;m. langer eiserner Steg,^[^626]^ construirt von Ingenieur Ernst
-Ebert, in einer Höhe von 8o&nbsp;m. die gähnende Kluft, durch welche der brausende
+Ebert, in einer Höhe von 80&nbsp;m. die gähnende Kluft, durch welche der brausende
 Hammersbach^[^627]^ sich durchkämpft. Im September 1888 stand die Brücke fertig und
 verspricht längere Dauer als ihre Vorgängerin.
 
@@ -668,7 +668,7 @@ Schneefernerkopfes, verweilten eine halbe Stunde, stiegen dann über den Schneef
 ab bis unter den Südabfall der Zugspitze und begannen hier den Anstieg nicht auf dem
 gewöhnlichen Wege, sondern über steile Schneehänge. Zuletzt aus einer Schneeschlucht
 über Fels auf einen kurzen Zweiggrat sich emporarbeitend, gewannen sie den Hauptgrat
-ziemlich nahe dem Westgipfel und betraten diesen selbst gegen ı¾&nbsp;U. Vom
+ziemlich nahe dem Westgipfel und betraten diesen selbst gegen 1¾&nbsp;U. Vom
 Sturme getrieben, traten sie um 2 U. den Abstieg auf der gleichen Spur an, vom
 Schneeferner zur Knorrhütte von dichtem Schneegestöber begleitet.
 
@@ -677,8 +677,8 @@ Zugspitzgipfel, von Eduard Compton aus München mit Johann Koser ausgeführt.^[^
 5&nbsp;U. morgens vom Gasthause am Eibsee aufbrechend, erreichten sie um 10¼&nbsp;U.
 den Fuss der Wände im österreichischen Schneekar. Weiterhin deckte der Schnee
 grösstentheils die Leitern und Stifte, gewährte aber sicheren Tritt. Nur die letzte
-Strecke, 300&nbnsp;Fuss unter dem Gratsattel, erforderte das Schlagen von Stufen. Sie
-erreichten die Spitze um 2¾&nbs;U.; den Abstieg nahmen sie über die Knorrhütte zur
+Strecke, 300&nbsp;Fuss unter dem Gratsattel, erforderte das Schlagen von Stufen. Sie
+erreichten die Spitze um 2¾&nbsp;U.; den Abstieg nahmen sie über die Knorrhütte zur
 Angerhütte.
 
 Zahlreichen Besuch hatten beide Gipfel am 25. August 1882. Längst schon
@@ -815,7 +815,7 @@ Westumrandung schwenkte er links ab und stieg die Firnlehne der Nordostflanke de
 Gipfels hinan, deren Böschung im oberen Theile sich bis zu 40° steigert. Barth
 strebte daher im Zickzack der flachen Einsenkung zu, mit welcher die Firnzunge
 auf dem Scheitel des Schneefernerkopfes zwischen diesem und einem rechts im
-Hauptkamme vorgeschobenen Felskopf endet. Nach weiteren 1o Minuten erreichte er
+Hauptkamme vorgeschobenen Felskopf endet. Nach weiteren 10&nbsp;Minuten erreichte er
 den Gipfel selbst, eine weite hügelige Fläche, welche mehrere Steinmännchen trug.
 Er hatte zum Anstiege von der Knorrhütte her 2½&nbsp;Stunden gebraucht, schlägt aber
 selbst als normal den Zeitaufwand auf 3&nbsp;Stunden an.
@@ -848,7 +848,7 @@ Wetterspitze benannt). Im weiteren Verlaufe der Westumrandung des Plattachferner
 folgt gegen Süden zunächst dem Schneefernerkopfe fast über der Mittellinie der
 südlichen Firnmulde die Nordwestliche Wetterspitze 2750&nbsp;m. b. T. B. und,
 durch einen niedrigen gegen Südosten umbiegenden Zackenkamm mit dieser verbunden,
-die Südöstliche Wetterspitze. (Die ö. M.M. führt hier den Namen Wetterschroffen
+die Südöstliche Wetterspitze. (Die ö. M. M. führt hier den Namen Wetterschroffen
 [Wetterwandeck]&nbsp;2748 m. und einen Punkt südöstlich davon mit 2778&nbsp;m.
 auf.) Barth bezeichnete sie mit dem treffenden Namen Wetterwandeck, weil sie
 die südliche Ecke der Wetterwand, des prächtigen Westabsturzes der Umwallung
@@ -886,7 +886,7 @@ sein.  Gegen Osten folgen sodann die niedrigeren Gatterlköpfe, deren letzter sc
 zum Gatterl, dem Uebergange aus dem Reinthal in das Gaisthal und
 zur Leutasch, niedersetzt.
 
-H. von Barth’s erster Versuch am 24. Juli 1871^[^640]^ misslang; der Angriflf geschah von
+H. von Barth’s erster Versuch am 24. Juli 1871^[^640]^ misslang; der Angriff geschah von
 der erwähnten Scharte weg gegen den Nordwestgrat der Plattspitze;
 Barth kletterte von den betretenen Schneefeldern weg zu früh den Grat hinan
 und vermochte, theilweise wohl auch in Folge des eingefallenen Nebels, nicht auf
@@ -953,13 +953,13 @@ das Platt.
 Schon am 28. Juli 1891 erstieg Dr. Josef Mainzer aus Karlsruhe mit Josef
 Koser die drei Spitzen; am Rückwege umgingen sie den Mittelgipfel hoch oben.
 
-Der **Hochwanner**^[^641]^ 2746'9&nbsp;m. b. T. B. 2746&nbsp;m. ö. M.M. (auf den
+Der **Hochwanner**^[^641]^ 2746'9&nbsp;m. b. T. B. 2746&nbsp;m. ö. M. M. (auf den
 österreichischen Karten als Kothbachspitze bezeichnet).
 
 Mit den Gatterlköpfen schliesst die Südumwandung des Platt. Beim letzten
 derselben verlässt der Hauptkamm die östliche Richtung und zieht in weitem, gegen
 Norden geöffnetem Bogen als begrüntes Thonschiefergebirge gegen das Massiv des
-Hochwanners zu, im Hohen Kamm 2357&nbsp;m. ö. M.M. seinen höchsten Punkt
+Hochwanners zu, im Hohen Kamm 2357&nbsp;m. ö. M. M. seinen höchsten Punkt
 erreichend. Gewaltig hebt sich aus ihm dann ein pyramidaler, sehr schroffer Gipfel,
 der westliche Vorgipfel, 2547'1&nbsp;m. b. T. B., des Hochwanners. Diesem Vorgipfel
 folgt gegen Osten ein niedrigerer, gezackter, an Höhe zunehmender Felsgrat, dann
@@ -967,7 +967,7 @@ ein gestreckter Sattel, worauf sich der Hauptgipfel des Hochwanner aufbaut, in
 Riesenwänden abstürzend gegen Norden zum Rainthal und den Blauen Gumpen.
 Er bildet einen langen, von Westen nach Osten gestreckten, ausserordentlich
 schmalen Grat. Durch eine scharfe Scharte von ihm geschieden, ist sein östlicher
-Vorgipfel 2702&nbsp;m. b.T. B.
+Vorgipfel 2702&nbsp;m. b. T. B.
 
 Der erste Ersteigungsversuch mag wohl jener gewesen sein, dessen Spuren in
 einer 1817 errichteten Pyramide sich finden, freilich nicht auf dem Gipfel des
@@ -1035,7 +1035,7 @@ Strebepfeiler des Hauptkammes, wendete sich aber nahe dem Anschlusse desselben
 an den Hauptkamm rechts, querte einen Trümmerkessel und erreichte in den
 Winkeln der herabziehenden Rippen ansteigend in 1 Stunde von der Alpe den
 Fuss der Gipfelwände. Durch die erste sich bietende steile Runse aufwärts erreichte
-er ın 10 Minuten einen Sattel zwischen zwei starken Felszacken, umging den einen
+er in 10 Minuten einen Sattel zwischen zwei starken Felszacken, umging den einen
 derselben nach rechts auf schmalem Gesimse und gelangte in einigen Minuten in
 einen breiteren allmälig sich verflachenden Graben, in welchem er aufwärts stieg.
 Auf die steinige, stellenweise begrünte Bergflanke austretend, wandte er sich rechts
@@ -1053,14 +1053,14 @@ Barth folgte im Abstiege ganz der Linie seines Anstieges, empfiehlt übrigens
 in seinem Manuscripte fleissiges Daubenlegen des verworrenen Terrains halber.
 Nach ihm scheint der Gipfel jedoch nicht wieder betreten worden zu sein.
 
-Der **Oberreinthalschroffen**^[^645]^ 2523'7&nbsp;m. b.T. B., 2527&nbsp;m. ö.M.M.
+Der **Oberreinthalschroffen**^[^645]^ 2523'7&nbsp;m. b. T. B., 2527&nbsp;m. ö.M. M.
 Durch das Felsenthor der Oberreinthalscharte, 2442'4&nbsp;m. b. T. B.
 (von der Grenzbeschreibung Teufelsgsass genannt) scharf von dem Teufelsgrate
 geschieden, erhebt mit zernagter Westflanke der Oberreinthalschroffen steil und
 wuchtig sein dreihöckeriges Felshaupt, mit noch gewaltigerem Absturz östlich
 niederbrechend zu einer neuen ungangbaren Scharte, 2358&nbsp;m. ö. M. M.,
-jenseits deren die dreizackige Scharnitzspitze, 2464'1&nbsp;m. b. T. B., 2486&nbsp;m. ö. M.M.,
-scharfschneidig emporsteigt. Die Südflanke unseres Gipfels ist in mehrere Rippen
+jenseits deren die dreizackige Scharnitzspitze, 2464'1&nbsp;m. b. T. B., 2486&nbsp;m.
+ö. M. M., scharfschneidig emporsteigt. Die Südflanke unseres Gipfels ist in mehrere Rippen
 getheilt, welche in hoher Zone, aber immer noch beträchtlich tiefer als der Scheitelgrat
 kleine Schuttkare zwischen sich einschliessen und sich unten zu geschlossenem
 Steilwandsturze vereinigen. Eine einzige bedeutende Felskluft durchschneidet das
@@ -1098,7 +1098,7 @@ Punkt ist von da mit Ausweichen in die Nordflanke leicht erreichbar.
 ![Scharnitzspitze und Oberreinthalschroffen von Norden.](Ostalpen_Band_I_144.jpg "Ostalpen_Band_I_144.jpg"){#b144}
 ::::
 
-Die Ersteigung hatte von der Scharte weg ¾&nbsp;Stunden, vom Reinthalhofe aus.
+Die Ersteigung hatte von der Scharte weg ¾&nbsp;Stunden, vom Reinthalhofe aus
 gegen 6 Stunden beansprucht. Die Aussicht von dem Gipfel ist furchtbar wild
 und öde.
 
@@ -1128,7 +1128,7 @@ entschlossen sich höchstens 70&nbsp;m. von dem gangbaren letzten Theile noch en
 infolge der Unübersichtlichkeit der folgenden Strecke und der vorgerückten Tageszeit
 zur Umkehr. Im Abstiege sich tiefer haltend, gewannen sie mit vielen Schwierigkeiten
 den von der Scharte zur Wangalpe hinabziehenden Felstobel und durch
-diesen aufwärts steigend die Scharte wieder; ein Bivouak im Oberreinthal bildete
+diesen<a name="S146"></a> aufwärts steigend die Scharte wieder; ein Bivouak im Oberreinthal bildete
 den Schluss des anstrengenden Tages.
 
 Schon am 8. August 1883 wiederholte Reichert den Versuch. Um 6&nbsp;U. morgens
@@ -1168,8 +1168,8 @@ das wildzerrissene Schroffen beherrschen, als einzigen Durchgangspunkt, als den
 Schlüssel der Ersteigung. Der Rückweg wurde abermals nach Leutasch angetreten.
 
 Die **Dreithorspitze^[^649]^, Leutascher** Dreithorspitze, Karlspitze der bair.
-Generalstabskarte, Söller der Grenzbeschreibungskarte, 2674'1&nbsp;m. b.T. B.,
-2703&nbsp;m. ö. M.M., **Partenkirchner** Dreithorspitze, Dreithorspitze der bair.
+Generalstabskarte, Söller der Grenzbeschreibungskarte, 2674'1&nbsp;m. b. T. B.,
+2703&nbsp;m. ö. M. M., **Partenkirchner** Dreithorspitze, Dreithorspitze der bair.
 Generalstabskarte 2633'5&nbsp;m. b. T. B., 2651&nbsp;m. ö. M. M. Wo der
 Wettersteinkamm aus seiner westöstlichen Richtung nach Norden umbiegt, erhebt
 sich, von Süden nach Norden streichend, das grossartige und wilde Massiv der
@@ -1291,7 +1291,7 @@ mit Johann Ostler die Spitze.
 Den gleichen Anstieg nahm Arthur Bonnet aus Augsburg mit Johann Ostler
 am 25. August 1874.^[^652]^ 4½&nbsp;U. früh von Garmisch aufbrechend,
 überschritten sie die Partnach ¼ Stunde vor der Bockhütte und verfolgten den Steig
-in das Oberreinthal (Seite [Seite  144](#b144)). Oberhalb der ersten Terrasse,
+in das Oberreinthal ([Seite  144](#b144)). Oberhalb der ersten Terrasse,
 die mit einem 15—20 &nbsp;m. hohen Plattenfalle zur Thalsohle abbricht, bogen sie
 scharf nach links ab über Geröll und Schneefelder zum Oberen Angerl, einem grünen
 Fleck unter der Ausmündung eines zuerst engen, nach oben aber sich ausweitenden,
@@ -1328,8 +1328,8 @@ Partenkirchner Dreithorspitze. Drasch und Kinkelin stiegen noch zum Mittelgipfel
 
 Um 2 U. 10 nachmittags traten sie auf der gleichen Linie den Abstieg an,
 wobei sie durch Steinfall gefährdet wurden; ein Stein zerschlug dem Führer die
-Pfeife, die er im Munde hielt. 6&nbsp;U.&nbsp;3o abends waren sie wieder im
-Oberreinthal und 9 &nbsp;U.&nbsp;4o abends in Graseck.
+Pfeife, die er im Munde hielt. 6&nbsp;U.&nbsp;30 abends waren sie wieder im
+Oberreinthal und 9 &nbsp;U.&nbsp;40 abends in Graseck.
 
 Im August 1877 führte auch Josef Ostler vulgo Kosersepp einen Herrn auf
 diesem Wege auf den Gipfel.
@@ -1372,7 +1372,7 @@ Am 14. September 1880 erhielt auch der mittlere Gipfel der Partenkirchner
 Dreithorspitze einen Besuch. Baurath Max Schultze aus Regensburg^[^653]^ brach mit
 Josef Dengg 4&nbsp;U. früh vom Schachen auf, überschritt das Frauenalpel und das
 Wettersteingatterl, 5&nbsp;U.&nbsp;30 früh, stieg hinab auf das Leutascher Platt und rechts
-die grosse Sandreisse hinan unmittelbar unter die Gipfelwände. 6&nbsp;U.&nbsp;4o begann
+die grosse Sandreisse hinan unmittelbar unter die Gipfelwände. 6&nbsp;U.&nbsp;40 begann
 der Anstieg dort, wo das Geröll am höchsten an den Wänden hinaufreicht, und
 um 8 &nbsp;U. war die mittlere Spitze erreicht. Während Schultze dort zeichnete,
 legte Dengg den Weg über den Grat zur Signalspitze hin und zurück in 35&nbsp;Minuten
@@ -1395,8 +1395,8 @@ hereingefahren waren, über den Schachen zum Wettersteingatterl, 11 &nbsp;U.&nbs
 vormittags, überschritten das Platt, rasteten nahe den Wandabstürzen des Gipfelmassivs von
 12&nbsp;U.&nbsp;45 bis 1&nbsp;U.&nbsp;25 und stiegen dann die Linie Kiendl’s und
 Barth’s verfolgend, zu der Grateinsattlung empor, 2&nbsp;U.&nbsp;5. Südwärts
-gewendet, hielten sie sich an den Anstieg Barth’s (Seite 146), nur umgingen sie den
-Vorgipfel an seiner Ostseite ziemlich hoch. 2&nbsp;U.&nbsp;25 betraten sie den
+gewendet, hielten sie sich an den Anstieg Barth’s ([Seite 146](#146)), nur umgingen sie
+den Vorgipfel an seiner Ostseite ziemlich hoch. 2&nbsp;U.&nbsp;25 betraten sie den
 Gipfel der Leutascher Dreithorspitze.
 
 Um 4 Uhr traten sie auf demselben Wege den Abstieg an; der Versuch, vom
@@ -1520,8 +1520,8 @@ Plattacherwand und das Platt nach Leutasch zurücklegen, schliesslich bei völli
 
 Den zweiten Besuch statteten Dr. Alois Zott aus München und Otto Böhm
 aus Augsburg mit Führer Johann Dengg am 10. September 1880 dem Oefelekopfe
-ab. 3&nbsp;U.&nbsp;50 früh von Garmisch aufbrechend, erreichten sie 9 &nbsp;U.&nbsp;30 d
-as Wettersteingatterl, querten das Platt und suchten den Anstieg in einem Kamine, der direct
+ab. 3&nbsp;U.&nbsp;50 früh von Garmisch aufbrechend, erreichten sie 9 &nbsp;U.&nbsp;30 das
+Wettersteingatterl, querten das Platt und suchten den Anstieg in einem Kamine, der direct
 unter der letzten, von der östlichen Spitze durch eine Scharte getrennten Graterhebung
 — dem Kammhöcker Barth’s — den Sockel der Plattacherwand durchschneidet, also
 bedeutend weiter westlich als Barth. Die untersten 10&nbsp;m. sind
@@ -1573,16 +1573,16 @@ Pickel gestützt, den berüchtigten Kamin.
 Der westliche Gipfel des Oefelekopfes ist überhaupt noch nicht erstiegen.
 
 Die **Wettersteinwand**^[^661]^  2483'3&nbsp;m. b. T. B., 2488&nbsp;ö.M. M. Von der kahlen,
-schöngeformten Felskuppe des Mustersteins^[^660]^ 2476'6 m. b. T. B., 2485 m. ö. M.M.
+schöngeformten Felskuppe des Mustersteins^[^660]^ 2476'6 m. b. T. B., 2485 m. ö. M. M.
 sinkt der Wettersteinkamm in nordöstlicher Richtung zu enger Mauerscharte ab,
 streicht dann wieder mehr östlich wendend in abenteuerlichen Felsgestalten, die
 durch mehrere Einrisse im Grate, die «drei Scharten», von einander getrennt sind,
 unter dem Namen Wettersteinwand weiter zum westlichen Hauptgipfel 2431'2&nbsp;m.
-b. T. B., 2439&nbsp;m. ö. M.M. und erhebt sich bald zur massigen gestreckten höchsten
-Kuppe 2483'3&nbsp;m. b. T. B., 2488&nbsp;m. ö.M.M., verliert dann allmälig wieder an
-Höhe, erhebt sich noch einmal in einem wuchtigen Felskopfe zu 2373&nbsp;m. b.T. B.
+b. T. B., 2439&nbsp;m. ö. M. M. und erhebt sich bald zur massigen gestreckten höchsten
+Kuppe 2483'3&nbsp;m. b. T. B., 2488&nbsp;m. ö.M. M., verliert dann allmälig wieder an
+Höhe, erhebt sich noch einmal in einem wuchtigen Felskopfe zu 2373&nbsp;m. b. T. B.
 und schliesst mit dem kreuzgeschmückten Gamskopf^[^663]^ 2152 &nbsp;m. b. T. B.
- (Wetterspitze) 2145&nbsp;m. ö. M.M., mit Steilabfall niedersetzend auf die begrünte
+ (Wetterspitze) 2145&nbsp;m. ö. M. M., mit Steilabfall niedersetzend auf die begrünte
  und bewaldete Kammfortsetzung zum Grünstein und an die rauschende Isar.
 
 Der erste bekannte Ersteiger des lange schon mit einer Steinpyramide versehenen
@@ -1646,7 +1646,7 @@ und Plattschichten. Diese überquerend, gelangte er auf den Geröllsattel des s�
 Seitengrates mit freiem Einblicke ins jenseitige Kirchlkar. Ueber den schmalen,
 zerspaltenen Seitengrat ging es nun empor, öfter gegen Westen ausweichend; als
 mässig breite Schuttwelle schliesst derselbe sich an den Hauptgrat an. 1&nbsp;Stunde
-1o&nbsp;Minuten nach dem Verlassen der Inneren Höllenthalspitze stand Barth auf dem
+10&nbsp;Minuten nach dem Verlassen der Inneren Höllenthalspitze stand Barth auf dem
 Gipfel der Mittleren Höllenthalspitze, einem gestreckten, äusserst schmalen Raume
 unmittelbar am Steilabsturze zur Tiefe des Höllenthales.
 
@@ -1966,7 +1966,7 @@ nach einer Stunde den Hauptgipfel, wo sie eine von Dengg aus dem alten Signale
 entnommene Stange auf dem Steinmanne aufpflanzten und festigten.
 
 Um 11 U. die Spitze verlassend, waren sie in ½&nbsp;Stunde wieder auf dem
-Signalgipfel. Um ı2&nbsp;U. traten sie den Abstieg an; der Anstiegslinie folgend, standen
+Signalgipfel. Um 12&nbsp;U. traten sie den Abstieg an; der Anstiegslinie folgend, standen
 sie um 3&nbsp;U. an der Scharte zwischen Hochblassen und Alpspitze und kamen
 5&nbsp;U. abends in Forsthause Graseck an. Dengg hatte die ganze Kletterpartie ohne
 Steigeisen gemacht.
@@ -2009,7 +2009,7 @@ worauf ungefähr 1860 von Garmischern ein neues Kreuz droben errichtet wurde.
 Die gebräuchlichen Anstiegslinien führten über die Bernardinalpe und den
 Stuibensee, dann mit Schwenkung gegen Nordwesten auf den dreieckförmigen Ostgrat
 und auf diesem zur Spitze oder von Norden her über die Schöngänge, die
-dort etwa 5o m. hohe Nordwand des Ostgrates auf diesen und von da zum Gipfel.
+dort etwa 50&nbsp;m. hohe Nordwand des Ostgrates auf diesen und von da zum Gipfel.
 Am 27.&nbsp;October 1858 hatte Franz von Schilcher aus München mit Nicolaus Grasegger aus
 Hammersbach von dort ausgehend über Kreuzeck^[^681]^, Hochalpe und Schöngänge in
 4&nbsp;Stunden&nbsp;10&nbsp;Minuten die Alpspitze erstiegen. Ihren Abstieg nahmen sie gegen
@@ -2099,7 +2099,7 @@ Oestlichen Zugspitzgipfel, waren um 7&nbsp;U. an der Knorrhütte und trafen nach
 Den zweiten Besuch erhielt die Riffelwandspitze am 1.&nbsp;September 1889 von
 Hans Rast aus Garmisch, der mit Josef Ostler jun. vulgo Kosersepp, in Begleitung
 des Ingenieurs Trautner und des Johann Ostler, eines Bruders des Josef, 3&nbsp;U.&nbsp;30
-früh von der Diensthütte ım Höllenthal aufbrach. In 1&nbsp;Stunde 4o&nbsp;Minuten war
+früh von der Diensthütte im Höllenthal aufbrach. In 1&nbsp;Stunde 40&nbsp;Minuten war
 die Riffelscharte (Ritfelthor) erreicht, in weiteren 1½&nbsp;Stunden gelangten sie um
 die Nord- und Nordwestflanke der Kleinen Riffelwandspitze an jene Stelle, wo eine
 tiefe, schneidige Scharte zwischen dieser und der Grossen Riffelwandspitze den
@@ -2245,8 +2245,8 @@ zu Grunde liegen, sind die Quellen genannt, das königl. bair. topographische Bu
 nur dort, wo ein Zweifel bestehen könnte, beziehungsweise Messungen verschiedenen
 Ursprungs vorliegen. Die  sämmtlichen Gipfel des Wettersteinkammes und der westliche
 Zugspitzgipfel sind  Grenzpunkte zwischen Baiern und Oesterreich, weshalb für dieselben
-je zwei Messungen  vorliegen. Die Bezeichnung dafür ist: königl. bair. topographisches Bureau = b. T.B.,
-k. k. österr. Militärmappirung = ö.M.M., endlich für Höhenangaben aus Waltenberger's
+je zwei Messungen  vorliegen. Die Bezeichnung dafür ist: königl. bair. topographisches Bureau = b. T. B.,
+k. k. österr. Militärmappirung = ö. M. M., endlich für Höhenangaben aus Waltenberger's
 Orographie des Wettersteingebirges = W.]{.footnote}
 
 [^602]: [*Josef Naus*:  vergleiche [Josef Naus](https://de.wikipedia.org/wiki/Josef_Naus)]{.footnote}
@@ -2260,7 +2260,7 @@ und im Karwendel, sowie deren nördlichen Vorbergen beschäftigt.]{.footnote}
 
 [^606]: [Bairische Annalen, Jahrgang 1835, Nr. 4,5 u. 7.]{.footnote}
 
-[^607]: [Deutsches Hausbuch von Guido Görrcs, 1846, I. Heft.]{.footnote}
+[^607]: [Deutsches Hausbuch von Guido Görres, 1846, I. Heft.]{.footnote}
 
 [^608]: [*Dr. Einsele*:  vergleiche [August Max Einsele](https://de.wikipedia.org/wiki/August_Max_Einsele)]{.footnote}
 
@@ -2357,7 +2357,7 @@ indem er Fräulein Laval, die durch eigene Schuld in Gefahr gerathen war, Hilfe 
 
 [^654]: [Z. A. V. XIII, 1882, «Neue Touren im Wettersteingebirge». ]{.footnote}
 
-[^655]: [Puitbachthal ö. M.M.]{.footnote}
+[^655]: [Puitbachthal ö. M. M.]{.footnote}
 
 [^656]: [Alpenfreund, von H. Schwaiger, II, 1892, Nr. 20 und 21, «Ersteigungsgeschichte der Dreithorspitzes von Dr. J. Mainzer.]{.footnote}
 
@@ -2368,7 +2368,7 @@ indem er Fräulein Laval, die durch eigene Schuld in Gefahr gerathen war, Hilfe 
 [^659]: [*Musterstein*:  vergleiche [Musterstein](https://de.wikipedia.org/wiki/Musterstein)]{.footnote}
 
 [^660]: [Die Bezeichnung Mutterstein findet sich auf der neuen Aufnahme des b. T. B. bei Δ&nbsp;2442,
-auf der Aufnahme der ö.M.M. bei Δ&nbsp;2444, also 500 m. weiter westlich.]{.footnote}
+auf der Aufnahme der ö. M. M. bei Δ&nbsp;2444, also 500 m. weiter westlich.]{.footnote}
 
 [^661]: [*Wettersteinwand*:  vergleiche [Wettersteinwand](https://de.wikipedia.org/wiki/Wettersteinwand)]{.footnote}
 
@@ -2411,7 +2411,7 @@ die Ostabweichung von der nordsüdlichen Richtung dagegen sicher 60° beträgt.
 
 [^679]: [*Alpspitze*:  vergleiche [Alpspitze](https://de.wikipedia.org/wiki/Alpspitze)]{.footnote}
 
-[^680]: [Siehe Seite 124.]{.footnote}
+[^680]: [Siehe [Seite 124](#S124).]{.footnote}
 
 [^681]: [*Kreuzeck*:  vergleiche [Kreuzeck (Wettersteingebirge)](https://de.wikipedia.org/wiki/Kreuzeck_(Wettersteingebirge))]{.footnote}
 

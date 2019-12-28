@@ -33,10 +33,10 @@ Furka, eine Einsattlung in dem von der Spitze nach Westen ziehenden Grat, und
 stieg in das grosse Kar über, welches sich auf dessen Nordseite gegen die Glesenze-
 Alpe hinabzieht. Neyer und Heine hatten sich von hier sofort rechts gewendet;
 die Gesellschaft bog etwas an Höhe verlierend weiter nach Norden aus, wandte sich
-dann gegen Südost zurück und gelangte durch einen Kamin in die steile, geröll-
-bedeckte Gipfelflanke. Der weiche bröcklige Allgäuer Schiefer machte einige Vorsicht
+dann gegen Südost zurück und gelangte durch einen Kamin in die steile, geröllbedeckte
+Gipfelflanke. Der weiche bröcklige Allgäuer Schiefer machte einige Vorsicht
 nöthig. Zum Schluss kam man auf den obersten Theil des kleinen, gegen
-Osten abfallenden Gletschers und von hier rasch zum Gipfel, in 4½ Stunden von
+Osten abfallenden Gletschers und von hier rasch zum Gipfel, in 4½&nbsp;Stunden von
 der Alpe. Neyer’s Weg hatte direct auf den Gletscher geführt. Zum Abstieg
 wählte man die nach Norden ziehende Schneide, welche als der bequemste Zugang
 bezeichnet wird. Man stieg aber nicht nach Glesenze hinab, sondern wandte sich nach
@@ -175,7 +175,7 @@ Private haben durch Hüttenbauten und Wegmarkirungen das Ihrige wacker dazu geth
 
 ## 2. Parseyer Kette.
 ::: align-center
-Von **C. Deutsch** in Imst.
+Von **C. Deutsch**^[^521]^ in Imst.
 ::::
 
 ### 1. Westlicher Abschnitt.
@@ -335,7 +335,7 @@ Anton Falger^[^448]^ Aufzeichnungen vor, welche wir wörtlich anführen, da sie 
 neben dem speciellen auch noch einen hohen allgemeinen Werth besitzen, denn
 ähnliche Nachrichten aus so früher Zeit sind wohl von keinem anderen Gipfel unserer
 Gruppe zu finden. Falger schreibt: «1832 war ich zum ersten Mal mit Anton
-Knittl am Wetterspitz und am 24. August 1841 das zweite Mal (Anton Knittl],
+Knittl am Wetterspitz und am 24. August 1841 das zweite Mal (Anton Knittl,
 Ignaz Schnöller und Paul Scheidle von Giblen, auch Hieron. Wolf aus der Schweiz
 gingen am 23. August abends nach Sulzel, blieben dort über Nacht); ich ging am
 24. früh um 2 U. von hier (Elbigenalp) nach, holte obige vier Reisegefährten am
@@ -370,7 +370,7 @@ sehr kalt und die Aussicht sehr gut; ich und Anton Knittl wollten blos auf Halle
 Marmor und andere Mineralien suchen, deren es sehr schöne dort gibt, da aber
 der Tag gar so angenehm war, so gingen wir noch zu unserem lieben Wetterspitz.
 
-«24. August ı841 der Barometer zuhause 25”, auf dem Grat 20”5, auf der
+«24. August 1841 der Barometer zuhause 25”, auf dem Grat 20”5, auf der
 Spitze 20”5.»
 
 Seit der Zeit, wo Falger zuletzt das stolze Felshaupt betrat, ist von eıner
@@ -422,7 +422,7 @@ gestaltete sich äusserst schwierig.
 Ueber die Partie, welche am 18. Juni 1887 von Baptist Himmerle (Dornbirn)
 und J. Volland (Feldkirch) führerlos durchgeführt wurde, schreibt Hämmerle:
 «Wir stiegen von Schnann durch die Klamm bis zur Weggabelung ins Alperschonthal
-und das Vorderseejoch, auf letzterem Wege noch etwa ½, Stunde aufwärts,
+und das Vorderseejoch, auf letzterem Wege noch etwa ½ Stunde aufwärts,
 dann direct nördlich in die Felsen und über dieselben bis zum östlichen Hauptkamm;
 diesen verfolgend zur Spitze. Vom Gipfel auf gleichem Wege hinab in
 die unmittelbar an der höchsten Erhebung liegende Scharte und von dieser durch
@@ -474,7 +474,7 @@ ist (8 Stunden von Bach). Ebenfalls von Alperschon aus erfolgte die Ersteigung,
 welche Hauptmann Strassner aus Ingolstadt 1884 mit Führer Nic. Waldner
 (Gries) ausführte.
 
-Am 9. September ı891 erhielt die Freispitze noch einen Besuch von Krause
+Am 9. September 1891 erhielt die Freispitze noch einen Besuch von Krause
 (München) und am 13. September von Landsmann (München). Beide Partien
 gingen von Schnann über Alperschon zur Spitze.
 
@@ -546,7 +546,7 @@ mit Führer Klotz. Dr. Victor Hecht (Prag) nahm am 5. August 1878 in
 Begleitung des Josef Kolb und J. Riezler (Landeck) vom Grinner Ferner aus den
 letzten Anstieg über die Südwand in deren östlichem Drittel, wo glatte Wände
 bald nach rechts auf den Ostgrat trieben, der aber nicht dauernd beibehalten wurde;
-es folgte ein längerer Quergang nach links, dann aufwärts zum Gipfel (1)¾ Stunden
+es folgte ein längerer Quergang nach links, dann aufwärts zum Gipfel 1¾&nbsp;Stunden
 Zeitverlust). Beim Abstieg blieb die Anstiegslinie linker Hand, so dass auf dem
 Ferner noch 7 Minuten bis zur Aufstiegsstelle zurückzulegen waren. Der Rückweg
 wurde über die Patrol Scharte und das Zammerloch genommen.
@@ -754,7 +754,7 @@ zum Oberlahmsjöchl.
 ::: justified
 
 Die schönstgeformten und interessantesten Felsbauten der Lechthaler Alpen
-findet man ım Gebiete des Parzin- und Lorsennthales, so die bis jetzt noch immer
+findet man im Gebiete des Parzin- und Lorsennthales, so die bis jetzt noch immer
 jungfräuliche Dremelspitze oder den Dremel, östlich der Parzinspitze und im
 Norden des Steinsees gelegen, dann die Schlenkerspitze und den Bergwerkskopf,
 die das Lorsennthal beherrschen.
@@ -1014,7 +1014,7 @@ Im Juli 1879 stieg C. Deutsch vom Tarreton über die Nordwestwände zum
 Alpleskopf, den er nach vierstündigem sehr mühsamem Wandern durch Zwergkiefer
 und leichten Klettereien in den kleinen «Wandeln» erreichte.
 
-F. Powondra und C. Deutsch stiegen ı890 vom Grat (Gafleinsattel) über
+F. Powondra und C. Deutsch stiegen 1890 vom Grat (Gafleinsattel) über
 eine steile Riepe, Reisseschuh genannt, gegen das gleichnamige Thal ab, traversirten
 aber gleich unter den Abstürzen des Abergs nach links und stiegen so
 einem kleinen Schafsteig folgend zum Grubigjoch und von dort über Alpel nach
@@ -1411,3 +1411,5 @@ ist dieselbe von der Section Imst des D. u. Oe. A.-V. markirt.]{.footnote}
 [^519]: [Z.A.V. 1888, 223.]{.footnote}
 
 [^520]: [*Fallerschein*:  vergleiche [Fallerschein](https://de.wikipedia.org/wiki/Fallerschein)]{.footnote}
+
+[^521]: [*C. Deutsch*:  vergleiche [Karl Deutsch](https://de.wikipedia.org/wiki/Karl_Deutsch_(Mundartdichter))]{.footnote}

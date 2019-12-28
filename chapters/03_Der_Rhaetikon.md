@@ -235,9 +235,9 @@ scheint. Doch sollen die beiden westlichen höheren von Jägern erklettert sein,
 dass sichere Daten vorliegen, der isolirt stehende östliche dagegen allen Versuchen
 getrotzt haben.
 
-Den höchsten Gipfel erkletterte^[^105]^ zuerst am ı4. August 1870 der Bergführer
+Den höchsten Gipfel erkletterte^[^105]^ zuerst am 14.&nbsp;August 1870 der Bergführer
 Chr. Zuderell und zwar aus eigener Initiative, ohne von einem Touristen dazu
-veranlasst zu sein. 12&nbsp;U. 30 (?) von der oberen Sporer Alpe, etwa ¾ Stunden
+veranlasst zu sein. 12&nbsp;U. 30 (?) von der oberen Sporer Alpe, etwa ¾&nbsp;Stunden
 weit dem Oefentobel folgend, wandte er sich nach links über Rasen und Gerölle
 einer in der zerklüfteten Wand aufwärts führenden Rinne zu. In derselben aufkletternd
 erreichte er den Hauptgrat des Rhätikons, den er eine Strecke weit verfolgte bis zu einem
@@ -259,7 +259,7 @@ der Rinne das Hinderniss zu umklettern und gegen 12&nbsp;U. den Hauptkamm
 und ihm folgend nach ¼ Stunde leicht die höchste Spitze zu erreichen, auf der sie
 das öfter angezweifelte Zuderell’sche Zeichen «C. Z. 70» vorfanden. (Eine gewisse
 Berechtigung zu Zweifeln liegt in den Zuderell’schen Zeitangaben, die von der
-Alpe zur Spitze 1 ½ Stunden, von der Spitze zur Alpe etwa 3 Stunden ergeben.
+Alpe zur Spitze 1½&nbsp;Stunden, von der Spitze zur Alpe etwa 3 Stunden ergeben.
 Abgesehen von dem wirklich erbrachten Wahrheitsbeweise wird sich bei der sonstigen
 Zuverlässigkeit der Angaben Zuderell’s die Sache zufriedenstellend erklären lassen,
 wenn man bei der Zeit des Aufbruches 12&nbsp;U. 30 einen Schreib- oder Gedächtnissfehler
@@ -310,7 +310,7 @@ man sich mehr links, so dass der Hauptgrat östlich vom Punkte 2633 erreicht
 wurde, wo die bis dahin ziemlich parallel nebeneinander laufenden Routen Imhof’s und
 Schaller’s sich vereinigen; die Schaller’sche dürfte jedoch die leichtere und bequemere
 sein. Zeitaufwand ohne Rasten vom Oefenpass bis zum Gipfel 3 Stunden 45 Min.,
-vom Gipfel zum Pass zurück 1 Stunde 4o Min.
+vom Gipfel zum Pass zurück 1 Stunde 40 Min.
 
 Die beiden das Massiv der Drusenfluh im Osten und Westen begrenzenden
 Thore, Drusen- und Schweizerthor, werden sehr selten begangen, da der leichtere
@@ -334,11 +334,11 @@ zum Gipfel vorzudringen, doch vergeblich; erst am 14. August 1891 gelang
 das Unternehmen. Er benützte eine Auskehlung im Felsen, welche direct vom Alpverajöchl
 in südlicher Richtung zum Grate hinaufwies, den er westlich vom höchsten
 Punkte erreichte. Ein unpassirbarer Abbruch wurde nach rechts (nördlich) umgangen.
-Abstieg direct in nord-östlicher Richtung zum Jöchl. Am 17. August ı891 erstieg
+Abstieg direct in nord-östlicher Richtung zum Jöchl. Am 17. August 1891 erstieg
 Ludwig mit seinem Clubgenossen Hartmann die höchste Spitze nochmals auf der
 Abstiegsroute vom 14. August 1891. Sie benöthigten vom Jöchl genau eine Stunde.
 
-Am 18. August ı891 erstieg Ludwig allein auch noch die westliche Spitze
+Am 18. August 1891 erstieg Ludwig allein auch noch die westliche Spitze
 auf der Route vom 10. October 1890. Er benöthigte von der Douglasshütte zur
 Spitze und zur Hütte zurück drei Stunden ohne Rasten.
 
@@ -423,7 +423,7 @@ Von Erfolg gekrönt wurde derselbe Versuch, und damit die erste wirkliche
 Traversirung durchgeführt von Dr. W. Strauss aus Konstanz mit Führer Heine
 am 22. August 1883.^[^114]^
 
-4&nbsp;U. 5o von Alpe Vilifau ausgehend, stiegen sie in nordöstlicher Richtung gegen
+4&nbsp;U. 50 von Alpe Vilifau ausgehend, stiegen sie in nordöstlicher Richtung gegen
 die Steilwände des südlichen Fusses an und erreichten diese um 5&nbsp;U. 20 dort, wo
 eine tief eingefressene, nach oben gabelförmig in die Felsen führende Runse nach
 der Voralpe hinunterzieht. In der östlichen Rinne ging es hinauf, bis lothrechte
@@ -613,7 +613,7 @@ die südlich des Panüler Kopfes hoch in die Wand hinaufzieht und über ein
 schmales Felsband vom Solaruel Joch aus.
 
 In der Hauptrichtung des Volland’schen Anstieges hat die Section Vorarlberg
-des D. u. Oe. A. V. ım Sommer 1890 durch Felssprengungen einen höchst interessanten
+des D. u. Oe. A. V. im Sommer 1890 durch Felssprengungen einen höchst interessanten
 Felssteig «Strauss Weg» durch die Wände angelegt, der etwas nordöstlich
 vom Panüler Kopf 2840&nbsp;m. den Steilrand des Gletscherplateaus erreicht.
 
@@ -670,7 +670,7 @@ Abschluss.
 
 Wie die Gipfel dieses Zuges, Falknis und etwa Naafkopf ausgenommen,
 bieten auch die zahlreichen Uebergänge von Nord nach Süd kein hervorragendes
-touristisches Interesse.[^134] Die
+touristisches Interesse.^[^134]^ Die
 
 **Hornspitze** 2538&nbsp;m. oder Kurze Gäng 2540&nbsp;m., wurde nachweisbar zuerst am
 13. Juli 1884 von Bapt. Hämmerle aus Dornbirn mit Führer Heingartner von
@@ -815,7 +815,7 @@ einige Jahre später von Bapt. Hämmerle aus Dornbirn wiederholt.
 
 [^099]: [*Tschagguns*:  vergleiche [Tschagguns](https://de.wikipedia.org/wiki/Tschagguns)]{.footnote}
 
-[^100]: [Z.A.V.IL, 2. Abth., S. 1]{.footnote}
+[^100]: [Z.A.V. II, 2. Abth., S. 1]{.footnote}
 
 [^101]: [*J. Sh. Douglass*:  vergleiche [John Sholto Douglass, 15. Lord of Tilquhillie](https://de.wikipedia.org/wiki/John_Sholto_Douglass,_15._Lord_of_Tilquhillie)]{.footnote}
 
@@ -833,7 +833,7 @@ einige Jahre später von Bapt. Hämmerle aus Dornbirn wiederholt.
 
 [^108]: [*Dr. Blodig*:  vergleiche [Karl Blodig](https://de.wikipedia.org/wiki/Karl_Blodig)]{.footnote}
 
-[^109]: [ Jb.S. A.C. XXVI, S. 27.]{.footnote}
+[^109]: [ Jb.  S.A.C. XXVI, S. 27.]{.footnote}
 
 [^110]: [*Seewis*:  vergleiche [Seewis im Prättigau](https://de.wikipedia.org/wiki/Seewis_im_Pr%C3%A4ttigau)]{.footnote}
 

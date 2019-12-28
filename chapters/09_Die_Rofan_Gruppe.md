@@ -96,12 +96,12 @@ geltenden Doppelgipfel im Westen der Rofan, erstiegen L. Purtscheller und Profes
 H. Schöller aus Salzburg am 26. Juli 1883, gelegentlich einer Gratwanderung von
 der Rofan zur Hochiss, in einer Stunde von der Rofan über den Nordwestgrat.
 Wie mir Purtscheller in Ergänzung seiner Notiz in den M. A. V. 1884, 103
-mittheilt, beruht die dort angegebene Côte 2226&nbsp;m. auf Irrthum, und wurde die
+mittheilt, beruht die dort angegebene Cote 2226&nbsp;m. auf Irrthum, und wurde die
 zwischen Rosskopf und Spieljoch gelegene Seekarspitze 2237&nbsp;m. im Süden
-um-gangen. Der Rosskopf tritt aus dem Hauptkamme etwas gegen Süden vor, wie
+umgangen. Der Rosskopf tritt aus dem Hauptkamme etwas gegen Süden vor, wie
 auch aus der bereits erwähnten Wähner’schen Aufnahme (Z. A. V. 1891) ersichtlich,
 was auch erklärt, dass man ihn vom Innthal aus (sogar von der Eisenbahn) durch
-das zwischen Sonnenwendjoch und Haidachstellwand 2290 m. mündende Thal der
+das zwischen Sonnenwendjoch und Haidachstellwand 2290&nbsp;m. mündende Thal der
 Scherbensteinalm erblickt.
 
 :::
