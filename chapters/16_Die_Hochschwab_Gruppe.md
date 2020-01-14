@@ -80,7 +80,7 @@ Rasen auf das grosse Schuttband östlich unter dem Gipfel; zuletzt über leichte
 Felsen auf die Spitze. Der Abstieg wurde durch den Geyer’schen Kamin
 genommen.^[^1762]^ Es war dies die vierzehnte Besteigung des interessanten Gipfels.
 
-Der **Thurm** 1735 m. Dieser niedrige Gipfel zwischen Antengraben und Brunnthal ist
+<a name="S404"></a>Der **Thurm** 1735 m. Dieser niedrige Gipfel zwischen Antengraben und Brunnthal ist
 in kleinen Verhältnissen eine der kühnsten Felsbauten der Alpen. Die ersten Versuche,
 seinen Scheitel zu erklimmen, wurden von Jägern gemacht, führten
 aber zu keinem Erfolg.

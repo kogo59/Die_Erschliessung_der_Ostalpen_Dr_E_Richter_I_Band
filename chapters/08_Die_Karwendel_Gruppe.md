@@ -302,7 +302,7 @@ und Julius Seibert aus. Aber trotz warmer Befürwortung aller Kenner dieser
 Gruppe ist der Besuch dieser Berge ein sehr geringer geblieben und dürfte
 kaum mehr als 300&nbsp;Touristen betragen.
 
-Viel geringer ist noch der Besuch der im Hauptkamme östlich von der Karwendelspitze
+<a name="S195"></a>Viel geringer ist noch der Besuch der im Hauptkamme östlich von der Karwendelspitze
 befindlichen Gipfel, von denen H. von Barth am 5. Juli 1870
 **Thalelespitz** und **Thorwand**^[^824]^ 2403&nbsp;m., am 14. August 1888 H. Schwaiger
 und J. Fettory aus München in Begleitung des Führers Thomas Widauer aus Hinterstein
@@ -1122,7 +1122,7 @@ Jäger Draxl, der ihm die Anweisung zu dem einzigen Pfade in die Hochkare der
 Gleierscher Kette geben sollte, ahnte er nicht, dass er an diesem Tage die schwierigste
 Partie seines Lebens — wie er selbst andeutet — machen würde. Doch
 das Wetter besserte sich, und 4&nbsp;Stunden nach Verlassen der Amtssäge hatte Barth
-das Haupt des **Katzenkopfes** erstiegen, der den Endpunkt des mächtigsten Seitenastes
+<a name="S213"></a>das Haupt des **Katzenkopfes** erstiegen, der den Endpunkt des mächtigsten Seitenastes
 bildet, der von den Jägerkarspitzen nach Südwesten sich abzweigt und eine
 furchtbar zerrissene und zerklüftete Mauer bildet. Der Aufstieg erfolgte zuerst in
 das Jägerkar, dann von diesem aus auf einem guten Jagdsteig links ausbiegend,
@@ -1714,7 +1714,7 @@ weiter über den Grat nicht ohne Gefahr zur Westlichen Sattelspitze.
 Gegenwärtig werden alle diese Spitzen von der rüstigen Schaar der Innsbrucker Kletterer
 häufig, ja regelmässig bestiegen.
 
-In den kurzen Verzweigungen nördlich des Hauptkammes thronten bis vor ;
+<a name="S225"></a>In den kurzen Verzweigungen nördlich des Hauptkammes thronten bis vor
 Kurzem noch einige, wenn auch kleine, aber durch ihre bizarren Zacken und Zinnen
 auffallende unerstiegene Gipfel, die erst im Jahre 1890 bezwungen wurden. Ludwig
 Purtscheller war es beschieden, hievon zwei zu erobern, indem er am 3. Juni 1890

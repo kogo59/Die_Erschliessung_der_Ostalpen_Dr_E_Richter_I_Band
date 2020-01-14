@@ -379,7 +379,7 @@ als auch  von Liezen und Spital am Pyhrn leicht ersteiglich ist.
 Die Besteigung des Hochmölbing^[^1567]^ erfolgt in der Regel von Liezen oder
 Wörschach, seltener von Klachau aus.
 
-An dem gegen das Ennsthal abfallenden Südrande dieses Massivs erhebt sich
+<a name="S365"></a>An dem gegen das Ennsthal abfallenden Südrande dieses Massivs erhebt sich
 der schroffe Felskegel des **Hochtausing** 1818&nbsp;m.,^[^1568]^ auf dessen steilen
 Südhängen Dr. C. Foltz aus Linz am 18.&nbsp;August 1879 den Tod fand.
 

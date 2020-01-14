@@ -687,7 +687,7 @@ bald getrennt, wie es Jeder besser zu treffen hoffte. Des Berges Scheitel betrat
 zuerst Klingler, 3&nbsp;Minuten später standen auch Schwarzenberg und Moser
 oben. Ihr Steigen hatte von dem Steine an gegen ¾&nbsp;Stunden gedauert....» Nun
 folgten auch Thurwieser und Langegger und erreichten in 26 Minuten den
-Gipfel.
+Gipfel.<a name="S278"></a>
 
 Hier bricht Thurwieser’s Bericht ab, so dass es zweifelhaft erscheint, ob
 der beabsichtigte Abstieg zum Funtensee ausgeführt wurde. Den Vorsatz, die
@@ -1080,7 +1080,7 @@ aus Prag am 20.&nbsp;Juli 1869 in Begleitung des  Berchtesgadener Führers Josef
 ursprüngliche Project, alle drei Watzmannspitzen  zu erklimmen, wegen der vorgerückten
 Zeit sich unausführbar erwies, so wurde beschlossen, den Rückweg in das Wimbachthal
 zu nehmen. Ueber die Einzelheiten dieses abenteuerlichen Abstieges veröffentlichte
-Hofmann in Amthor’s «Alpenfreund»> eine ausführliche Schilderung, aus der hier einige
+Hofmann in Amthor’s «Alpenfreund» eine ausführliche Schilderung, aus der hier einige
 Stellen Platz finden mögen.^[^1196]^
 
 «Und nun rüstig hinab, das Wimbachthal soll erobert werden. Direct steuern
@@ -1180,7 +1180,7 @@ nicht mehr weiter marschiren. Damit war unser Loos entschieden, wir durften
 unseren Gefährten nicht verlassen. Da hiess es nun unter freiem Himmel, ohne
 Lebensmittel, ohne Feuer und Decken die Nacht zubringen. .. .»
 
-Denselben Abstieg von der Mittelspitze des Watzmanns direct ins Wimbachthal
+<a name="S289"></a>Denselben Abstieg von der Mittelspitze des Watzmanns direct ins Wimbachthal
 führte einige Jahre später (wahrscheinlich 1875) Carl Babenstuber aus München
 mit dem Führer J. Grill (Kederbacher) aus. Wie sehr Kederbacher mit den
 Terrainverhältnissen vertraut war, geht daraus hervor, dass der Abstieg nur
@@ -1193,7 +1193,7 @@ Carl von Frey und Anton Sattler den Watzmann (Hocheck), um daselbst
 ein Panorama aufzunehmen, das jedoch nicht veröffentlicht wurde.
 
 Die **Südliche Watzmannspitze**, auch Schönfeldspitze genannt (2712&nbsp;m.),
-erhielt, wie Seite 278 bemerkt, ihren ersten touristischen Besuch wahrscheinlich
+erhielt, wie [Seite 278](#S278) bemerkt, ihren ersten touristischen Besuch wahrscheinlich
 von dem unermüdlichen Thurwieser im Jahre 1832. Der nächste Tourist war
 Friedrich Fürst Schwarzenberg, der Ende der Fünfzigerjahre mit dem Gemsjäger Gabriel
 Stocker den Gipfel erreichte, dann folgte, das genaue Datum ist

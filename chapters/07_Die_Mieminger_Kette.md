@@ -553,7 +553,7 @@ angemessen erscheint. Derselbe dürfte demnach, wenn die Cote 2743 stimmt, circa
 dem Gipfel, welche mit geringen Abweichungen bis an den Fuss der Wände verfolgt
 wurde. Der noch übrige Rückweg hielt sich so ziemlich an unsere Anstiegsrichtung.
 
-Im Jahre 1891 wurde auch die Lösung des von Barth’schen Problems (Aufstieg vom
+<a name="S182"></a>Im Jahre 1891 wurde auch die Lösung des von Barth’schen Problems (Aufstieg vom
   Alpelboden) gefunden. In Begleitung von P. Probst, der den kritischen
 Weg schon vor Jahren als Gemsjäger begangen hatte, stieg^[^757]^ der Verfasser am
 12. August vom Alpelhaus über den oberen Alpelboden zur höchsten Scharte

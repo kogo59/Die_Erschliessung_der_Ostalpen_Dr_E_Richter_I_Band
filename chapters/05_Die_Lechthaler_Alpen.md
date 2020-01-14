@@ -11,7 +11,7 @@ Von **Anton Spiehler** † in  Memmingen.<br /><br />
 
 ::: justified
 **U**nter dem Namen Lechthaler Alpen^[^400]^ begreifen wir den grossen Kalkgebirgszug,
-der sich nördlich der Arlberglinie und des oberen Innthales bis zum Fernpass^[^401]^
+<a name="S96"></a>der sich nördlich der Arlberglinie und des oberen Innthales bis zum Fernpass^[^401]^
 hinzieht. Der westliche Abschnitt, der noch Vorarlberg angehört, bis zum Flexenpass^[^402]^,
 wird als Rothwand Gruppe ausgeschieden. Das ganze Gebiet gehört zu den
 wenig besuchten. Am frühesten hat noch die **Rothwandspitze**^[^403]^ 2701&nbsp;m. an der
@@ -71,7 +71,7 @@ auszubiegen, zustrebte. Den Versuch, einen Abstieg gegen Formarin zu finden,
 musste er wegen Nebel nach einer Stunde aufgeben.
 
 **Braunarlenspitze**^[^406]^ 2646&nbsp;m.^[^407]^ Dieser Gipfel ist die höchste Erhebung eines
-stattlichen Kammes, der im Anschluss an die Rothwand das oberste Lechthal am
+<a name="S97"></a>stattlichen Kammes, der im Anschluss an die Rothwand das oberste Lechthal am
 linken Ufer bis zur Quelle der Bregenzer Ache begleitet. Die ganze Gruppe ist
 wenig bekannt und besucht. Erst 1888 wurden durch C. W. Pfeiffer die Zugänge
 und die Ersteigungsgeschichte in ausführlicher Weise behandelt.^[^408]^ Es kann hier
@@ -282,7 +282,7 @@ durchführen lässt, und zweitens, weil es auch eine viel freiere Aussicht gewä
 als sein weit mehr besuchter Nachbar, das Kaiserjoch^[^441]^ 2318&nbsp;m., zu bieten vermag.
 
 Es lässt sich bestimmt erwarten, dass die **Gesteinsspitze**^[^442]^ 2755&nbsp;m. eine
-Zukunft haben wird, wie sie ihren schwierig zu ersteigenden Nachbarspitzen kaum
+Zukunft<a name="S102"></a> haben wird, wie sie ihren schwierig zu ersteigenden Nachbarspitzen kaum
 zutheil werden dürfte. Der Anstieg vom Almejur Joch ist sehr kurz und geradezu
 mühelos, und auf ihrem Gipfel bietet sich eine Rundsicht, die, wie schon Spiehler
 erwähnt, nicht genug zu loben ist. Die Specialkarte gibt ihr den Namen Stanskogel.
@@ -389,7 +389,7 @@ Vierzehn Tage später benützten dieselbe Anstiegslinie L. Schuster (München)
 und A. Spiehler mit dem Führer Anselm Klotz.^[^453]^ Der Abstieg wurde zum
 Grieselthal genommen.
 
-Baptist Hämmerle (Dornbirn) und J. Volland (Feldkirch) wanderten am
+<a name="S104"></a>Baptist Hämmerle (Dornbirn) und J. Volland (Feldkirch) wanderten am
 28. August 1886 in Begleitung eines Führers von Kaisers in das Kaiserthal und von
 dort östlich zum Langzugkamm (hier wurde der Führer entlassen). Den Kamm verfolgend
 und die Nordwand der Feuersteinspitze traversirend, gelangten sie zum Südgrat
@@ -400,7 +400,6 @@ diesem südlich auf die höchstgelegene Schafalpe, am Westfusse der Vorderseespi
 entlang, dann über eine steile Felsrinne aufwärts zu einem Plateau und zum Vorderseejoch,
 von hier dem Steige entlang thalabwärts durch die Schnannerklamm nach
 Schnann^[^454]^.
-
 
 **Vorderseespitze**^[^455]^ 2887&nbsp;m. Trigon. Vom Signal, welches zwei Männer von
 Kaisers 1855 aufstellten, sind nur mehr einige Steine vorhanden.
@@ -911,7 +910,7 @@ A.-V. 1889 einen bequemen, durch Drahtseile gesicherten Weg von der Hütte zur
 Spitze und von dort über den Kübel in das Pfafflur.
 
 **Plattein**. Vorderer 2565&nbsp;m., Hinterer 2733&nbsp;m. Im Osten vom Muttekopf erheben
-sich der Vordere und Hintere Plattein. Kühn zum Himmel ragende Felszacken,
+<a name="S115"></a>sich der Vordere und Hintere Plattein. Kühn zum Himmel ragende Felszacken,
 schroffe Abstürze mögen wohl die Ursache sein, dass sich so lange Niemand gefunden
 hat, der es wagte, den Versuch zu machen, auch diese Bergriesen zu bezwingen.
 Beide Spitzen waren bis zu den Fünfzigerjahren auch von Gemsjägern

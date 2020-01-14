@@ -186,7 +186,7 @@ Tschagguns^[^099]^ aufragender Felskopf, wird vom Montavon aus wegen des unvermi
 prächtigen Niederblickes ins Thal häufig von Fremden und Einheimischen besucht,
 indem die Felswände der Nordseite umgangen und von Süden die Spitze erreicht wird.
 
-Geradezu selten und wohl nur von Liebhabern des Klettersports wird das
+Geradezu<a name="S24"></a> selten und wohl nur von Liebhabern des Klettersports wird das
 Schwarzhorn, jener schwarzgrüne Felskegel im Nordwesten des Tilisuna Sees,
 erstiegen. Fremdartig wie sein Gestein, Serpentin und Diorit, ist auch sein kecker
 zuckerhutförmiger Aufbau unter den Bergformen des Rhätikons. Wie ein drohend

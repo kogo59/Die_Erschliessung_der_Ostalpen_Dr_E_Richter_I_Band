@@ -945,7 +945,7 @@ aus erfolgte und als Führer Vincenz diente, über dessen sonstige Führerthäti
 zur Zeit Nichts bekannt ist. Bis zur Erbauung des Waltenberger-Hauses war der
 Einödsbacher Aufstieg als bedenklich verrufen. Baptist (Schraudolph) hatte bis
 1875 nicht mehr als 30 Partien geführt; sein erster «Fremder» war 1855 von
-Dommeler aus Leipzig. In Oberstdorf war die Tour damals noch sehr unbekannt
+Dommeler<a name="S24"></a> aus Leipzig. In Oberstdorf war die Tour damals noch sehr unbekannt
 und erregte ziemliches Aufsehen; sie galt nach der Höfats als die schwierigste.
 Die drastische Schilderung Steudel’s vom tödtlichen Absturz eines Touristen
 scheint uns, obgleich Hipp als Gewährsmann angeführt wird, aus der Luft gegriffen;
@@ -1190,7 +1190,7 @@ vergebliche Versuche gemacht, den Gipfel auf der bairischen Seite zu ersteigen;
  mit Schraudolph hin und zurück gemacht, wobei jedoch im Aufstieg die nördliche
  Bergflanke um eine Terrasse tiefer gequert wurde, ferner von Fambach
  am 8. Juli 1889 und dann im gleichen Jahre von Probst mit Schraudolph.
- Endlich bietet noch Neues der von Reitner am 25. Juli 1888 vollführte Aufstieg
+ Endlich bietet noch Neues der von Reitner<a name="S65"></a> am 25. Juli 1888 vollführte Aufstieg
  über den zum Schrofenpass abfallenden Westgrat. «Ich ging von Lechleiten, anfänglich
  die übliche Route einschlagend, die bekannte steile, grüne Gehre hinauf,
  bis dorthin, wo der gewöhnliche Weg sich rechts wendet und unter dem Südabfalle des
@@ -1772,7 +1772,7 @@ baarfuss die gefährlichsten Stellen überwunden hatte.
 
 ::: justified
 
-Indem wir zur östlichen Hälfte der Allgäuer Alpen übergehen, fassen wir zunächst die
+Indem<a name="S79"></a> wir zur östlichen Hälfte der Allgäuer Alpen übergehen, fassen wir zunächst die
 nördlich vom Mädelejoch liegenden Seitenkämme sammt dem Gebirge
 zwischen Oberstdorf und Hinterstein zu einer Gruppe zusammen; unter ihren Gipfeln
 ist der Daumen am höchsten, das Nebelhorn am besuchtesten, die **Höfats**^[^330]^
@@ -1851,7 +1851,7 @@ verhältnissmässig häufig von auswärtigen Touristen besucht, welche damit ein
 ihrer Gewandtheit im Bergsteigen sich erholen; in der That ist die Besteigung
 der Höfats, wenn auch lange nicht so schwierig und gefährlich, als man sie wohl
 zumeist geschildert erhält, immerhin nicht zu verachten, und spricht ihre vollständige
-Ausführung — gar oft wird dieselbe jedoch nicht über den Gufel hinauf ausgedehnt
+<a name="S80"></a>Ausführung — gar oft wird dieselbe jedoch nicht über den Gufel hinauf ausgedehnt
 — für tüchtige Anlagen und jedenfalls für völlige Schwindelfreiheit des
 Besteigers.» Hier tritt uns zugleich von Barth’s stets bekundetes Streben, die
 übertriebenen Nachrichten von Schwierigkeiten und Gefahren auf ihren wahren
@@ -1916,7 +1916,7 @@ Vorderer Gipfel,^[^333]^ Nebengipfel, dann jenseits der Höfatsscharte Mittlerer
 Gipfel. Die bisher geschilderten Touren beziehen sich alle auf den Vorderen
 Gipfel, und zwar auf die gebräuchliche Anstiegslinie vom Gufel aus. Den
 Mittleren Gipfel hat allem Anschein nach noch kein menschlicher Fuss betreten.
-Der Hintere Gipfel soll von Süden, vom Aelpele her leichter, vom Gufel aus
+<a name="S82"></a>Der Hintere Gipfel soll von Süden, vom Aelpele her leichter, vom Gufel aus
 dagegen schwieriger zu erreichen sein als der Vordere; über touristische Ersteigungen
 ist nichts Verlässiges bekannt. Dagegen wurde der Nebengipfel mehrmals besucht.
 Am 6. Juli 1884 geschah dies durch Jos. Zametzer und Zott vom Vorderen Gipfel
@@ -2096,7 +2096,7 @@ Seekopf, Schochen und Schnecken vorbei zum Himmeleck führte.
 
 ::: justified
 
-Dem Allgäuer Thalwanderer durch ihre gegen den Lech vorgeschobene Lage
+<a name="S86"></a>Dem Allgäuer Thalwanderer durch ihre gegen den Lech vorgeschobene Lage
 hartnäckig versteckt, dem Lechthaler durch die klaffende Spalte des Hornbachthales
 die abschreckenden Steilstufen zuwendend, aber von keinem Nachbargipfel gedrückt,
 die meisten weit überragend und das Vorland bis über die Donau hinaus frei

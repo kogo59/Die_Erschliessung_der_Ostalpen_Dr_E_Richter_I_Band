@@ -645,7 +645,7 @@ diese sehr schwierige Arbeit glücklich durchzuführen, jedoch nur indem sie sic
 wiederholt abseilten. Am 11.&nbsp;October 1890 kehrte Hofmann wieder zum
 Todtenkirchl zurück und erstieg es noch einmal.
 
-Am 1. September 1891 wurde endlich das Todtenkirchl auch von einer Dame
+<a name="S253"></a>Am 1. September 1891 wurde endlich das Todtenkirchl auch von einer Dame
 bezwungen, indem Frau M. Unterberger aus Kufstein in Gesellschaft von Eduard
 Schmidl aus München und in Begleitung des Führers Michael Pirckner eine
 Variante des gewöhnlichen Zuganges eröffnete.
@@ -963,7 +963,7 @@ Dasselbe hoch oben unter der Grateinsenkung querend, trachteten sie jenseits
 zuerst über steile Felspartien einem breiten Bande zu, auf welchem eine Schlucht
 angetroffen wurde, die sie unerwarteter Weise direct zur Spitze des Kleinen Kaisers
 führte. Eine directe Ersteigung des «Kleinen Kaisers» aus den Oberen Scharlinger
-Böden führte im Jahre 1891 Ed. Schmidl allein aus.
+Böden führte im Jahre 1891 Ed. Schmidl allein aus.<a name="S259"></a>
 
 Das **Schneekarinnl** wurde im Jahre 1885 durch Max Oberwallner aus
 München mit Widauer auch als Uebergang von Bärenstatt nach Hinterbärenbad
@@ -971,7 +971,7 @@ benützt. Doch ist es für häufigere Benützung zu schwierig, wie auch Otto Naf
 aus Wien, welcher am 23.&nbsp;Juli 1889 vom Treffauer zur Scharte abstieg und sich
 dem Scharlinger Boden zuwandte, bestätigte.
 
-Dennoch finden wir im Jahre 1886 eine directe Ersteigung des Treffauer
+<a name="S260"></a>Dennoch finden wir im Jahre 1886 eine directe Ersteigung des Treffauer
 Kaisers aus dem Oberen Scharlinger Boden. Es waren Christian Schöllhorn
 und Max Oberwallner, welche mit Widauer am 3. Juni dieses Jahres diese
 schwierige Anstiegsroute wählten, welche Carl Hofmann für unausführbar gehalten
@@ -1232,7 +1232,7 @@ und Drahtseilen verbessert.]{.footnote}
 Ende October 1890 noch die Elmauer Haltspitze, die sie in ihren jüngeren Jahren öfters mit ihren
 Brüdern erstiegen hatte, um das Schutzhüttchen zu sehen.]{.footnote}
 
-[^1101]: [Gelegentlich der ersten Ersteigung des «Kleinen Kaisers», direct aus dem Oberen Scharlinger Boden, führte Ed. Schmidl die erste Ersteigung des Sonnenecks von ersterem aus, eine Leistung, die selbst bei den kundigen Jägern des Kaisers grosse
+[^1101]: [Gelegentlich der ersten Ersteigung des «Kleinen Kaisers», direct aus dem Oberen Scharlinger Boden, führte <a name="S261"></a>Ed. Schmidl die erste Ersteigung des Sonnenecks von ersterem aus, eine Leistung, die selbst bei den kundigen Jägern des Kaisers grosse
 Anerkennung fand.]{.footnote}
 
 [^1102]: [*Scheffauer Kaiser*:  vergleiche [Scheffauer](https://de.wikipedia.org/wiki/Scheffauer)]{.footnote}

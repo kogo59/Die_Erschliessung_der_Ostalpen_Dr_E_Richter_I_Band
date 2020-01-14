@@ -599,7 +599,7 @@ Koppenkarsteins eingeschlagen, doch war der Abstieg vom Grat auf das Firnfeld
 des Schladminger Gletschers nicht Jedermanns Sache, und so kam diese Route^[^1384]^
 niemals recht in Aufnahme.
 
-Man war deshalb bestrebt, einen kürzeren, directeren Weg von Schladming
+<a name="S339"></a>Man war deshalb bestrebt, einen kürzeren, directeren Weg von Schladming
 auf den Dachstein ausfindig zu machen. Da erinnerte sich denn Auhäusler, dass
 er einst auf einer Gemspürsch in der Schwadering, Anfangs der Sechzigerjahre,
 Gemsen über die Wand zur Hunerscharte habe hinaufsteigen sehen. Er meinte,
@@ -848,7 +848,7 @@ Eine zwischen ihnen sich zeigende Lücke wird das «Steinfensterl» genannt und
 ist nicht mit dem gleichnamigen Gebilde im Grat des Koppenkarsteins zu verwechseln.
 
 Das Südliche Dirndl circa 2800&nbsp;m. ist das höhere; es wurde zum ersten
-Mal am 5.&nbsp;August 1879 von Dr. W. Fikeis und Dr. F. Krischker (ohne Führer)
+Mal am 5.&nbsp;August 1879 von <a name="S345"></a>Dr. W. Fikeis und Dr. F. Krischker (ohne Führer)
 am Rückweg vom Dachstein erklettert. Sie stiegen an seiner Nordseite über
 die steile Schneehalde zu einem Felskamin an und theils durch diesen, theils
 über die rechtsseitigen Felsbänder auf den Gipfelgrat, der sich bis auf ⅓ m.
@@ -1247,7 +1247,7 @@ Felsen und Rasen auf den Grat, dann etwas abwärts in den obersten Theil des
 gegen den Reissgang verlaufenden Kars. Ueber die westlichen Felsflanken (zwei
 Kamine) wieder auf den Grat und zur Spitze (Steinmannd]).^[^1491]^
 
-**Eiskarlspitze**. Diese kühne Felsspitze zwischen Windleger und Hochkessel
+<a name="S356"></a>**Eiskarlspitze**. Diese kühne Felsspitze zwischen Windleger und Hochkessel
 ist noch unbestiegen, obwohl sie schon mannigfach belagert wurde; so von Schmitt,
 Oroszlany, Merz, Dr. Helversen und Anderen.
 :::
