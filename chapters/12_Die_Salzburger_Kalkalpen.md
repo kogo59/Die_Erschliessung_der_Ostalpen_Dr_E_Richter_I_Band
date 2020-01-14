@@ -97,7 +97,7 @@ Jahre 1890 betrug die Zahl der eingeschriebenen Sommergäste in Salzburg (Stadt)
 Die Aera der neuzeitlichen alpinen Forschungen und Entdeckungen in den
 Salzburger Kalkalpen eröffnete der kühne und begeisterte Bergsteiger Valentin
 Stanig^[^025]^, der gegen Ende des vorigen und zu Beginn des gegenwärtigen
-Jahrhunderts als Theologe in Salzburg lebte, und Professor Peter Carl Thurwieser[^015],
+Jahrhunderts als Theologe in Salzburg lebte, und Professor Peter Carl Thurwieser^[^015]^,
 der schlichte, mit den Bergen innig vertraute Müllerssohn aus Kramsach in Tirol.
 
 Stanig, dem es, wie er selbst bemerkt (siehe dessen «Excursionen auf den

@@ -251,7 +251,7 @@ wohl als erste Touristen.
 Am 6. Juli 1884 unternahm Georg Hofmann mit Anton Hild aus Kufstein
 den Versuch, von der Ackerlspitze einen Abstieg ins Griesener Kar zu finden, um
 auf kürzestem Wege zur Hinterbärenbadhütte zu gelangen und die Rundtour
-Elmau—Ackerlspitze—Bärenbad zu eröffnen.[^1062] Bisher war dieser Abstieg von Touristen
+Elmau—Ackerlspitze—Bärenbad zu eröffnen.^[^1062]^ Bisher war dieser Abstieg von Touristen
 nicht ausgeführt worden, Jägern und Hirten dürfte derselbe jedoch schon bekannt
 gewesen sein.
 

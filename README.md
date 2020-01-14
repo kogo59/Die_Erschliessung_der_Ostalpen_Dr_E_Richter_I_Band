@@ -11,7 +11,7 @@ Authors:
 * [M. v. Prielmayer](https://archive.is/o6uso) (1843–1917)
 * [Ferdinand Kilger](https://archive.org/details/bub_gb_4lozAQAAMAAJ/page/n651) (1854—1893)
 * [Heinrich Schwaiger](https://books.google.de/books?id=84l3DwAAQBAJ&lpg=PA289&ots=Wdlo8lNb2s&dq=Heinrich%20Schwaiger%201857%201902&hl=de&pg=PA289#v=onepage&q=Heinrich%20Schwaiger%201857%201902&f=false)  (1857—1902)
-* [Theodor Trautwein](https://de.wikipedia.org/wiki/Trautwein) (1833—1894)
+* [Theodor Trautwein](https://de.wikipedia.org/wiki/Trautwein (1833—1894)
 * [Ludwig Purtscheller](https://de.wikipedia.org/wiki/Ludwig_Purtscheller) (1849—1900)
 * [August von Böhm](https://de.wikipedia.org/wiki/August_B%C3%B6hm_von_B%C3%B6hmersheim) (1858—1930)
 * [Heinrich Heß](https://de.wikipedia.org/wiki/Heinrich_He%C3%9F_(Alpinist)) (1857—1944)
@@ -20,7 +20,7 @@ Authors:
 
 
 # Licenses
-The authors died  before 1949, so this work should be in the public domain in
+The authors died  before 1950, so this work should be in the public domain in
 its country of origin and other countries and areas where the
 copyright term is the author's life plus 70 years or less.
 This work is in the public domain in the United States because it was

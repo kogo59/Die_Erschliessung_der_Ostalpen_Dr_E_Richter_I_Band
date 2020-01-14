@@ -47,9 +47,9 @@ Hilfsmittel verschafft hat. Ihm gebührt unser Aller wärmster Dank.<br /><br />
 ****
 ::::
 
-* [Die Dirndl’n](ch001.xhtml#b000)  (zu Dachstein Gruppe Seite 345 gehörig)  Titelbild
-* [Drusenfluh von Süden.](ch004.xhtml#b025)  Zu Seite 24
-* [Zimbaspitze durch das Sarotla Thal gesehen.](ch004.xhtml#b025)
+* [Die Dirndl’n](ch001.xhtml#b000)  (zu Dachstein Gruppe [Seite 345](ch015.xhtml#S345) gehörig)  Titelbild
+* [Drusenfluh von Süden.](ch004.xhtml#b025)  
+* [Zimbaspitze durch das Sarotla Thal gesehen.](ch004.xhtml#b025a)
 * [Gruppe der Mädelegabel von Buchenrain.](ch005.xhtml#b056)
 * [Zugspitze vom Eibsee.](ch007.xhtml#b128)
 * [Die Hinterauthaler Kette von der Vogelkarspitze aus gesehen.](ch010.xhtml#b200)

@@ -73,14 +73,14 @@ ist diese Messung in dem betreffenden Protokolle^[^1308]^ nicht in ganz leicht
 verständlicher und syntaktisch richtiger Weise registrirt worden. Es heisst nämlich
 dort auf Seite 145 wörtlich: «Thorstein, 1581'69 Klafter. Höchster Gipfel des ..., nordöstlich
 vom Dorfe Filzmoos. Der zweite und niederere Gipfel dieses Berges, den man
-auch Dachstein nennt, ist die Grenzmark zwischen Oesterreich, Salzburg und Steyer-
-mark.» Die Analyse dieses Satzes gestaltet sich folgendermassen: «Höchster
+auch Dachstein nennt, ist die Grenzmark zwischen Oesterreich, Salzburg und Steyermark.»
+Die Analyse dieses Satzes gestaltet sich folgendermassen: «Höchster
 Gipfel des...» (hier ist zu ergänzen «Thorstein», welche Bezeichnung bei der
 Rubricirung als Schlagwort vorangestellt wurde). «Der zweite und niederere
 Gipfel dieses Berges» (nämlich des «Berges» Thorstein, dessen höchster Gipfel
 eben gemessen wurde), «den man auch Dachstein nennt» (das bezieht sich
-nun nicht auf den «zweiten und niedereren Gipfel», sondern auf das zunächst-
-stehende Wort «Berg»; also der «Berg», der vorhin als «Thorstein» bezeichnet
+nun nicht auf den «zweiten und niedereren Gipfel», sondern auf das zunächststehende
+Wort «Berg»; also der «Berg», der vorhin als «Thorstein» bezeichnet
 und dessen höchster Gipfel gemessen wurde, dieser «Berg» wird hier auch «Dachstein»
 genannt, und dessen zweiter und niederer Gipfel) «ist die Grenzmark
 zwischen Oesterreich, Salzburg und Steyermark». Der kundige und kritische Leser
@@ -722,14 +722,14 @@ Mitterspitze und unter der Oberen Windlucke.
 
 Als Nächste erschienen zu ungewöhnlich früher Zeit, am 10.&nbsp;April 1884,
 Emil^[^1409]^ und Carl Zsigmondy^[^1410]^ und Heinrich Köchlin. Der Versuch erfolgte
-vom Fusse der Wand zwischen Dachstein und DirndIn und wurde nicht für aussichtslos
+vom Fusse der Wand zwischen Dachstein und Dirndln und wurde nicht für aussichtslos
 gehalten; Neuschnee, Vereisung, Staublawinen und das Fallen von Eiszapfen
 vereitelten jedoch ein weiteres Vordringen.^[^1411]^
 
 Nachdem am 3. Juni 1884 auch Ludwig Purtscheller die Wand betrachtet
 und den Kopf dazu geschüttelt hatte, erfolgte am 9.&nbsp;August 1886 wieder eine
 eingehende Recognoscirung von Dr. Eduard Suchanek mit dem Raxführer Daniel
-Innthaler^[^1413]^, einem ganz vorzüglichen Steiger. Sie stiegen zwischen DirndIn und
+Innthaler^[^1413]^, einem ganz vorzüglichen Steiger. Sie stiegen zwischen Dirndln und
 Dachstein unter der tiefsten Einschartung in die Wand ein, wurden aber bald durch
 den Abbruch eines Bandes zur Umkehr gezwungen. Das Abschreiten der ganzen
 Wandbreitseite an ihrem Fusse blieb ebenso resultatlos.^[^1412]^
@@ -842,7 +842,7 @@ Kreuz und die Scharte das Hohe Kreuz in 6½&nbsp;Stunden (5 Stunden Gehzeit) zu
 erreichen. Der Abstieg wurde über den Hohen und Niederen Ochsenkogel zurück
 zur Simonyhütte genommen^[^1426]^
 
-**Die DirndIn.**^[^1427]^ Also heissen die beiden Felsthürme am südlichsten Eckpunkt
+**Die Dirndln.**^[^1427]^ Also heissen die beiden Felsthürme am südlichsten Eckpunkt
 des Hallstätter Gletschers, zwischen der Dachsteinwarte und dem Gjaidsteinsattel.
 Eine zwischen ihnen sich zeigende Lücke wird das «Steinfensterl» genannt und
 ist nicht mit dem gleichnamigen Gebilde im Grat des Koppenkarsteins zu verwechseln.
@@ -896,7 +896,7 @@ ziemliche Schwierigkeiten, ebenso der Abstieg in die erste Scharte. Die zweite
 Gratstufe hängt weit über; ein Versuch, sie im Norden zu erklettern, scheiterte;
 es musste in die ungemein exponirte Südseite ausgebogen werden. Um eine
 überhängende Ecke herum gelangten die Bergsteiger in eine ebensolche Nische direct
-ober der Südwand in dem Couloir zwischen den beiden DirndIn. Sodann wurde
+ober der Südwand in dem Couloir zwischen den beiden Dirndln. Sodann wurde
 der Ueberhang gegen links erklettert und über brüchige Platten der Grat gewonnen. Der
 letzte Gipfelbau des Kleinen Dirndls wurde durch den grossen Kamin
 an der Ostseite erklettert. Die Kletterei währte 1½&nbsp;Stunden. Der Abstieg wurde
