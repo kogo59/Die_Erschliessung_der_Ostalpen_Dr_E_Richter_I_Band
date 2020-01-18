@@ -483,7 +483,7 @@ Westgipfel erreichte, dann zum Ostgipfel überging und von diesem aus den Abstie
 zum Höllenthal unternahm und glücklich durchführte. Um 8&nbsp;U. den Gipfel verlassend,
 verfolgten sie eine Strecke weit den Grat abwärts, stiegen aber dann direct
 über die Steilwände ab, mussten an zwei Stellen die Hilfe des Seiles in Anspruch
-nehmen und erreichten um 10¼&nbspU. den Höllenthalferner, dessen hartgefrorene
+nehmen und erreichten um 10¼&nbsp;U. den Höllenthalferner, dessen hartgefrorene
 Schneedecke ihnen infolge der starken Neigung noch Schwierigkeiten bereitete.
 Um 1¼&nbsp;U. trafen sie an den Knappenhäusern und um 4&nbsp;U. nachmittags in
 Garmisch ein. (Winhart fand 1875 ein frühes, trauriges Ende; er ist verschollen in dem
