@@ -57,19 +57,19 @@ $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS
 	$(CALIBRE)calibredb remove $(BID)
 	rm $(BUILD)/epub/$(OUTPUT_FILENAME).azw3
 
-$(BUILD)/html/$(OUTPUT_FILENAME).html: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF)
-	mkdir -p $(BUILD)/html
-	cp  *.css  $(IMAGES_FOLDER)
-	pandoc $(ARGS) --self-contained --standalone --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
-	rm  $(IMAGES_FOLDER)/*.css
+#$(BUILD)/html/$(OUTPUT_FILENAME).html: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF)
+#mkdir -p $(BUILD)/html
+#cp  *.css  $(IMAGES_FOLDER)
+#pandoc $(ARGS) --self-contained --standalone --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
+#rm  $(IMAGES_FOLDER)/*.css
 
-$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(CSS_FILE_PRINT) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF) $(PREFACE_HTML_PDF)
-	mkdir -p $(BUILD)/pdf
-	cp  $(IMAGES_FOLDER)/*.jpg .
+#$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(CSS_FILE_PRINT) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF) $(PREFACE_HTML_PDF)
+#mkdir -p $(BUILD)/pdf
+#cp  $(IMAGES_FOLDER)/*.jpg .
 #	cp  $(IMAGES_FOLDER)/*.png .
-	pandoc $(ARGS) $(CSS_ARG_PRINT) --self-contained --standalone --pdf-engine=weasyprint --resource-path=$(IMAGES_FOLDER) --from markdown+yaml_metadata_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans  --to=html5  -o $@  $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
-	rm *.jpg
-	rm *.png
+#	pandoc $(ARGS) $(CSS_ARG_PRINT) --self-contained --standalone --pdf-engine=weasyprint --resource-path=$(IMAGES_FOLDER) --from markdown+yaml_metadata_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans  --to=html5  -o $@  $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
+#	rm *.jpg
+#	rm *.png
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
 																			 $(COVER_IMAGE) $(PREFACE_HTML_PDF)

@@ -177,8 +177,8 @@ werden, weil beständig Trümmer losgingen und in den Schacht hinabsprangen.
 Am<a name="S124"></a> schlimmsten ging es hier Herrn Oberst. Das auf dem Rücken festgeschnallte
 Barometer, das das geringste Versehen natürlich zerbrochen oder sonst unbrauchbar
 gemacht haben würde, wurde ihm überall hinderlich. Er durfte sich nie wie wir
-andern ganz auf den Rücken niederlassen und im Schlot stemmte sich das Baro-
-meter gegen die Seitenwände, so dass Oberst, um sachte wieder loszukommen,
+andern ganz auf den Rücken niederlassen und im Schlot stemmte sich das Barometer
+gegen die Seitenwände, so dass Oberst, um sachte wieder loszukommen,
 am Seile nicht geringe Plage hatte und sich drehend einige Male ganz in die Luft
 hinausschnellen musste.» Doch wurde ohne Unfall der Schneeferner erreicht und
 mit einer unfreiwilligen Rutschfahrt Einsele’s am Ferner endete die gelungene Partie.
@@ -1128,7 +1128,7 @@ entschlossen sich höchstens 70&nbsp;m. von dem gangbaren letzten Theile noch en
 infolge der Unübersichtlichkeit der folgenden Strecke und der vorgerückten Tageszeit
 zur Umkehr. Im Abstiege sich tiefer haltend, gewannen sie mit vielen Schwierigkeiten
 den von der Scharte zur Wangalpe hinabziehenden Felstobel und durch
-diesen<a name="S146"></a> aufwärts steigend die Scharte wieder; ein Bivouak im Oberreinthal bildete
+diesen aufwärts steigend die Scharte wieder; ein Bivouak im Oberreinthal bildete
 den Schluss des anstrengenden Tages.
 
 Schon am 8. August 1883 wiederholte Reichert den Versuch. Um 6&nbsp;U. morgens
@@ -1395,7 +1395,7 @@ hereingefahren waren, über den Schachen zum Wettersteingatterl, 11 &nbsp;U.&nbs
 vormittags, überschritten das Platt, rasteten nahe den Wandabstürzen des Gipfelmassivs von
 12&nbsp;U.&nbsp;45 bis 1&nbsp;U.&nbsp;25 und stiegen dann die Linie Kiendl’s und
 Barth’s verfolgend, zu der Grateinsattlung empor, 2&nbsp;U.&nbsp;5. Südwärts
-gewendet, hielten sie sich an den Anstieg Barth’s ([Seite 146](#146)), nur umgingen sie
+gewendet, hielten sie sich an den Anstieg Barth’s ([Seite 146](#S146)), nur umgingen sie
 den Vorgipfel an seiner Ostseite ziemlich hoch. 2&nbsp;U.&nbsp;25 betraten sie den
 Gipfel der Leutascher Dreithorspitze.
 

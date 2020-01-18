@@ -1,6 +1,6 @@
-# **`DIE ENNSTHALER ALPEN.`**^[^1600]^<br /> {#ENNS .unnumbered}
+# **`DIE ENNSTHALER ALPEN.`**^[^1601]^<br /> {#ENNS .unnumbered}
 :::: align-center
-Von  **Heinrich Hess**^[^1601]^ in  Wien.<br /><br />
+Von  **Heinrich Hess**^[^1600]^ in  Wien.<br /><br />
 ::::
 :::: align-center
 ****
@@ -327,8 +327,8 @@ umfassen mit den Abstürzen des Oedsteins in grossem Bogen das Heindlkar.
 Zwischen Planspitze und Rosskuppe springt aus der sonst nirgends unterbrochenen,
 mächtigen Wandflucht ein Felspfeiler etwas vor, zwischen sich und den Mauern
 der Rosskuppe eine in steilen Terrassen abfallende schluchtartige Mulde schaffend.
-Hier leitet der Peternpfad durch. Wer diesem Wege den Namen Peternpfad ge-
-geben, dürfte wohl nicht mehr festzustellen sein. Der Name Peter spielt in der
+Hier leitet der Peternpfad durch. Wer diesem Wege den Namen Peternpfad gegeben,
+dürfte wohl nicht mehr festzustellen sein. Der Name Peter spielt in der
 Namengebung der Einwohner überhaupt eine grössere Rölle, wie ja z. B. auch die
 wohlriechende Primel (Primula auricula) hier «Peterg’stamm» genannt wird. Rodlauer
 gibt folgende Erklärung: Anfangs der Fünfzigerjahre trieb in den Bergen
@@ -479,8 +479,8 @@ Aber auch diese kühne Zinne hat ihre Bezwinger gefunden. Die Touristen
 sind freilich erst spät gekommen, aber ein unternehmender Johnsbacher Jäger hat
 zweifellos den Beherrscher seines Heimatsthales schon in den Fünfzigerjahren betreten.
 
-Jene wenigen Reisenden, welche in den Siebzigerjahren nach Johnsbach ge-
-kommen sind und im Donner-Wirthshause Aufenthalt genommen haben, erinnern
+Jene wenigen Reisenden, welche in den Siebzigerjahren nach Johnsbach gekommen
+sind und im Donner-Wirthshause Aufenthalt genommen haben, erinnern
 sich gewiss noch einer verwitterten, damals schon etwas eingeschrumpften Gestalt,
 des alten Jägers Fehringer (v. Festl). Stundenlang sass der alte Mann, der auf
 einem Jagdgange das Unglück gehabt hatte, sich eine schwere Beschädigung zuzuziehen,
@@ -543,11 +543,11 @@ gefährlich beim Abstieg, der gleichwohl in kaum 4&nbsp;Stunden durchgeführt wu
 Zunächst erreichten dann, und zwar noch unter winterlichen Verhältnissen,
 am 3.&nbsp;April 1882 Carl Diener und Emil Zsigmondy den Gipfel. Der eingeschlagene
 Weg war der Hauptsache nach der gleiche, wie derjenige der beiden früheren
-Partien, aber starke Schneebedeckung und Vereisung, sowie schlechtes Wetter er-
-schwerten die Partie derart, dass erst nach 8½&nbsp;Stunden, und zwar um 2&nbsp;U.&nbsp;11
+Partien, aber starke Schneebedeckung und Vereisung, sowie schlechtes Wetter erschwerten
+die Partie derart, dass erst nach 8½&nbsp;Stunden, und zwar um 2&nbsp;U.&nbsp;11
 nachmittags der höchste Punkt erreicht wurde.^[^1633]^ Im Abstieg machte sich die
 Vereisung noch wesentlich erschwerender geltend, und die beiden Bergsteiger waren
-dadurch, dass sie etwas vom Wege abgekommen waren und von der Nacht über-rascht
+dadurch, dass sie etwas vom Wege abgekommen waren und von der Nacht überrascht
 wurden, genöthigt, in kalter Aprilnacht ein Bivouak in etwa 1500—1600&nbsp;m.
 Höhe zu beziehen. Am 4.&nbsp;April vormittags wurde ohne Unfall Johnsbach wieder
 erreicht. Diese ganze Tour hat der verewigte Emil Zsigmondy in seiner treffllichen,
@@ -709,9 +709,9 @@ Kaminwand.
 Eine Variante dieses Weges führten am 13.&nbsp;September 1891 Fösermayer,
 Schwager und Victor Sellner aus.^[^1644]^ Sie stiegen von dem Bande, welches man
 nach Ueberquerung des senkrechten Risses nach rechts aufwärts verfolgt, nicht auf
-das nächst höhere, auf welchem die früheren Partien wieder in die Schlucht zurück-
-kehrten, sondern verfolgten das erste Band weiter hinaus in die Wände über auf-
-fallend roth gefärbte Felsen, bis dasselbe abbrach. Von dort wurde über nahezu
+das nächst höhere, auf welchem die früheren Partien wieder in die Schlucht zurückkehrten,
+sondern verfolgten das erste Band weiter hinaus in die Wände über auffallend roth
+gefärbte Felsen, bis dasselbe abbrach. Von dort wurde über nahezu
 senkrechte Felsen emporgeklettert, um endlich, auf einem sehr schmalen, geneigten
 Bande nach links traversirend, zu einer Felsnische zu gelangen, von der aus schon
 die Ausstiegsscharte sichtbar war. Ein gut gangbares Band leitete in die Schlucht

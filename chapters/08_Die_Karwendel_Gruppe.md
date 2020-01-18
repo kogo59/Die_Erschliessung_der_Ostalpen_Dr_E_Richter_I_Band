@@ -1633,8 +1633,8 @@ Im gleichen Monate 1867 finden wir J. Pock mit der auch vielseitig als
 Höttinger Solstein bezeichneten Spitze des **Hohen Brandjochs**^[^925]^ beschäftigt.
 Nachdem er von Hötting über den Achselkopf das Kleine Brandjoch erstiegen, versuchte
 er auf die niedrige vordere Spitze, auch Brandjochkreuz, überzusteigen, doch misslang
-der erste Versuch wegen gänzlicher Ungangbarkeit des Grates, der zweite Ver-
-such wurde über die Höttinger Alpe und den Frau Hitt-Sattel und von da über
+der erste Versuch wegen gänzlicher Ungangbarkeit des Grates, der zweite Versuch
+wurde über die Höttinger Alpe und den Frau Hitt-Sattel und von da über
 den anfänglich grünen Grat in westlicher Richtung unternommen. Bei Uebergang
 auf die Südseite stürzte indess Pock etwa 25&nbsp;Minuten unter dem Gipfel ab, so dass
 auch dieses Mal die Partie aufgegeben werden musste. Erst der dritte Versuch,

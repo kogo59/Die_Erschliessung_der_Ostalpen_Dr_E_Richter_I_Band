@@ -223,7 +223,7 @@ auf dem Rossfelde, Hagengebirge, in den Salzachöfen; von der Section Hallein
 Wegmarkirungen auf das Rossfeld und den Vorbergen des Hohen Göll; von der
 Section Pinzgau der Wegbau auf die Ramseiderscharte und Markirungen auf dem
 Steinernen Meere; von der Section Reichenhall auf der Reiteralpe; von der
-Section Prag Weganlagen und Wegmarkirungen in den Loterer Steinbergen; von
+Section Prag Weganlagen und Wegmarkirungen in den Loferer Steinbergen; von
 der Section Saalfelden des D. u. De. A.-V. Wegverbesserungen und Wegmarkirungen,
 auf dem Steinernen Meere und dem Birnhorn; von der Section Saalfelden des
 Oe. T.-C. Wegbauten und Wegbezeichnungen auf dem Hochkönig und der Thorscharte,
@@ -779,8 +779,8 @@ Letzterer in Begleitung seiner Frau Anna und seines Sohnes Max, den Hundstod
 veröffentlichtes Panorama aufnahmen. Der Abstieg wurde über die Trischüblalpe
 bewerkstelligt, wo sie die Nacht verbrachten.
 
-Ein anderer, bisher wenig beachteter Gipfel in der Nähe des Grossen Hunds-
-tod ist der **Hundstodkantelkopf** 2395&nbsp;m., der sich nördlich des ersteren als eine
+Ein anderer, bisher wenig beachteter Gipfel in der Nähe des Grossen Hundstod ist
+der **Hundstodkantelkopf** 2395&nbsp;m., der sich nördlich des ersteren als eine
 stattliche, in das Wimbachthal mit hohen, röthlichen Wänden abstürzende Pyramide
 erhebt. Derselbe wurde am 18.&nbsp;Mai 1884 touristisch zum ersten Male von
 Professor Hans Schöller aus Salzburg und dem Verfasser erstiegen.
@@ -1623,8 +1623,8 @@ vorspringenden Eckpfeilern und zackiger Mauerkrone steigt der oberste Gipfelkör
 des Berges in die Lüfte, gegen jeden Angriff von dieser Seite gesichert. Wir überschritten
 ein grosses Schneefeld, tief in den weichen Schnee einsinkend, und nicht
 ohne Besorgniss, dass die lockere Masse plötzlich in Bewegung gerathe. Hierauf
-überstiegen wir eine Reihe Felsstufen und plattige Hänge, der Blaueisscharte zu-
-strebend, die noch hoch über uns herabwinkte. Um 9¼&nbsp;U. war sie endlich nicht
+überstiegen wir eine Reihe Felsstufen und plattige Hänge, der Blaueisscharte
+zustrebend, die noch hoch über uns herabwinkte. Um 9¼&nbsp;U. war sie endlich nicht
 ohne Mühe erreicht. Wir hatten vom Schlosse Wimbach bis zur Scharte, entgegen
 unserer bedeutend höheren Schätzung, nur 5&nbsp;Stunden 20&nbsp;Minuten gebraucht.»
 
@@ -2170,8 +2170,8 @@ Felswand, eine Anlage, die an Kühnheit und Zweckmässigkeit, an Eigenthümlichk
 an abwechslungsvollen Ausblicken auf die Landschaft ihresgleichen sucht.
 "Dieser Weg, der nach dem verdienstvollen Alpenfreunde Ludwig Doppler den
 Namen «Dopplersteig» trägt, wurde am 16. Juli 1876 eröffnet. Die Kosten dieser und
-der übrigen von der Section Salzburg durchgeführten Weganlagen auf dem Unters-
-berge betragen circa 7000 fl., während sich deren Länge über 9000&nbsp;m. beläuft.^[^1246]^
+der übrigen von der Section Salzburg durchgeführten Weganlagen auf dem Untersberge
+betragen circa 7000 fl., während sich deren Länge über 9000&nbsp;m. beläuft.^[^1246]^
 
 Der Gedanke der Erbauung eines Unterkunftshauses auf dem Untersberge, der
 schon 1873 ins Auge gefasst wurde, konnte erst 1883 zur That werden.
@@ -2212,8 +2212,8 @@ Gebirges gestattet den einzelnen Gipfelbauten nicht, sich zu grösserer Höhe un
 Selbständigkeit emporzuschwingen.
 
 Die Scheitelfläche des Tennen Gebirges wird von zwei Plateaus ausgefüllt,
-die durch den Scheiblingbühel ihre Abgrenzung erhalten. Der östlich sich an-
-schliessende Kessel der Tennalpe ist eine selbständige, den beiden Hochplateaus
+die durch den Scheiblingbühel ihre Abgrenzung erhalten. Der östlich sich anschliessende
+Kessel der Tennalpe ist eine selbständige, den beiden Hochplateaus
 vorgelagerte Stufe. Die durchschnittliche Höhe des westlichen Plateaus beträgt
 2160&nbsp;m. und die des östlichen 2130&nbsp;m. Der Kessel der Tennalpe nimmt an
 räumlicher Ausdehnung ungefähr den vierten Theil der Oberfläche des Gebirges ein.

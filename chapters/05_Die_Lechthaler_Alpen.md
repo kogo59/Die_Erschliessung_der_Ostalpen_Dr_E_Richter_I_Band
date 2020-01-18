@@ -663,9 +663,9 @@ Es ist wohl wahrscheinlich, dass die eine oder andere führerlose Tour gemacht
 wurde, da diese Spitze sehr leicht zu besteigen ist, aber bekannt ist bis jetzt nur
 die Partie A. Spiehler’s.
 
-**Kreuzjochspitze** 2887&nbsp;m.^[^481]^ Erste Ersteigung von A. Spiehler mit-Chr. Frech
-am 2. September 1886. Vom Silberjoch zur schräg eingeschnittenen engen Grat-
-scharte nahe östlich des Gipfels; nach vergeblichen Versuchen an den Platten der
+**Kreuzjochspitze** 2887&nbsp;m.^[^481]^ Erste Ersteigung von A. Spiehler mit Chr. Frech
+am 2. September 1886. Vom Silberjoch zur schräg eingeschnittenen engen Gratscharte
+nahe östlich des Gipfels; nach vergeblichen Versuchen an den Platten der
 Südflanke wurde von der Scharte aus in die Nordflanke eingedrungen und über
 die gegen Vielleid abstürzenden Wände der westlich zum Gipfel ziehende höhere
 Gratabschnitt erklettert. Derselbe ist an kurzer Strecke gangbar; eine schmale Leiste

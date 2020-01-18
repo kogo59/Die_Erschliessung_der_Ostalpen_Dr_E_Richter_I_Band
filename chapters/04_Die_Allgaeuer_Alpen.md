@@ -945,7 +945,7 @@ aus erfolgte und als Führer Vincenz diente, über dessen sonstige Führerthäti
 zur Zeit Nichts bekannt ist. Bis zur Erbauung des Waltenberger-Hauses war der
 Einödsbacher Aufstieg als bedenklich verrufen. Baptist (Schraudolph) hatte bis
 1875 nicht mehr als 30 Partien geführt; sein erster «Fremder» war 1855 von
-Dommeler<a name="S24"></a> aus Leipzig. In Oberstdorf war die Tour damals noch sehr unbekannt
+Dommeler<a name="S59"></a> aus Leipzig. In Oberstdorf war die Tour damals noch sehr unbekannt
 und erregte ziemliches Aufsehen; sie galt nach der Höfats als die schwierigste.
 Die drastische Schilderung Steudel’s vom tödtlichen Absturz eines Touristen
 scheint uns, obgleich Hipp als Gewährsmann angeführt wird, aus der Luft gegriffen;
@@ -2626,7 +2626,7 @@ angesehen wird.]{.footnote}
 
 [^234]: [*E. von Mojsisovic*:  vergleiche [Edmund Mojsisovics von Mojsvár](https://de.wikipedia.org/wiki/Edmund_Mojsisovics_von_Mojsv%C3%A1r)]{.footnote}
 
-[^235]: [Verhandlungen der k. k. geologischen Reichsanstalt 1871. Dr. Edm. von Mojsisovics: Das Gebirge im Süden und Osten des Lech zwischen Füssen und Ellmen.—Die Kalkalpen des Ober-Innthales zwischen Silz und Landeck und des l.oisach-Gebietes bei Lermoos.]{.footnote}
+[^235]: [Verhandlungen der k. k. geologischen Reichsanstalt 1871. Dr. Edm. von Mojsisovics: Das Gebirge im Süden und Osten des Lech zwischen Füssen und Ellmen.—Die Kalkalpen des Ober-Innthales zwischen Silz und Landeck und des Loisach-Gebietes bei Lermoos.]{.footnote}
 
 [^236]: [Benützt werden Privatmittheilungen der Herren Steuer-Assessor A. Waltenberger und Premierlieutenant O. Jäger vom topographischen Bureau in München; ferner ausser den Kartenwerken Katastralblättern und dem Grenzbeschreibungswerk die Mittheilungen des k. u. k. militärgeographischen Instituts, I. Jahrgang 1881, und die beiden Aufsätze von A. Waltenberger und O. Volkmer in der Z. A.V. 1882.]{.footnote}
 

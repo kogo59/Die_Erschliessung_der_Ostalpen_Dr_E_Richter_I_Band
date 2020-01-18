@@ -208,7 +208,7 @@ unschwer ersteiglich; sie erscheint vom Eibsee aus neben dem Schellschlicht^[^98
 gegen Süden, zumal auf den sich grossartig zeigenden Wetterstein, den Eibsee und
 das oberste Loisachthal.
 
-<a name="S33"></a>Aus dem nördlichen Hauptzuge des Ammergebirges sei nur die Hochplatte^[^986]^
+<a name="S233"></a>Aus dem nördlichen Hauptzuge des Ammergebirges sei nur die Hochplatte^[^986]^
 2085&nbsp;m. erwähnt; sie dominirt zwischen Pöllatthal und Ambergries. Bisher war nur
 der Anstieg von Süden (Pöllatthal) her durch die Zwieselgrube bekannt, Diemer
 (a. a. O., 19) erstieg den Berg jedoch von Osten, zuerst von der in der Verlängerung des

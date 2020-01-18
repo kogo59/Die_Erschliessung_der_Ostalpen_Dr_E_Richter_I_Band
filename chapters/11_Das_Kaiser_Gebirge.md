@@ -1023,8 +1023,8 @@ Sonnenecks; meistens sind es Münchener, welche diese Zinne besteigen. Das
 Fremdenbuch hat Anton Hild in Kufstein gespendet.^[^1101]^
 
 Der **Scheffauer Kaiser**^[^1102]^ 2113 m. mit seiner höchsten Erhebung, den
-Hochköpfen, bildet den ersten bedeutenden Gipfelaufbau im Wilden Kaiser; mit mauer-
-artigen Wänden stürzt er sowohl gegen den Hintersteinersee, als auch zur Steinbergalpe
+Hochköpfen, bildet den ersten bedeutenden Gipfelaufbau im Wilden Kaiser; mit
+mauerartigen Wänden stürzt er sowohl gegen den Hintersteinersee, als auch zur Steinbergalpe
 ab. Zu seinen Füssen liegt ein mit Wald und Weide bedecktes Mittelgebirge. Seine
 Ersteigung ist zu den leichtesten in unserer Gruppe zu zählen und
 wohl schon seit undenklichen Zeiten bekannt. Sein Gipfel dürfte auch den Vermessungen

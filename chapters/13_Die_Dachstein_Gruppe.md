@@ -1478,7 +1478,7 @@ diesem Aufsatze wurden auch die vorliegenden Mittheilungen entnommen.]{.footnote
 
 [^1375]: [Simony in Oe. T. Z., III, 1883, 109.]{.footnote}
 
- [^1376]: [Simony, «Drey Decembertage auf dem Dachsteingebirge», Wiener Zeitschr. f. Kunst, Lit, Theater u. Mode, 1843, Nr. 225—230.{.footnote}
+ [^1376]: [Simony, «Drey Decembertage auf dem Dachsteingebirge», Wiener Zeitschr. f. Kunst, Lit, Theater u. Mode, 1843, Nr. 225—230.]{.footnote}
 
 [^1377]: [Simony, «Die Gletscher des Dachstein Gebirges», Sitzungsber. der kais. Akad. der Wissenschaften,
 Wien 1871, 503, Anm.]{.footnote}
@@ -1696,7 +1696,7 @@ die Simony’sche Besteigung war damals noch nichts verlautbart worden (siehe ob
 
 [^1490]: [*Alfred Pallavicini*:  vergleiche [Alfred von Pallavicini](https://de.wikipedia.org/wiki/Alfred_von_Pallavicini)]{.footnote}
 
-[^1476]: [Salzburger Zeitung vom 18. Juni 1879 und Rumpler in Oe. A. Z. 1881, 267— 271 und 28ı bis 283.]{.footnote}
+[^1476]: [Salzburger Zeitung vom 18. Juni 1879 und Rumpler in Oe. A. Z. 1881, 267— 271 und 281 bis 283.]{.footnote}
 
 [^1477]: [Lendenfeld in N. D. A. Z. IX, 1879, 38.]{.footnote}
 

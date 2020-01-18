@@ -352,7 +352,7 @@ Kammes getrennt, erhebt sich ein scharfzackiger, von West nach Öst streichender
 Felsgrat. Zunächst dem Gatterl stehen die drei Thörlspitzen, deren zwei mit 2429'6&nbsp;m.
 und 2444'2&nbsp;m. k. b. T. B., beziehungsweise 2428&nbsp;m. und 2444&nbsp;m. ö. M.M.
 gemessen sind; nach ein paar weiteren Gratzacken folgt östlich die schöne Felskuppe
-des Mustersteins. Das ganze Massiv fällt gegen Süden zum l.eutascher Platt (Berglenplattach),
+des Mustersteins. Das ganze Massiv fällt gegen Süden zum Leutascher Platt (Berglenplattach),
 gegen Norden zum Angerlloch (missbräuchlich auch Carl&nbsp;Theodor-Thal genannt) ab;
 nur vom Musterstein zweigt ein Sattel zum nördlich vorgelagerten Hirschbichlkopf ab,
 zugleich das Angerlloch von einem tiefeingeschnittenen, östlichen, kleineren Kare trennend.
