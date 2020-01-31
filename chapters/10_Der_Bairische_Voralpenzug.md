@@ -432,7 +432,7 @@ III, 1890, 65—99.
 
 Auf Veranlassung des damaligen Central-Ausschusses in München hat das
 königl. bairische topographische Bureau 1887 das Gebiet neu vermessen und eine
-Karte desselben in 1: 25.000 mit Niveaulinien zu 10&nbsp;m. herausgegeben, die aus
+Karte desselben in 1:25.000 mit Niveaulinien zu 10&nbsp;m. herausgegeben, die aus
 den einschlägigen Positionsblättern zusammengesetzt ist und von Brannenburg im
 Osten bis Fischbachau im Westen, von Litzldorf im Norden bis gegen Bairisch
 Zell im Süden reicht. (Preis 1 Mark.)

@@ -118,7 +118,7 @@ selbst ist, trotzdem durch dieselbe ein breiter Kamin herabzieht, direct wahrsch
 unersteiglich.
 
 Dieselben Herren vollführten im Jahre 1879 (genau ist das Datum aus dem
-darauf bezüglichen Aufsatze:^[^1808]^ «Zur Beherzigung' für alpine Heisssporne» nicht zu
+darauf bezüglichen Aufsatze:^[^1808]^ «Zur Beherzigung für alpine Heisssporne» nicht zu
 entnehmen), den Aufstieg durch den Lahngraben. Dieser zweigt ungefähr 10&nbsp;Minuten
 von dem Eingange des Weichthales zur Rechten ab. Durch den Graben geht
 es steil aufwärts bis zu einer Felsenge, wo eine circa 300&nbsp;m. hohe Felswand das
@@ -199,8 +199,8 @@ auch auf der Raxalpe kleine perennirende Schneelagen, doch ist der höchste Gipf
 das ganze Plateau mit Alpenmatten zum Theil mit Krummholzbeständen bedeckt.
 Steile, oft mauerglatte Wände, tief eingerissene, häufig von Felsterrassen durchsetzte
 Gräben und Schluchten, geröllbedeckte Hänge vermitteln den Anstieg, Am
-Wetterkogel 1803&nbsp;m. steht das im Jahre 1876 vom Oe. T.-C. erbaute Carl Ludwig-
-Schutzhaus, welches Sommer und Winter über bewirthschaftet dem Bergwanderer
+Wetterkogel 1803&nbsp;m. steht das im Jahre 1876 vom Oe. T.-C. erbaute Carl Ludwig-Schutzhaus,
+welches Sommer und Winter über bewirthschaftet dem Bergwanderer
 ein freundliches Asyl gewährt.
 
 Hermann Wallnöfer erwähnt in einem 1876 erschienenen Aufsatz,^[^1816]^ dass

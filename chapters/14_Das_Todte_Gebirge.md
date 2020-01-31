@@ -271,7 +271,7 @@ Nähe des sich gabelnden Kamines, dessen linker Ast durch einen Felskopf flankir
 wird. Nach Ueberschreitung einer 8&nbsp;m. breiten flachen Rinne nahm Lamberger
 den Aufstieg durch einen kleinen Kamin, der sich links vom erwähnten Felskopf
 emporzieht. Nach Passirung einer spaltförmigen Enge wurde rechts um den
-erwähnten Felskopf traversirtt und nach einer kurzen Felskletterei in den linksseitigen
+erwähnten Felskopf traversirt und nach einer kurzen Felskletterei in den linksseitigen
 Hauptast des sich gabelnden Kamines eingestiegen. Um 2&nbsp;U. war der
 Kamin, 2&nbsp;U.&nbsp;30 die trichterförmige Einsenkung überwunden, die sich bis
 zum Spitzmauer Sattel emporzieht, 3&nbsp;U.&nbsp;20 langte Lamberger auf der Spitze
@@ -302,7 +302,7 @@ Kögel und den Einschnitt des Schneethales, von wo die Genannten über den
 plattigen, aus einer Reihe von Felsköpfen bestehenden Südwestrücken zur Spitze
 vordrangen.
 
-Westlich vom Schneethal folgt hierauf der **Rothgschirrberg**^[^1547]^ 2257&nbsp;m.,^[^1545]^  
+Westlich vom Schneethal folgt hierauf der **Rothgschirrberg**^[^1547]^ 2257&nbsp;m.,^[^1545]^
 eine schmale Felsschneide, die sich vom Sattel^[^1546]^ der Rothen Kögel erst nördlich
 bis zum Gipfel und von hier östlich gegen das Schneethal wendet. Die erste touristische
 Ersteigung^[^1548]^  dieses früher schon von Jägern und gelegentlich der Vermessung
@@ -429,7 +429,7 @@ Museums Franzisco-Carolinum, Linz 1858.]{.footnote}
 
 [^1510]: [*Todtes Gebirge*:  vergleiche [Totes Gebirge](https://de.wikipedia.org/wiki/Totes_Gebirge)]{.footnote}
 
-[^1511]: [*Hoher Priel*:  vergleiche [Großer Priel](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Priel]{.footnote}
+[^1511]: [*Hoher Priel*:  vergleiche [Großer Priel](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Priel)]{.footnote}
 
 [^1512]: [Ortsüblich ist «Hoher» Priel.]{.footnote}
 
@@ -491,7 +491,7 @@ Museums Franzisco-Carolinum, Linz 1858.]{.footnote}
 
 [^1540]: [De. A.Z. 1889, XI, 146.]{.footnote}
 
-[^1541]: [Jb. A.V.„ IV, 130. Klammer behauptete nämlich, den Spitzmauer Sattel im Jahre 1866 mit einem Jäger direct von Osten, also von der Klinserschlucht aus, erreicht zu haben.]{.footnote}
+[^1541]: [Jb. A. V., IV, 130. Klammer behauptete nämlich, den Spitzmauer Sattel im Jahre 1866 mit einem Jäger direct von Osten, also von der Klinserschlucht aus, erreicht zu haben.]{.footnote}
 
 [^1542]: [«Grosser Priel 2514 m. und erste Besteigung der Spitzmauer 2446 m. direct von der Klinserschlucht». Oe. T. Z. 1892, XI, 13.]{.footnote}
 
@@ -550,4 +550,4 @@ A. Kutschera. Tourist 1872, IV, 1. 57. — Archäologische Entdeckungen auf dem 
 
 [^1569]: [*Traunstein*:  vergleiche [Traunstein](https://de.wikipedia.org/wiki/Traunstein_(Berg))]{.footnote}
 
-[^1570]: [Ein seltener betretener Pfad führt von der Hintermühle am Traunsee durch den Fensterlgraben auf den Mittleren oder Fahnengipfel. Auch vom Laudachsce erscheint die Spitze zugänglich. — «Eine Besteigung und Umwanderung des Traunsteins». Von A. Posselt. Amthor's Alpenfreund 1873, VI, 279. — «Der Traunstein bei Gmunden 5342 Fuss». Von A. Löw. Jb. Oe. T.-C. Wien 1876, VII, 86. — «Der Traunstein». Von R. Issler. N. D. A. Z. 1878, VII, 17. — «Der Traunstein 1661 &nbsp;m.». Von C. Biedermann. Tourist 1881, XII, Nr. 12, 1. — «Der Traunstein». Von G. H. Gasser. (Mit Panorama von A. Mühlbacher.) Oe. T. Z. 1881, I, 17.]{.footnote}
+[^1570]: [Ein seltener betretener Pfad führt von der Hintermühle am Traunsee durch den Fensterlgraben auf den Mittleren oder Fahnengipfel. Auch vom Laudachsee erscheint die Spitze zugänglich. — «Eine Besteigung und Umwanderung des Traunsteins». Von A. Posselt. Amthor's Alpenfreund 1873, VI, 279. — «Der Traunstein bei Gmunden 5342 Fuss». Von A. Löw. Jb. Oe. T.-C. Wien 1876, VII, 86. — «Der Traunstein». Von R. Issler. N. D. A. Z. 1878, VII, 17. — «Der Traunstein 1661 &nbsp;m.». Von C. Biedermann. Tourist 1881, XII, Nr. 12, 1. — «Der Traunstein». Von G. H. Gasser. (Mit Panorama von A. Mühlbacher.) Oe. T. Z. 1881, I, 17.]{.footnote}

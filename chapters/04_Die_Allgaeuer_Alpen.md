@@ -2620,13 +2620,13 @@ angesehen wird.]{.footnote}
 
 [^231]: [*Königin Marie von Bayern*:  vergleiche [Marie von Preußen (1825–1889)](https://de.wikipedia.org/wiki/Marie_von_Preu%C3%9Fen_(1825%E2%80%931889))]{.footnote}
 
-[^232]: [Erläuterungen zur geognostischen Karte Tirols und Schlussbericht von Dr. Herm. von Widmann. Innsbruck 1853.—Daselbst auch die Literatur des Vereins.]{.footnote}
+[^232]: [Erläuterungen zur geognostischen Karte Tirols und Schlussbericht von Dr. Herm. von Widmann. Innsbruck 1853. — Daselbst auch die Literatur des Vereins.]{.footnote}
 
 [^233]: [Die barometrischen Höhenmessungen der k. k. geologischen Reichsanstalt 1857. Von Heinr. Wolf. (Jahrbuch der k. k. geologischen Reichsanstalt X, 1859, 1. Viertel, 29.)]{.footnote}
 
 [^234]: [*E. von Mojsisovic*:  vergleiche [Edmund Mojsisovics von Mojsvár](https://de.wikipedia.org/wiki/Edmund_Mojsisovics_von_Mojsv%C3%A1r)]{.footnote}
 
-[^235]: [Verhandlungen der k. k. geologischen Reichsanstalt 1871. Dr. Edm. von Mojsisovics: Das Gebirge im Süden und Osten des Lech zwischen Füssen und Ellmen.—Die Kalkalpen des Ober-Innthales zwischen Silz und Landeck und des Loisach-Gebietes bei Lermoos.]{.footnote}
+[^235]: [Verhandlungen der k. k. geologischen Reichsanstalt 1871. Dr. Edm. von Mojsisovics: Das Gebirge im Süden und Osten des Lech zwischen Füssen und Ellmen. — Die Kalkalpen des Ober-Innthales zwischen Silz und Landeck und des Loisach-Gebietes bei Lermoos.]{.footnote}
 
 [^236]: [Benützt werden Privatmittheilungen der Herren Steuer-Assessor A. Waltenberger und Premierlieutenant O. Jäger vom topographischen Bureau in München; ferner ausser den Kartenwerken Katastralblättern und dem Grenzbeschreibungswerk die Mittheilungen des k. u. k. militärgeographischen Instituts, I. Jahrgang 1881, und die beiden Aufsätze von A. Waltenberger und O. Volkmer in der Z. A.V. 1882.]{.footnote}
 
@@ -2699,9 +2699,9 @@ nicht Gräben, spricht man wenigstens in Spielmannsau und Einödsbach. Hohe Tret
 
 [^263]: [*Wildengundkopf*:  vergleiche [Wildengundkopf](https://de.wikipedia.org/wiki/Wildengundkopf)]{.footnote}
 
-[^264]: [M. A.V. 1889, 65.]{.footnote}
+[^264]: [M. A. V. 1889, 65.]{.footnote}
 
-[^265]: [M. A.V. 1887, 118.]{.footnote}
+[^265]: [M. A. V. 1887, 118.]{.footnote}
 
 [^266]: [*Lieutenant Wundt*:  vergleiche [Theodor Wundt](https://de.wikipedia.org/wiki/Theodor_Wundt)]{.footnote}
 
@@ -2816,7 +2816,7 @@ gewesen zu sein oder doch nicht die heutigen Wegverhältnisse dargeboten zu habe
 
 [^321]: [Tour. XVII, 1886.]{.footnote}
 
-[^322]: [Vergl. Z.A. V, 1883, 265.]{.footnote}
+[^322]: [Vergl. Z. A. V, 1883, 265.]{.footnote}
 
 [^323]: [*Bschlabs*:  vergleiche [Bschlabs](https://de.wikipedia.org/wiki/Bschlabs)]{.footnote}
 
@@ -2835,7 +2835,7 @@ gewesen zu sein oder doch nicht die heutigen Wegverhältnisse dargeboten zu habe
 [^331]: [Nach Aussage alter Höfats-Kenner wie Blattner sind derartige Fälle weder bekannt noch
 wahrscheinlich.]{.footnote}
 
-[^332]: [M.A.V. 1889, 52.]{.footnote}
+[^332]: [M. A. V. 1889, 52.]{.footnote}
 
 [^333]: [Auch Haupt- oder Signalgipfel, westlichster, höchster genannt; bei dem geknickten Lauf des
 Gipfelkammes, in dem übrigens die meridionale Richtung überwiegt, führt die Angabe nach Himmelsrichtungen leicht zu Irrthümern.]{.footnote}
@@ -2843,7 +2843,7 @@ Gipfelkammes, in dem übrigens die meridionale Richtung überwiegt, führt die A
 [^334]: [Einheimische sollen bei einem Besteigungsversuch ungefähr die halbe Höhe hinaufgeklettert
 sein, bis ein glatter Absatz das weitere Vordringen unmöglich machte..]{.footnote}
 
-[^335]: [M.A. V. 1886, 153.]{.footnote}
+[^335]: [M. A. V. 1886, 153.]{.footnote}
 
 [^336]: [D. h. die nördliche, anfangs wenig nach Westen abweichende Fortsetzung des Hauptgrates;
 von Barth schreibt «Westgrat». Uebrigens bedarf, wie die ganze Höfatsangelegenheit, auch unsere
@@ -2902,7 +2902,7 @@ Ostschulter des Hochvogels erhebt; sie entspricht also ungefähr der Kaltenwinke
 
 [^361]: [Ausführliche Beschreibung: Tour. XVIII (1886).]{.footnote}
 
-[^362]: [Die Allgäuer Hochvogelführer begnügten sich bis heute, von der ‚oben erwähnten Ausnahme 5 abgesehen, mit der Hauptlinie.]{.footnote}
+[^362]: [Die Allgäuer Hochvogelführer begnügten sich bis heute, von der‚ oben erwähnten Ausnahme 5 abgesehen, mit der Hauptlinie.]{.footnote}
 
 [^363]: [*Kreuzspitze*:  vergleiche [Kreuzspitze (Allgäuer Alpen)](https://de.wikipedia.org/wiki/Kreuzspitze_(Allg%C3%A4uer_Alpen))]{.footnote}
 

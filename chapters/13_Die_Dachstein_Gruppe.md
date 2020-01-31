@@ -67,7 +67,7 @@ Salzburg und Steiermark und als der westlichste «sehr hohe Kogel des grossen
 Schneegebirges» bezeichnet, der Dachstein als östlich von diesem gelegen und auch
 als höher. Es ist nämlich der Dachstein, ohne dass ein Signal darauf gesetzt worden
 wäre, schon im Jahre 1822 von der steiermärkischen Kataster-Triangulirung gemessen
-worden, und zwar vom Grimming,. Knallstein und Hochgolling aus fast
+worden, und zwar vom Grimming, Knallstein und Hochgolling aus fast
 ganz übereinstimmend zu 1581'69 Klafter&nbsp;=&nbsp;2999'5 m.^[^1307]^ Leider aber
 ist diese Messung in dem betreffenden Protokolle^[^1308]^ nicht in ganz leicht
 verständlicher und syntaktisch richtiger Weise registrirt worden. Es heisst nämlich
@@ -110,7 +110,7 @@ konnte jedoch, wenn nicht mit grösster Aufmerksamkeit gelesen, begreiflicherwei
 leicht dem Missverständnisse Raum geben, als wenn der Thorstein der
 höhere Gipfel, der Dachstein aber der niedrigere und gleichzeitig der Grenzpunkt
 der drei Kronländer wäre. Dieses Missverständniss findet sich, insoweit es den
-Grenzverlauf betrifft, schon auf den eben erwähnten Katastralpläinen vom Jahre
+Grenzverlauf betrifft, schon auf den eben erwähnten Katastralplänen vom Jahre
 1824, wo die drei Grenzen ursprünglich auf dem der Lage nach richtig gezeichneten
 Dachstein zusammenliefen anstatt auf dem Thorstein. Der Irrthum wurde jedoch
 später erkannt und auf den Plänen «infolge hohen k. k. Finanz-Ministerialdecretes
@@ -131,7 +131,7 @@ Dachstein genannt, ist die Grenzmark zwischen Salzburg, Oesterreich und Steierma
 1581'69 Klafter.» Man sieht bei dem Vergleich mit den vorhin gebrachten Originalcitaten
 ganz deutlich, wie das Missverständniss entstanden ist. Nach dem Baumgartner’schen
 Verzeichnisse musste der Unkundige glauben, dass der höhere Gipfel nur Thorstein,
-der niedrigere aber Thorstein oder auch Dachstein heisse,und dass dieser niedrigere
+der niedrigere aber Thorstein oder auch Dachstein heisse, und dass dieser niedrigere
 Gipfel der dreifache Grenzpunkt sei. Das Baumgartner’sche Höhenverzeichniss fand,
 da im Buchhandel erschienen, weite Verbreitung, und nun wurde erst recht darüber
 hin- und hergestritten, welcher Gipfel Dachstein, welcher Thorstein heisse, und
@@ -218,7 +218,7 @@ Neustattalm auf, gingen (S. 84) über die Bachler Alm auf die Windleger Scharte,
 gelangten über den Gosauer Gletscher gegen 3&nbsp;U. auf die Untere Windlücke. «Von
 hier mussten sie sich nordwestlich wenden, und nach einigem Fortschreiten gelangten
 sie auf einen durch das Schmelzen und Wiedergefrieren des Schnees zu hartem
-Eise gewordenen, sich gegen die Bergspitze hinziehenden schneidigen Rücken.» ;
+Eise gewordenen, sich gegen die Bergspitze hinziehenden schneidigen Rücken.»
 Vor diesem fürchterlichen Rücken, von dem sie «westlich in einen tiefen Abgrund,
 östlich aber in die vielen Schlünde von Eisklüften sahen», wollten sie Anfangs
 Kehrt machen, fassten jedoch nach einer Rast neuen Muth und stiegen, Buchsteiner voran,
@@ -258,7 +258,7 @@ Steiger am 4.&nbsp;August nicht in der Neustatt-, sondern in der Schildlehenalpe
 Bivouak am Morgen des 6. August erreicht worden wäre. In dieser Beziehung ist
 aber wohl Mikitsch’ Bericht glaubwürdiger; Letzterer gibt auch (S. 83) ausdrücklich an,
 dass er von einer südlich von Schladming gelegenen Anhöhe aus mit
-dem Fernrohre am  5&nbsp; August um 6&nbsp;U. abends die aufgepflanzte Stange am
+dem Fernrohre am  5.&nbsp;August um 6&nbsp;U. abends die aufgepflanzte Stange am
 Thorstein gesehen habe.
 
 Am 24. und 25. September 1826 machte Adolf Schmidl den Versuch, unter
@@ -445,7 +445,7 @@ war vordem bis zu dieser Höhe des Dachsteins gelangt.»^[^1363]^
 Erst vom Jahre 1817 an wurden im Auftrage Erzherzogs Johann energischere Versuche zur
 Besteigung der Dachsteingipfel unternommen; dieselben
 führten bekanntlich (siehe oben) im Jahre 1819 zur Besteigung des Thorsteins, doch
-scheinen einige derselben auch dem Dachstein gegolten zu haben. Sicher. ist dies
+scheinen einige derselben auch dem Dachstein gegolten zu haben. Sicher ist dies
 von jenem Versuche, den am 24.&nbsp;Juli 1818 Waldmeister Grill aus Aussee mit seinem
 Sohne Johann, dem Ausseer Jäger Franz Seebacher, dem Berghutmanne Winkler
 und «zwey handfesten Holzknechten» unter Führung Buchsteiner’s, «wohl versehen mit
@@ -579,7 +579,7 @@ Dachsteinwarte wurde eine Leiter deponirt, mit der Bestimmung, die Ueberschreitu
 der Randkluft zu erleichtern; freilich musste sie zu diesem Zwecke immer erst
 eigens bis zur Kluft hinaufgeschleppt werden. Eine zweite in einer Nische angelehnte
 Leiter vermittelte sodann den Zugang zu dem 1843 angebrachten Seile.^[^1381]^
-1862 wurde bei einer Besteigung durch A. Melingo und Edm. von Mojsisovics[^1385]
+1862 wurde bei einer Besteigung durch A. Melingo und Edm. von Mojsisovics^[^1385]^
 (der einzigen dieses Jahres) ein von Ersterem neu angeschafftes Seil mitgenommen,
 das dazu bestimmt war, im Anschlusse an das vorhandene noch über den
 Bergschrund hinauszulangen.^[^1382]^
@@ -670,10 +670,10 @@ eines ganz directen Anstieges von Süden zurückführten. Er untersuchte die Wan
 mit dem Fernrohre und tracirte so einen Stieg über ein oberhalb der Oberen
 Windlucke beginnendes Felsband, welches sich ostwärts gegen ein Felskar unter
 dem Dachsteingipfel hinabzieht, und durch dieses und im Zickzack über die unteren
-Wandstufen abwärts an den Fuss der Felsen unter dem Gipfel.[^1400] Diesen Weg
+Wandstufen abwärts an den Fuss der Felsen unter dem Gipfel.^[^1400]^ Diesen Weg
 wollten im Abstieg Frischauf mit Auhäusler, Ende August, im Anstieg R. Issler
 und A. Faschingbauer am 28. October 1877 versuchen, doch kamen beide Partien
-wegen schlechten Wetters nur bis an den Fuss der Wand.[^1401]
+wegen schlechten Wetters nur bis an den Fuss der Wand.^[^1401]^
 
 Unabhängig von Frischauf hat im Jahre 1874 Otto Schück gelegentlich
 der Schilderung seiner. Thorstein-Besteigung den Ausspruch gethan, dass die noch
@@ -833,7 +833,7 @@ Niederem Kreuz von den Hallstätter Führern Alexander Wimmer und Peter
 Zauner im Spätsommer 1888 durch Einschlagen einiger Eisenstifte praktikabel
 gemacht worden.^[^1426]^ Am 15.&nbsp;September 1889 wollte nun Josef Reiff mit den
 Genannten den Aufstieg über die Scharte machen, musste jedoch wegen totaler Vereisung
-der Felsen umkehren.”) Dieselben waren schon am 12.&nbsp;September 1888 bei
+der Felsen umkehren.^[^1426]^ Dieselben waren schon am 12.&nbsp;September 1888 bei
 einem Versuch auf das Hohe Kreuz von Osten durch furchtbaren Sturm zur
 Umkehr gezwungen worden.^[^1426]^ Am 23. September 1890 brach J. Reiff mit Alexander
 Wimmer und dessen Sohn Hans abermals von der Simonyhütte auf, und
@@ -851,7 +851,7 @@ Das Südliche Dirndl circa 2800&nbsp;m. ist das höhere; es wurde zum ersten
 Mal am 5.&nbsp;August 1879 von <a name="S345"></a>Dr. W. Fikeis und Dr. F. Krischker (ohne Führer)
 am Rückweg vom Dachstein erklettert. Sie stiegen an seiner Nordseite über
 die steile Schneehalde zu einem Felskamin an und theils durch diesen, theils
-über die rechtsseitigen Felsbänder auf den Gipfelgrat, der sich bis auf ⅓ m.
+über die rechtsseitigen Felsbänder auf den Gipfelgrat, der sich bis auf ⅓&nbsp;m.
 verengt. Auf dem äussersten nördlichen Eckpunkt des hier sehr brüchigen Grates
 wurden als Zeichen der Anwesenheit zwei Steine übereinandergelegt, auf der etwas
 festeren südlichen Seite des Grates wurde ein höheres Steinmannl errichtet,
@@ -885,8 +885,8 @@ Wänden zurückgekrochen werden musste. Noch vor der Nordostkante jedoch durch
 einen schwierigen, steilen Kamin empor und zuletzt direct über den Nordostgrat
 auf den Gipfel, auf welchem ein Steinmann erbaut wurde. Der Abstieg erfolgte
 auf dem gleichen Wege bis zur mittleren Terrasse, von wo oberhalb einer Eisrinne
-zur Nordwestflanke des Südlichen Dirndls traversirt wurde, wodurch die Rand-
-kluft im Bogen umgangen wurde.^[^1434]^
+zur Nordwestflanke des Südlichen Dirndls traversirt wurde, wodurch die Randkluft
+im Bogen umgangen wurde.^[^1434]^
 
 Die zweite Besteigung des Kleinen Dirndls vollführten auf neuer Route am
 9.&nbsp;Juli 1889 R. H. Schmitt und Fritz Drasch (ohne Führer). Von der Hunerscharte
@@ -963,7 +963,7 @@ beizukommen, nahe dem Gipfelgrat scheiterte, da sich Auhäusler «nicht mehr
 auf die damals eingeschlagene Richtung erinnern» konnte; allerdings spielten dabei
 sehr ungünstige Schneeverhältnisse und Nebel eine Rolle.^[^1450]^
 
-:::: {.wrap-100 }
+:::: {.break-before .wrap-100 }
 ![Grosser und Kleiner Koppenkarstein aus der Gegend der Edelgrieshöhe (Süden) gesehen.
 ..... Route G. Geyer, 5. Juni 1879.](Ostalpen_Band_I_348.jpg "Ostalpen_Band_I_348.jpg"){#b348}
 ::::
@@ -1018,7 +1018,7 @@ Schwierigkeiten zu begegnen. Nur zu unterst stellte sich ein etwa 3&nbsp;m.
 hohes etwas schwieriges Wandl ein, welches auf den Schladminger Gletscher absetzt. Am
 selben Tage wurde noch der Dachstein bezwungen. (Austriahütte ab
 3&nbsp;U., Koppenkarstein 6&nbsp;U.&nbsp;30, Dachstein 9&nbsp;U.&nbsp;15,
-Simonyhütte 11&nbsp;U.^[^1455]^
+Simonyhütte 11&nbsp;U.^[^1455]^)
 
 Am 8. September 1883 bestieg Eduard Suchanek mit Johann Steiner den
 Berg «bei tiefem Neuschnee, Nebel, Sturm und grimmiger Kälte und ganz winterlichen
@@ -1149,7 +1149,7 @@ zwei der trefflichsten Ampezzaner Führer, Santo Siorpaes und Arcangelo
 Dimaj entboten, mit denen sie am Abend des erstgenannten Tages die Aualpe
 bezogen. Am 13. und 14. wurden sie durch Regen in ihrem Hauptquartiere festgehalten;
 am 15. berannten sie die Felsburg vom Kampl aus ohne Erfolg. Inzwischen aber war die
-Kunde von diesem Anschlage in der Gegend ruchbar geworden, und drei Ramsauer Führer .
+Kunde von diesem Anschlage in der Gegend ruchbar geworden, und drei Ramsauer Führer
 (vermuthlich Auhäusler, Steiner und Knauss), die landfremde Nebenbuhler mit scheelen
 Augen bei einer ihrer Bergschönen hätten erfolgreich anklopfen sehen, bei der sie ihrerseits
 auf Erhörung gar nicht zu hoffen gewagt, brachen sofort auf, um auf eigene Faust der
@@ -1400,11 +1400,11 @@ Die Uebung eingehender Kritik und genauer Nachforschung war damals nicht Mode.]{
 
 [^1340]: [Briefl. Mitth. Urstöger’s an Grohmann, Gosau, 5. Juni 1866.]{.footnote}
 
-[^1341]: [Kaindl in Jb. A.V., IX, 1873, 108.]{.footnote}
+[^1341]: [Kaindl in Jb. A. V., IX, 1873, 108.]{.footnote}
 
 [^1342]: [Kaindl in Jb. A. V., 1X, 1873, 107—115.]{.footnote}
 
-[^1343]: [Schück in Z. A.V., V, 1874, 219—221.]{.footnote}
+[^1343]: [Schück in Z. A. V., V, 1874, 219—221.]{.footnote}
 
 [^1344]: [Militär-geogr. Inst., Fascikel 37, Topogr. Beschreibung.]{.footnote}
 
@@ -1425,7 +1425,7 @@ Die Uebung eingehender Kritik und genauer Nachforschung war damals nicht Mode.]{
 
 [^1352]: [So benannt nach dem Klagenfurter Studenten Nagel, der hier bei einem Versuche, den Thorstein allein vom Thorsteingletscher zu besteigen, durch Absturz auf den Gletscher am 3. August 1879 verunglückte. (Tourist 1879, Nr. XVII, 7.)]{.footnote}
 
-[^1353]: [Schmitt in M. A.V. 1889, 171 und Drasch in Oe. A. Z. 1889, 265—268. Schmitt gibt als Datum den 12., Drasch aber den 11.&nbsp;Juli an.]{.footnote}
+[^1353]: [Schmitt in M. A. V. 1889, 171 und Drasch in Oe. A. Z. 1889, 265—268. Schmitt gibt als Datum den 12., Drasch aber den 11.&nbsp;Juli an.]{.footnote}
 
 [^1354]: [Briefl. Mitth. Purtscheller’s an A. v. Böhm. Das obere steilste Stück der Eisrinne wurde nach rechts umgangen.]{.footnote}
 
@@ -1494,15 +1494,15 @@ zunächst August v. Böhm (zwölfmal) und Georg Geyer (achtmal). — Von den Fü
 Auhäusler am öftesten auf dem Dachstein gewesen, er hat ihn am 14. August 1883 zum hundertsten
 Male bestiegen. (Oe. A. Z. 1883, A. 232).]{.footnote}
 
-[^1381]: [Geyer in Z.A.V. 1881, 255.]{.footnote}
+[^1381]: [Geyer in Z. A. V. 1881, 255.]{.footnote}
 
-[^1382]: [M. Oe. A.V., I, 349.]{.footnote}
+[^1382]: [M. Oe. A. V., I, 349.]{.footnote}
 
 [^1383]: [Carl Hofmann in seinen «Gesammelten Schriften», Gera 1871, 65.]{.footnote}
 
 [^1384]: [Auf diesem Wege wollte im Jahre 1868 Dr. J. Wagl aus Graz den Dachstein besteigen, musste
 jedoch umkehren, da sein Führer Bernhard eben jenen Abstieg vom Grat auf das Firnfeld nicht finden
-konnte. Z. A.V. III, 1872, 226, Anm.]{.footnote}
+konnte. Z. A. V. III, 1872, 226, Anm.]{.footnote}
 
 [^1385]: [*Edm. von Mojsisovics*:  vergleiche [Edmund Mojsisovics von Mojsvár](https://de.wikipedia.org/wiki/Edmund_Mojsisovics_von_Mojsv%C3%A1r)]{.footnote}
 
@@ -1518,7 +1518,7 @@ konnte. Z. A.V. III, 1872, 226, Anm.]{.footnote}
 
 [^1391]: [Knauss im Tour. 1883, Nr. IX, 4—7.]{.footnote}
 
-[^1392]: [M. A.V. 1889, 24.]{.footnote}
+[^1392]: [M. A. V. 1889, 24.]{.footnote}
 
 [^1393]: [Oe. A. Z. 1890, 95.]{.footnote}
 
@@ -1528,9 +1528,9 @@ konnte. Z. A.V. III, 1872, 226, Anm.]{.footnote}
 
 [^1396]: [Freih. v. Czörnig in J. St. G.V. 1878, 38.]{.footnote}
 
-[^1397]: [M. A.V. 1888, 195.]{.footnote}
+[^1397]: [M. A. V. 1888, 195.]{.footnote}
 
-[^1398]: [M.A.V. 1889, 182.]{.footnote}
+[^1398]: [M. A. V. 1889, 182.]{.footnote}
 
 [^1399]: [*J. Frischauf*:  vergleiche [Johannes Frischauf](https://de.wikipedia.org/wiki/Johannes_Frischauf)]{.footnote}
 
@@ -1538,7 +1538,7 @@ konnte. Z. A.V. III, 1872, 226, Anm.]{.footnote}
 
 [^1401]: [Issler in N. D. A. Z. 1877, 215—216.]{.footnote}
 
-[^1402]: [Schück in Z.A.V. 1874, 220.]{.footnote}
+[^1402]: [Schück in Z. A. V. 1874, 220.]{.footnote}
 
 [^1403]: [Schriftl. Bericht des Hans Knauss an Frischauf; J. St. G. V., VII, 1879, 36—39.]{.footnote}
 
@@ -1568,7 +1568,7 @@ für den am folgenden Tage durchzuführenden Anstieg recognoscirt und eventuell 
 von Mauerhaken und durch Seilspannen etwas präparirt werden. Nachdem man sich aber einmal mit
 dem Gegner verbissen hatte, wurde an den Rückweg nicht mehr gedacht.]{.footnote}
 
-[^1415]: [Schmitt in M.A.V. . 1889, 171—172 und Oec. A. Z. 1889, 279—286.]{.footnote}
+[^1415]: [Schmitt in M. A. V. . 1889, 171—172 und Oec. A. Z. 1889, 279—286.]{.footnote}
 
 [^1416]: [Briefl. Mitth. Grohmann's an Böhm.]{.footnote}
 
@@ -1580,7 +1580,7 @@ dem Gegner verbissen hatte, wurde an den Rückweg nicht mehr gedacht.]{.footnote
 
 [^1420]: [Fremdenbuch der Grobgesteinhütte.]{.footnote}
 
-[^1421]: [M. Oe. A.V., 1, 1863, 350 und Geyer in Oe. A. Z. 1883, 345.]{.footnote}
+[^1421]: [M. Oe. A. V., 1, 1863, 350 und Geyer in Oe. A. Z. 1883, 345.]{.footnote}
 
 [^1422]: [Hormayr's Archiv f. Gesch., Stat., Lit. u. Kunst, XVI, Wien 1825, 84; auch: «Der Aufmerksame», Grätz 1825, Nr. 22.]{.footnote}
 
@@ -1594,7 +1594,7 @@ dem Gegner verbissen hatte, wurde an den Rückweg nicht mehr gedacht.]{.footnote
 
 [^1427]: [*Die Dirndln*:  vergleiche [Dirndln](https://de.wikipedia.org/wiki/Dirndln_(Dachsteinmassiv))]{.footnote}
 
-[^1428]: [Fikeis und Krischker in M. A.V. 1879, 170 u. 171.]{.footnote}
+[^1428]: [Fikeis und Krischker in M. A. V. 1879, 170 u. 171.]{.footnote}
 
 [^1429]: [Fremdenbuch der Grobgesteinhütte.]{.footnote}
 
@@ -1606,16 +1606,15 @@ dem Gegner verbissen hatte, wurde an den Rückweg nicht mehr gedacht.]{.footnote
 
 [^1433]: [Die Dirndln stehen eigentlich im Westen und Osten nebeneinander, doch springt das niederere weiter gegen Norden vor. Sie werden wohl auch als «Grosses» und «Kleines» bezeichnet.]{.footnote}
 
-[^1434]: [Lammer in M. A.V. 1884, 331.]{.footnote}
+[^1434]: [Lammer in M. A. V. 1884, 331.]{.footnote}
 
-[^1435]: [Schmitt in M. A.V., 1889, 170— 171. Schmitt schreibt hier irrthümlich Westfuss und Westgrat statt Ostfuss und Ostgrat. Richtiggestellt von Drasch, Citat siehe neben.  Drasch in Oe. A. Z.
-1889, 255 u. 256.]{.footnote}
+[^1435]: [Schmitt in M. A. V., 1889, 170— 171. Schmitt schreibt hier irrthümlich Westfuss und Westgrat statt Ostfuss und Ostgrat. Richtiggestellt von Drasch, Citat siehe neben.  Drasch in Oe. A. Z. 1889, 255 u. 256.]{.footnote}
 
 [^1436]: [*Hoher Gjaidstein*:  vergleiche [Hoher Gjaidstein](https://de.wikipedia.org/wiki/Hoher_Gjaidstein)]{.footnote}
 
 [^1437]: [Protokoll der k. k. Trig. Kat.-Verm. Prov. Oesterr. ob d. Enns, II. Abtheilung 1822—1823, 218 (Central-Mappen-Archiv).]{.footnote}
 
-[^1438]: [Simony in M. A.V. 1891, 62.]{.footnote}
+[^1438]: [Simony in M. A. V. 1891, 62.]{.footnote}
 
 [^1439]: [Simony in Oe. T. Z. 1883, 110.]{.footnote}
 
@@ -1634,7 +1633,7 @@ Mappen-Archiv).]{.footnote}
 
 [^1446]: [F. Simony in N. D. A. Z. VIII, 1879, 244.]{.footnote}
 
-[^1447]: [Geyer in Z. A.V. 1881, 291.]{.footnote}
+[^1447]: [Geyer in Z. A. V. 1881, 291.]{.footnote}
 
 [^1448]: [von Frank in J. St. G.V. 1879, 23 u. 24. Krauss sagte damals auch, dass der Hohe Koppenkarstein noch
 nie erstiegen worden sei. Wäre Auhäusler bereits oben gewesen, so hätte jener es sicher gewusst. Ueber
@@ -1646,11 +1645,11 @@ die Simony’sche Besteigung war damals noch nichts verlautbart worden (siehe ob
 
 [^1451]: [Die Karte Simony’s ist nachher von von Worafka aufgefunden worden. Mündliche Mittheilung Geyer's.]{.footnote}
 
-[^1452]: [Geyer in N. D. A. Z. VII, 1879, 248—251; Z. A.V. 1881, 291—295; Oe. A. Z. 1883, 331—335.]{.footnote}
+[^1452]: [Geyer in N. D. A. Z. VII, 1879, 248—251; Z. A. V. 1881, 291—295; Oe. A. Z. 1883, 331—335.]{.footnote}
 
 [^1453]: [Fremdenbuch am Dachsteingipfel.]{.footnote}
 
-[^1454]: [Briefl. Mitth. von Lederer's an Geyer. Auch Z. A.V. 1881, 294 Anm. Am selben Tage vollführte von Lederer die erste Besteigung des Schmiedstockes.]{.footnote}
+[^1454]: [Briefl. Mitth. von Lederer's an Geyer. Auch Z. A. V. 1881, 294 Anm. Am selben Tage vollführte von Lederer die erste Besteigung des Schmiedstockes.]{.footnote}
 
 [^1455]: [Fremdenbuch am Dachsteingipfel und in der Simonyhütte und briefl. Mitth. an Geyer.]{.footnote}
 
@@ -1686,11 +1685,11 @@ die Simony’sche Besteigung war damals noch nichts verlautbart worden (siehe ob
 
 [^1471]: [K.u. k. militär-geogr. Institut, Fascikel 37, Topogr. Beschreibung. ]{.footnote}
 
-[^1472]: [Z.A.V. 1872, 225.]{.footnote}
+[^1472]: [Z. A. V. 1872, 225.]{.footnote}
 
 [^1473]: [*Bischofsmütze*:  vergleiche [Bischofsmütze](https://de.wikipedia.org/wiki/Bischofsm%C3%BCtze)]{.footnote}
 
-[^1474]: [Issler in N. D. A. Z. VIII, 1879, 250 und Markgraf Pallavicini, N. D. A. Z. IX, 1879, 23. Es ist dies offenbar derselbe Peter Gappmayer, den wir aus der Geschichte der Thor- und Dachsteinbesteigungen als einen der ausgezeichnetsten und unternehmungslustigsten Felsensteiger kennen, weshalb an der Wahrheit obiger Behauptung wohl nicht zu zweifeln ist{.footnote}
+[^1474]: [Issler in N. D. A. Z. VIII, 1879, 250 und Markgraf Pallavicini, N. D. A. Z. IX, 1879, 23. Es ist dies offenbar derselbe Peter Gappmayer, den wir aus der Geschichte der Thor- und Dachsteinbesteigungen als einen der ausgezeichnetsten und unternehmungslustigsten Felsensteiger kennen, weshalb an der Wahrheit obiger Behauptung wohl nicht zu zweifeln ist]{.footnote}
 
 [^1475]: [Issler in N.D.A.Z. IX, 1879, 40 Anm.]{.footnote}
 

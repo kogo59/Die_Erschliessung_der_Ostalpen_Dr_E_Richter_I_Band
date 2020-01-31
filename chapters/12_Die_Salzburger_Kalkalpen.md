@@ -267,7 +267,7 @@ Watzmann und den anderen Hochgipfeln Berchtesgadens. Stanig drückt sich
 390), in folgender Weise aus: «Aber keinen der Berge betrachtete ich so lange
 und mit so feyerlichem Ernste, als den sogenannten ewigen Schnee oder die vergossene
 Alpe. Eine Reihe von sehr spitzigen Felspyramiden macht den Anfang
-von Ost nach West, und danri beginnt das ausserordentlich grosse Gletscherfeld.
+von Ost nach West, und dann beginnt das ausserordentlich grosse Gletscherfeld.
 Wie eine ruhige Wolke bedeckt es den sehr langen und breiten Rücken dieses
 Riesen der Berge. Das bewaffnete Auge scheint die Klüfte und Spaltungen des
 ewigen Eises zu entdecken. Beinahe ganz unter den Gletscher fiel das Niveau des
@@ -377,7 +377,7 @@ Joh. Punz und nahm als Ausgangspunkt die Neuhüttenalpe («Steinernes Meer»),
 indem er den Weg über das Brandhorn 2593 m. und die Thorscharte 2283 m.
 einschlug. Um 3&nbsp;U. 40 von der Hütte aufbrechend, erreichte er um 5&nbsp;U. 22 die
 Untere Wildalm und erstieg dann in 2&nbsp;Stunden 48&nbsp;Minuten von einer Einsattlung
-zwischen Wildalmkirche und Brandhorn die Spitze dieses letzteren. Nach ¾&nbsp;stündigem
+zwischen Wildalmkirche und Brandhorn die Spitze dieses letzteren. Nach ¾stündigem
 Aufenthalte den Weg fortsetzend, wurde um 10&nbsp;U.&nbsp;55 die Thorscharte und
 nach Umgehung des Hochseiler an dessen nördlichem Abfalle um 1&nbsp;U.&nbsp;45 die
 Gletscherzunge betreten. Um 3&nbsp;U.&nbsp;25 war der Fuss der Gipfelfelsen und nach
@@ -426,7 +426,7 @@ Gipfel.^[^1149]^
 Von weiteren touristischen Ersteigungen und Entdeckungsfahrten im Gebiete
 der Uebergossenen Alpe seien hier noch angeführt: die Ersteigung des Hochseiler^[^1151]^
 2781&nbsp;m. durch Richard von Frey mit dem Jäger R. von Lonski im
-Jahre 1873, über welche Tour aber nur eine sehr kurze Andeutung vorliegt;.^[^1150]^
+Jahre 1873, über welche Tour aber nur eine sehr kurze Andeutung vorliegt;^[^1150]^
 die des Eibleck 2394 m. durch den Verfasser am 17.&nbsp;Mai 188o mit dem Jäger
 Joh. Schider, und die des Nixriedls 2675 m. ebenfalls durch den Verfasser mit
 Jäger Eduard von Lonski am 1.&nbsp; November 1880.^[^1152]^ Die beiden ersteren
@@ -643,7 +643,7 @@ Alm  auf und kam um ½2&nbsp;U. auf die Buchauer Scharte. «Wir wandten
 uns sogleich gegen den Hochzink, gingen am rechten (nördlichen) Hange seines
 Vorberges, uns nur wenig aufwärts haltend, fort, hinterlegten das einstweilen
 unnöthige Gepäck eine gute Strecke von der Kapelle und kamen bald darauf
-zu einer trichterförmigen Grube mit dem klarsten Wasser (+2°’ R.), ein erfreulicher Fund.
+zu einer trichterförmigen Grube mit dem klarsten Wasser (+2°&nbsp;R.), ein erfreulicher Fund.
 
 «Je mehr wir vorrückten, um so höher streckten sich rechts Wände herauf
 und nöthigten uns, links stärker bergan zu steigen, bis wir auf einen Felsblock
@@ -754,7 +754,7 @@ und 1828 als erster Tourist erstiegen. Die Besteigung Thurwieser’s erfolgte (n
 einem noch vorhandenen Manuscripte desselben) am 4.&nbsp;September mit dem Führer
 J. Ebser von Ober-Weissbach aus. Man nahm den Weg über die Kallbrunner
 und Diessbachalpe und das Pflegerklamml und erreichte den Gipfel, dessen Aussicht
-Thurwieser besonders rühmt, in circa 7 Stunden. Der Abstieg wurde anfänglich
+Thurwieser besonders rühmt, in circa 7&nbsp;Stunden. Der Abstieg wurde anfänglich
 in derselben Richtung und dann nach dem Forsthause Falleck ausgeführt.^[^1176]^
 
 Landgerichtsrath von Schilcher aus München erstieg den Hundstod am
@@ -1170,7 +1170,7 @@ uns, das bis zum Thale sich hinabzog....
 
 «Wie tief athmeten wir auf, als wir den ersten Rasenfleck betraten! Noch
 etwa 1000&nbsp;Fuss unter uns, in düsterem Dunkel verschwimmend, sahen wir das
-Wimbachschlösschen liegen. Die Kräfte des Körpers, seit 7 Stunden aufs Höchste
+Wimbachschlösschen liegen. Die Kräfte des Körpers, seit 7&nbsp;Stunden aufs Höchste
 gespannt, allmälig begannen sie zu erlahmen.
 
 «Es ist 9 U. In Kurzem wird der Mond seinen Schimmer uns senden. Noch
@@ -1205,7 +1205,7 @@ Wimbachthale (Griesalpe) aus und über das sogenannte «Schönfeld», einen
 alten Weideplatz im Südabhange des Gipfels. Eine Abwechslung von dieser Route
 schlug Josef Pöschl aus Wien ein, indem er am 12.&nbsp;Juli 1873 mit Johann Punz
 von dem Hintersten Wimbachthale aufstieg und ausser der Südlichen Spitze
-auch noch die Mittelspitze. und das Hocheck erkletterte.
+auch noch die Mittelspitze und das Hocheck erkletterte.
 
 Eine andere völlig neue Route auf die Südliche Watzmannspitze nahmen
 Otto Fischer und Otto Nafe aus Wien am 10.&nbsp;Juni 1889 mit dem Führer
@@ -1296,7 +1296,7 @@ eigenen Worte aus dem betreffenden Aufsatze zu wiederholen —
 Man hält sich, soweit es durchführbar ist, in der rechts (nördlich)
 hinaufziehenden grossen Rinne und nimmt im letzten Drittel der Wand, wo die
 Schwierigkeiten erheblich abnehmen, nach Belieben eine links- oder rechtsseitige
-Richtung. ... Die grosse Rinne — anfänglich der einzig mögliche Weg — wird
+Richtung ... Die grosse Rinne — anfänglich der einzig mögliche Weg — wird
 von einer Reihe senkrechter Abstürze und hoher Felsstufen unterbrochen, deren
 Ueberwindung eine sehr bedeutende Mühe und einen ebenso grossen Zeitaufwand
 erfordert. Die Wand, welche uns den Einstieg in die Hauptrinne versperrte, musste
@@ -1324,7 +1324,7 @@ direct an der Felswölbung hinaufzog. Auch Preiss, der unverrichteter Dinge zur�
 meinte, dass hier die einzige Möglichkeit vorliege, emporzudringen. Die
 zwischen dem Schnee und der Felswand gähnende tiefe Spalte machte die Lage
 des Kletterers, der sich fast nur auf die Fingerspitzen verlassen konnte, zu einer
-gefährlichen... ..
+gefährlichen....
 
 «Preiss stieg voran, aber schon nach wenigen Schritten traf er auf sehr glatte,
 jedes Vorsprunges bare Platten. Er erklärte, dass es ihm unmöglich sei, mit den
@@ -1408,9 +1408,9 @@ Watzmannhaus erreicht.^[^1209]^
 Am 1. Juli 1892 wurde die Tour ein fünftes Mal ausgeführt, und zwar war
 es F. P. Farrar aus London, der unter Führung der beiden Kederbacher mit
 demselben Zeitaufwande als die vierte Partie den Aufstieg bewerkstelligte. Um
-2&nbsp;U.&nbsp;55 wurde die Eiskapelle verlassen, um 11 &nbsp;U&nbsp;48 war der
+2&nbsp;U.&nbsp;55 wurde die Eiskapelle verlassen, um 11&nbsp;U&nbsp;48 war der
 Grat erreicht, die Schönfeldspitze 12&nbsp;U.&nbsp;30, und nach sehr rascher
-Ueberschreitung des Watzmanngrates langte die Gesellschaft 2 U. 50 beim
+Ueberschreitung des Watzmanngrates langte die Gesellschaft 2&nbsp;U.&nbsp;50 beim
 Schutzhause an.^[^1210]^
 
 Der **Kleine Watzmann** 2304 m., im Volksmunde auch Watzmannweibl genannt,
@@ -1593,7 +1593,7 @@ durchfurcht, der sich nahezu direct gegen das Wimbachschloss herabzieht. Der
 Schneelahner Graben, der Unerfahrene vielleicht zu einem Versuche reizen könnte,
 blieb ausser Combination, und so entschloss ich mich, um des Erfolges sicher zu
 sein, die Wände zur Rechten (Südseite) des Grabens anzugehen, die Preiss vom
-Jahre 1881 noch ziemlich genau zu kennen behauptete... ..
+Jahre 1881 noch ziemlich genau zu kennen behauptete....
 
 «Nachdem wir einige Minuten bei dem Schlosse Wimbach uns aufgehalten
 hatten, wanderten wir noch etwa 10&nbsp;Minuten auf dem Thalwege einwärts und
@@ -1713,7 +1713,7 @@ von Touristen, unter Anderen auch von Albert Kaindl aus Linz in den Sechzigerjah
 erstiegen.
 
 Das Alpel-, das Grosse Palfen- und das Seehorn wurden am 7.&nbsp;August 1868
-(siehe Z. A.V. 1869—1870, 340) von H. von Barth von Hirschbühel aus erstiegen.
+(siehe Z. A. V. 1869—1870, 340) von H. von Barth von Hirschbühel aus erstiegen.
 Längs der Schuttfelder und schroffen Felsmauern des Kammerlinghorns und der
 Hocheisspitze erreichte er nach etwa zweistündiger Wanderung die Alpelscharte
 im südlichen Begrenzungskamme des Wimbachthales. Vor ihm erhob sich der
@@ -1851,7 +1851,7 @@ Jägern betreten werden.
 
 In der Literatur findet sich über das Hagen Gebirge sehr wenig vor. Eine
 der ältesten Beschreibungen des Hagen Gebirges gibt F. P. Schrank in seinen
-mehrerwähnten «Naturhistorischen Briefen» (Salzburg 1785, I, 241 .). Er besuchte
+mehrerwähnten «Naturhistorischen Briefen» (Salzburg 1785, I, 241 ff.). Er besuchte
 mit einigen Begleitern im Juli 1783 vom Königssee aus den **Schneibstein**^[^1232]^
 2275&nbsp;m., den Reinersberg 2214&nbsp;m., die Windscharte circa 2100&nbsp;m.
 und das (westlich vom Kahlersberg aufragende) Hochgschirr 1947 m., mit welcher Wanderung
@@ -2015,7 +2015,7 @@ Ersteigers. Von da gehet man links unter dem Rücken hinan, dessen vorhangende
 Felsen den Einsturz von oben drohen und unten der tiefe Abgrund Behutsamkeit
 einflösst. Man kömmt nach einer Viertelstunde zu einer grossen Platte, die für
 Viele der Stein des Anstosses sein dürfte. Ich kletterte nach einer Spalte über die
-Mitte derselben hinauf und hielt mich rechts gerade zu der schr hohen Wand
+Mitte derselben hinauf und hielt mich rechts gerade zu der sehr hohen Wand
 hinauf. Da ist man gezwungen, sich unter derselben links hinzuhalten. Man geht
 über sehr steile Platten und kaum bleibendes Gestein hinan, das vom Fusse kaum
 berührt, schaarweise in den tief unten liegenden Kessel stürzet und ein kaum aufhörendes
@@ -2168,7 +2168,7 @@ Die wichtigste Arbeit der Section war die  Herstellung einer Verbindung zwischen
 der Oberen Rosittenalpe und dem Geiereck durch eine nahezu senkrecht abfallende
 Felswand, eine Anlage, die an Kühnheit und Zweckmässigkeit, an Eigenthümlichkeit und
 an abwechslungsvollen Ausblicken auf die Landschaft ihresgleichen sucht.
-"Dieser Weg, der nach dem verdienstvollen Alpenfreunde Ludwig Doppler den
+Dieser Weg, der nach dem verdienstvollen Alpenfreunde Ludwig Doppler den
 Namen «Dopplersteig» trägt, wurde am 16. Juli 1876 eröffnet. Die Kosten dieser und
 der übrigen von der Section Salzburg durchgeführten Weganlagen auf dem Untersberge
 betragen circa 7000 fl., während sich deren Länge über 9000&nbsp;m. beläuft.^[^1246]^
@@ -2307,7 +2307,7 @@ und Tagweide am 24.&nbsp;Juni 1880 von Werfen-Weng aus; Kemetstein 2000&nbsp;m. 
 Wieselstein am 3.&nbsp;August 1880 ebenfalls von Werfen-Weng aus; Marhofkogel
 2220&nbsp;m., Hochwieskögel 2110 und 2212&nbsp;m. und Knallstein 2231&nbsp;m. am
 19.&nbsp;Juni 1880 von der Hinteren Scheflau aus; Grosser Traunstein 1943&nbsp;m. und
-Schober 1789&nbsp;m. am 22.&nbsp;Mai 1882 von Abtenau aus; Grosser Breitst61n
+Schober 1789&nbsp;m. am 22.&nbsp;Mai 1882 von Abtenau aus; Grosser Breitstein
 2192&nbsp;m. am 8.&nbsp;October 1882 ebenfalls von Abtenau aus; Napf circa 2250&nbsp;m.
 und Schrot- oder Schartwand 2319&nbsp;m. am 21.&nbsp;October 1888 von Werfen-Weng
 aus. Mehrere dieser Gipfel wurden wiederholt, auch zur Winterszeit besucht, und befinden
@@ -2394,8 +2394,8 @@ Scharte und von dieser direct auf den Gipfel führte.^[^1271]^
 Auch die Stadelmauer 2235 m., welche Barth 1868 besucht hatte, erhielt
 am 1.&nbsp;Juli 1883 durch die Professoren Emanuel Feichtinger und Hans Schöller
 aus Salzburg und den Verfasser einen neuerlichen Besuch. Die Ersteigung fand
-über den Grat statt, der die Stadelmauer mit dem Stadelhorn verbindet. Der Rück-
-weg erfolgte wieder über das Stadelhorn.
+über den Grat statt, der die Stadelmauer mit dem Stadelhorn verbindet. Der Rückweg
+erfolgte wieder über das Stadelhorn.
 
 Der letzte, bisher noch unerstiegene grössere Gipfel in der Gruppe der Mühlsturzhörner,
 das Kleine Mühlsturzhorn, P.&nbsp;2137 der A.-V.-Karte, wurde von
@@ -2625,7 +2625,7 @@ Thierkahrhörner hinzieht.
 «Nun stiegen wir durch Wände, Kreise^[^1286]^ und Schnee links hin bis an die
 letzten Stellen des Kuchelhorns, wo es gegen das Meltzhörndl ausläuft. Allein
 daselbst mussten wir — es war 9&nbsp;U.&nbsp;48 — wegen einer seit der Hinauftragung
-der Signalstangen auf’das Birnhorn gebrochenen Wand, an der sich nun Vorsprünge
+der Signalstangen auf das Birnhorn gebrochenen Wand, an der sich nun Vorsprünge
 zeigten, umkehren. Wir versuchten nun die Ersteigung des Kuchelhorns von jener
 Grat aus, die von den Thierkahrhörnern herläuft, und wo wir zuerst unter das
 Kuchelhorn gekommen waren. Allein all’ unser Bemühen war umsonst, da die Wände
@@ -2635,7 +2635,7 @@ sehr enge Kluft mit glatten Wänden das Hinaufklettern ganz unmöglich machte.
 
 «Missmuthig stiegen wir aufs Geradewohl über Geröll und Schneeflecke, links
 und rechts den Felsplatten ausweichend, in die Gröb’n, d. i. in den oberen unfruchtbaren
-Theil der Nebelbergalpe, wenigstens 200 Fuss abwärts gehend, nieder,
+Theil der Nebelbergalpe, wenigstens 200&nbsp;Fuss abwärts gehend, nieder,
 dann quer hinüber, also nach Westen, und wieder aufwärts steigend gelangten wir
 endlich an die Westseite des Kuchelhorns.
 
@@ -2718,8 +2718,8 @@ einen Besuch von Seite eines Bergtouristen.
 
 Die schöne Pyramide des **Kuchelhorns** fand in Michael Hofer aus Leogang
 Ende der Sechzigerjahre ihren ersten Bezwinger. Die Erkletterung des Gipfels erfolgte
-über die spärlichen Grasbänder und Plattenhänge der Ostseite unfern der Ein-
-sattlung zwischen Kuchel- und Birnhorn.
+über die spärlichen Grasbänder und Plattenhänge der Ostseite unfern der Einsattlung
+zwischen Kuchel- und Birnhorn.
 
 Die zweite Ersteigung dieser Spitze führte auf derselben Route der Verfasser
 am 2.&nbsp;November 1886 aus. Vom Bade Leogang um 6&nbsp;U.&nbsp;15 aufbrechend,
@@ -2782,8 +2782,8 @@ Passau und Berchtesgaden», 2 Bände, Salzburg 1785; L. Hübner, «Beschreibung 
 in Hinsicht auf Topographie und Statistik», 3 Bände, Salzburg 1796; F.M. Vierthaler, «Reisen durch
 Salzburg», Salzburg 1799; Gf. F. Spaur, «Reise durch Oberdeutschland», 2 Bände, Leipzig 1800;
 Chev. de Biay, «Voyage aux Salines de Salzbourg et de Reichenhall et dans une Partie du Tyrol et
-de la Haut-Baviere», Berlin 1807; Leo Wallner, «Berchtesgaden», Salzburg 1808; J. E. R. von Koch-
-Sternfeld, «Salzburg und Berchtesgaden in historisch-statistisch-geographisch und staatsökonomischen
+de la Haut-Baviere», Berlin 1807; Leo Wallner, «Berchtesgaden», Salzburg 1808; J. E. R. von Koch-Sternfeld,
+«Salzburg und Berchtesgaden in historisch-statistisch-geographisch und staatsökonomischen
 Beyträgen», 3 Bände, Salzburg 1810; F. M. Vierthaler, «Meine Wanderungen durch Salzburg, Berchtesgaden und Oesterreich», 2 Bände, Wien 18165 A. Winkelhofer, «Der Salzachkreis. Geographische,
 historische und statistische Beschreibung», Salzburg 1813; F.A. von Braune, «Salzburg und Berchtesgaden», Wien 1821.]{.footnote}
 
@@ -2830,7 +2830,7 @@ demselben im Herbst 1865», Jb. A.V. 1866. II, 114 ff.]{.footnote}
 
 [^1147]: [F. von Schilcher, «Uebergossene Alpe und Hochkönig im Ewigschneegebirge», Z. A, V. 1883, 466 ff. ]{.footnote}
 
-[^1148]: [M.A.V. 1882, 19 und 89.]{.footnote}
+[^1148]: [M. A. V. 1882, 19 und 89.]{.footnote}
 
 [^1149]: [«Eröffnung des neuen Steiges auf den Hochkönig», Oc. T. Z. 1887, 224 ff. 2]{.footnote}
 
@@ -2848,7 +2848,7 @@ demselben im Herbst 1865», Jb. A.V. 1866. II, 114 ff.]{.footnote}
 
 [^1156]: [*Tenneck*:  vergleiche [Hohes Tenneck](https://de.wikipedia.org/wiki/Hohes_Tenneck)]{.footnote}
 
-[^1157]: [M.A.V. 1887, 114.]{.footnote}
+[^1157]: [M. A. V. 1887, 114.]{.footnote}
 
 [^1158]: [*Steinernes Meer*:  vergleiche [Steinernes Meer](https://de.wikipedia.org/wiki/Steinernes_Meer)]{.footnote}
 
@@ -2958,7 +2958,7 @@ in München. Derselbe ist jedoch, nach einer gütigen Mittheilung Herrn Th. Trau
 
 [^1207]: [G. Merzbacher, «Dritte Ersteigung des Watzmann von St. Bartholomä». M. A.V. 1889, 245 ff.]{.footnote}
 
-[^1208]: [M.A.V. 1890, 148.]{.footnote}
+[^1208]: [M. A. V. 1890, 148.]{.footnote}
 
 [^1209]: [Oe. A. Z. 1892, 190.]{.footnote}
 
@@ -3084,7 +3084,7 @@ Salzburger Landeskunde 1870, 19 ff.]{.footnote}
 
 [^1268]: [H. von Barth, «Aus den Nördlichen Kalkalpen», Gera 1874, 73 und 74.]{.footnote}
 
-[^1269]: [A. Zöhnle, «Das Stadelhorn in der Reiteralm»,, M.A.V. 1878, 90 ff. und Amthor’s «Alpenfreund» XI, 87 ff.
+[^1269]: [A. Zöhnle, «Das Stadelhorn in der Reiteralm»,, M. A. V. 1878, 90 ff. und Amthor’s «Alpenfreund» XI, 87 ff.
 ]{.footnote}
 
 [^1270]: [F. von Schilcher, «Grosses Mühlsturzhorn und Wagendrischelhorn», Z. A. V. 1880, 437 ff.

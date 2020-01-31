@@ -1764,7 +1764,7 @@ obwohl sie für damalige Zeiten ein ziemlich gutes Bild des Terrains gibt. Die z
 fand dann im Jahre 1820 durch Oberlieutenant Naus statt, der den westlichen Theil des Kammes bis
 Scharnitz aufnahm, während Aulitschek 1818 den östlichen, von der Wörnergruppe bis zur Rappenspitze ziehenden
 Theil behandelt hatte, Auch diese Aufnahme war bezüglich des Terrains nur eine Aufnahme à la vue;
-es wurden keine Höhen gemessen. sondern nur Böschungsgrade mit dem einfachsten
+es wurden keine Höhen gemessen, sondern nur Böschungsgrade mit dem einfachsten
 Instrument und auch diese oft nur skizzirt, daher auch das Terrain nur in seinen grossen Zügen richtig
 wiedergegeben ist, aber kein Eingehen auf das Detail sich findet. In den letzten Jahren hat abermals eine
 Aufnahme durch das topographische Bureau stattgefunden, bei der Herr Premier-Lieutenant O. Jäger
@@ -1773,9 +1773,9 @@ thätig war; es liegt schon eine «Positionskarte> 1:25.000 mit Höhenschichten 
 
 [^802]: [*Vordere Karwendelkette*:  vergleiche [Nördliche Karwendelkette](https://de.wikipedia.org/wiki/N%C3%B6rdliche_Karwendelkette)]{.footnote}
 
-[^803]: [D.A.Z. VI, 159.]{.footnote}
+[^803]: [D. A .Z. VI, 159.]{.footnote}
 
-[^804]: [M.A.V. 1885, 186.]{.footnote}
+[^804]: [M .A. V. 1885, 186.]{.footnote}
 
 [^805]: [M. A. V. 1884, 103.]{.footnote}
 
@@ -1789,7 +1789,7 @@ thätig war; es liegt schon eine «Positionskarte> 1:25.000 mit Höhenschichten 
 mit der älteren Originalaufnahme und der nach ihr gezeichneten Specialkarte und
 Alpenvereins-Karte überein. So stammt die Höhenzahl für den Risser Falken 2415 aus
 der Reambulirung, die für den Laliderer Falken 2411 aus der alten Vermessung.
-Die Reambulirung hat für den Laliderer Falken die Zahl 2201 gefunden, welche Cote sich
+Die Reambulirung hat für den Laliderer Falken die Zahl 2201 gefunden, welche Côte sich
 wahrscheinlich auf einen nördlichen Vorgipfel bezieht; für den höchsten Punkt ist sicherlich
 2411 richtig.]{.footnote}
 
@@ -1799,9 +1799,9 @@ wahrscheinlich auf einen nördlichen Vorgipfel bezieht; für den höchsten Punkt
 
 [^812]: [Z.A. V. 1878, 220.]{.footnote}
 
-[^813]: [M. A. V. 1881, 48. M.A. V. 1883, 237.]{.footnote}
+[^813]: [M. A. V. 1881, 48. M. A. V. 1883, 237.]{.footnote}
 
-[^814]: [Siehe auch Ansicht des Falkenkares, Z. A.V. 1888, Tafel 16.]{.footnote}
+[^814]: [Siehe auch Ansicht des Falkenkares, Z. A. V. 1888, Tafel 16.]{.footnote}
 
 [^815]: [Max Kleiber aus München führte mit dem Führer Thomas Widauer aus Hinterstein im
 Jahre 1887 am 10. August ebenfalls eine Ersteigung des Risser Falken aus, die vom Wege Barth's
@@ -1817,7 +1817,7 @@ führerlose Ersteigung aus dem Falkenkar durch die Gebrüder J. und Ph. Zametzer
 
 [^817]: [Tour. 1883, Nr. 5 und 6.]{.footnote}
 
-[^818]: [M.A.V. 1886, Nr. 10. Widauer führte dann diese Tour noch zweimal mit Touristen aus,
+[^818]: [M. A. V. 1886, Nr. 10. Widauer führte dann diese Tour noch zweimal mit Touristen aus,
 und zwar am 15. Juni 1886 mit Christian Schöllhorn aus München und am 27. August 1886
 mit L. Gleitsmann.]{.footnote}
 
@@ -1825,7 +1825,7 @@ mit L. Gleitsmann.]{.footnote}
 
 [^820]: [*Vogelkarspitze*:  vergleiche [Vogelkarspitze](https://de.wikipedia.org/wiki/Vogelkarspitze)]{.footnote}
 
-[^821]: [Z.A.V. 1876, 64.]{.footnote}
+[^821]: [Z. A. V. 1876, 64.]{.footnote}
 
 [^822]: [Tour. 1881, Nr. 23.]{.footnote}
 
@@ -1875,7 +1875,7 @@ Brückelmann, C. Steinmetz und H. Schwaiger durch das an ihrem Südfusse gelager
 
 [^843]: [*Oedkarspitzen*:  vergleiche [Ödkarspitzen](https://de.wikipedia.org/wiki/%C3%96dkarspitzen)]{.footnote}
 
-[^844]: [Z.A. VI, II. Bd., Heft I, 75. «Ein Tag auf den Spitzen der Hinterauthalerkette».]{.footnote}
+[^844]: [Z . A. V., II. Bd., Heft I, 75. «Ein Tag auf den Spitzen der Hinterauthalerkette».]{.footnote}
 
 [^845]: [*Birkkarspitze*:  vergleiche [Birkkarspitze](https://de.wikipedia.org/wiki/Birkkarspitze)]{.footnote}
 
@@ -1896,7 +1896,7 @@ aber sicherlich ein Irrthum vorzuliegen.]{.footnote}
 
 [^853]: [*Moserkarspitze*:  vergleiche [Moserkarspitze](https://de.wikipedia.org/wiki/Moserkarspitze)]{.footnote}
 
-[^854]: [M.A.V. 1881, 231.]{.footnote}
+[^854]: [M. A. V. 1881, 231.]{.footnote}
 
 [^855]: [*Rossloch*:  vergleiche [Rossloch](https://de.wikipedia.org/wiki/Rossloch)]{.footnote}
 
@@ -1927,9 +1927,9 @@ der Name Dreizinkenspitze ist einem Gipfel näher an der Grubenkarspitze beigele
 
 [^867]: [*Spritzkarspitze*:  vergleiche [Spritzkarspitze](https://de.wikipedia.org/wiki/Spritzkarspitze)]{.footnote}
 
-[^868]: [M.A.V. 1882,87.]{.footnote}
+[^868]: [M. A. V. 1882,87.]{.footnote}
 
-[^869]: [M.A.V. 1883, 234.]{.footnote}
+[^869]: [M. A. V. 1883, 234.]{.footnote}
 
 [^870]: [Oe. A. Z. 1882, 165.]{.footnote}
 
@@ -1940,14 +1940,14 @@ der Name Dreizinkenspitze ist einem Gipfel näher an der Grubenkarspitze beigele
 [^873]: [M. A. V. 1884, 328.]{.footnote}
 
 [^875]: [Es ist hier am Platze, einer Nachricht zu gedenken, welche sich
-in den M.A.V. 1879, 24 findet und folgendermaassen lautet: Herr W. A. Baillie Grohmann in
+in den M. A. V. 1879, 24 findet und folgendermaassen lautet: Herr W. A. Baillie Grohmann in
 Schloss Matzen bei Brixlegg schreibt an die Redaction, er habe in den Jahren 1872, 1873 und 1874
 alle Spitzen der Karwendelgruppe, insbesondere auch die von H. von Barth nicht bestiegenen in
 der Vomper Kette gemacht; speciell bemerkt er bezüglich des Westlichen Falken, dass er bei seiner
 Besteigung, der ersten nach Barth, ein Fragment der Kaffeemaschine des Letzteren im Steinmann
 gefunden habe. Da alle näheren Daten fehlen, so bleibt uns nur diese Notiz, wie sie eben vorliegt, mitzutheilen.]{.footnote}
 
-[^876]: [M.A.V. 1888, 16.]{.footnote}
+[^876]: [M. A. V. 1888, 16.]{.footnote}
 
 [^877]: [*Hochnissel*:  vergleiche [Hochnissl](https://de.wikipedia.org/wiki/Hochnissl)]{.footnote}
 
@@ -1959,7 +1959,7 @@ gefunden habe. Da alle näheren Daten fehlen, so bleibt uns nur diese Notiz, wie
 
 [^881]: [M. A. V. 1883, 266.]{.footnote}
 
-[^882]: [Z.A.V. 1879, 236.]{.footnote}
+[^882]: [Z. A. V. 1879, 236.]{.footnote}
 
 [^883]: [H. von Barth, «Aus den nördlichen Kalkalpen», 333.]{.footnote}
 
@@ -1967,7 +1967,7 @@ gefunden habe. Da alle näheren Daten fehlen, so bleibt uns nur diese Notiz, wie
 
 [^885]: [Z. A. V. 1877, 332.]{.footnote}
 
-[^886]: [Z.A. V. 1879, 238.]{.footnote}
+[^886]: [Z. A. V. 1879, 238.]{.footnote}
 
 [^887]: [*Leopold Pfaundler*:  vergleiche [Leopold Pfaundler von Hadermur](https://de.wikipedia.org/wiki/Leopold_Pfaundler_von_Hadermur)]{.footnote}
 
@@ -1994,7 +1994,7 @@ Trentinaglia, «Zur Hypsometrie und Orographie von Nordtirols, Zsch. d. Ferdinan
 
 [^898]: [*Praxmarkarerspitzen*:  vergleiche [Westliche Praxmarerkarspitze](https://de.wikipedia.org/wiki/Westliche_Praxmarerkarspitze)]{.footnote}
 
-[^899]: [Z.A.V. 1879, 149, «Zur Nomenclatur der Hallthalkette».]{.footnote}
+[^899]: [Z. A. V. 1879, 149, «Zur Nomenclatur der Hallthalkette».]{.footnote}
 
 [^900]: [*Grosser Lafatscher*:  vergleiche [Großer Lafatscher](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Lafatscher)]{.footnote}
 
@@ -2020,22 +2020,22 @@ Trentinaglia, «Zur Hypsometrie und Orographie von Nordtirols, Zsch. d. Ferdinan
 
 [^911]: [*L. Barth*:  vergleiche [Ludwig Barth zu Barthenau](https://de.wikipedia.org/wiki/Ludwig_Barth_zu_Barthenau)]{.footnote}
 
-[^912]: [Z.A. V. 1876, 52 und 57.]{.footnote}
+[^912]: [Z. A. V. 1876, 52 und 57.]{.footnote}
 
 [^913]: [*Walderzunderkopf*:  vergleiche [Hundskopf (Karwendel)](https://de.wikipedia.org/wiki/Hundskopf_(Karwendel))]{.footnote}
 
 [^914]: [Privatmittheilung Herr C. Gsaller's, dem wir überhaupt für seine gütige Mitwirkung und
 Unterstützung hier unseren verbindlichsten Dank auszusprechen verpflichtet sind.]{.footnote}
 
-[^915]: [M.A.V. 1874, 79 und 1880, 23.]{.footnote}
+[^915]: [M. A. V. 1874, 79 und 1880, 23.]{.footnote}
 
-[^916]: [M.A.V. 1885, 151.]{.footnote}
+[^916]: [M .A. V. 1885, 151.]{.footnote}
 
 [^917]: [Privatmittheilung des Herrn Dr. August Lieber in Innsbruck.]{.footnote}
 
 [^918]: [Seite 13. Ich wurde durch Herrn C. Gsaller darauf aufmerksam gemacht.]{.footnote}
 
-[^919]: [Jb.A.V. III.]{.footnote}
+[^919]: [Jb. A. V. III.]{.footnote}
 
 [^920]: [*Carl von Sonklar*:  vergleiche [Carl Sonklar](https://de.wikipedia.org/wiki/Carl_Sonklar)]{.footnote}
 

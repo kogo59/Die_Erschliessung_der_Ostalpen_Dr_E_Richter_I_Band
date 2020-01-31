@@ -1176,19 +1176,19 @@ erfolgte nach Fallerschein.^[^519]^
 
 [^404]: [Jb. A. V. IV, 161.]{.footnote}
 
-[^405]: [M.A. V. 1882, 40.]{.footnote}
+[^405]: [M. A. V. 1882, 40.]{.footnote}
 
 [^406]: [*Braunarlenspitze*:  vergleiche [Braunarlspitze](https://de.wikipedia.org/wiki/Braunarlspitze)]{.footnote}
 
 [^407]: [Dies scheint nach M. A. V. 1889, 250 die richtige Namensform.]{.footnote}
 
-[^408]: [Z.A. V. 1888, 195.]{.footnote}
+[^408]: [Z. A. V. 1888, 195.]{.footnote}
 
 [^409]: [*Schröcken*:  vergleiche [Schröcken](https://de.wikipedia.org/wiki/Schr%C3%B6cken)]{.footnote}
 
 [^410]: [*Mellau*:  vergleiche [Mellau](https://de.wikipedia.org/wiki/Mellau)]{.footnote}
 
-[^411]: [M.A. V. 1889, 198.]{.footnote}
+[^411]: [M. A. V. 1889, 198.]{.footnote}
 
 [^412]: [*Grosses Walser Thale*:  vergleiche [Großes Walsertal](https://de.wikipedia.org/wiki/Gro%C3%9Fes_Walsertal)]{.footnote}
 
@@ -1226,7 +1226,7 @@ erfolgte nach Fallerschein.^[^519]^
 
 [^429]: [*Rockspitze*:  vergleiche [Roggspitze](https://de.wikipedia.org/wiki/Roggspitze)]{.footnote}
 
-[^430]: [Z.A. V. 1885, 305.]{.footnote}
+[^430]: [Z. A. V. 1885, 305.]{.footnote}
 
 [^431]: [*Julius Pock*:  vergleiche [Julius Pock](https://de.wikipedia.org/wiki/Julius_Pock)]{.footnote}
 
@@ -1238,7 +1238,7 @@ erfolgte nach Fallerschein.^[^519]^
 
 [^435]: [M. A. V. 1886, 102.]{.footnote}
 
-[^436]: [Z.A. V. 1885, 314.]{.footnote}
+[^436]: [Z .A. V. 1885, 314.]{.footnote}
 
 [^437]: [M. A. V. 1887, 126.]{.footnote}
 
@@ -1252,11 +1252,11 @@ erfolgte nach Fallerschein.^[^519]^
 
 [^442]: [*Gesteinsspitze*:  vergleiche [Stanskogel](https://de.wikipedia.org/wiki/Stanskogel)]{.footnote}
 
-[^443]: [Z.A. V. 1885, 310.]{.footnote}
+[^443]: [Z. A. V. 1885, 310.]{.footnote}
 
-[^444]: [Z.A.V. 1886, 308.]{.footnote}
+[^444]: [Z. A. V. 1886, 308.]{.footnote}
 
-[^445]: [Z.A. V. 1886, 310.]{.footnote}
+[^445]: [Z. A. V. 1886, 310.]{.footnote}
 
 [^446]: [*Greutjochspitze*:  auch Greitjochspitze]{.footnote}
 
@@ -1270,15 +1270,15 @@ erfolgte nach Fallerschein.^[^519]^
 
 [^451]: [*Feuerspitze*:  vergleiche [Feuerspitze](https://de.wikipedia.org/wiki/Feuerspitze)]{.footnote}
 
-[^452]: [Z.A.V. 1886, 299.]{.footnote}
+[^452]: [Z. A. V. 1886, 299.]{.footnote}
 
-[^453]: [Z.A.V. 1886, 306.]{.footnote}
+[^453]: [Z. A. V. 1886, 306.]{.footnote}
 
 [^454]: [*Schnann*:  vergleiche [Schnann](https://de.wikipedia.org/wiki/Schnann)]{.footnote}
 
 [^455]: [*Vorderseespitze*:  vergleiche [Vorderseespitze](https://de.wikipedia.org/wiki/Vorderseespitze)]{.footnote}
 
-[^456]: [Z.A.V. 1885, 3.]{.footnote}
+[^456]: [Z. A. V. 1885, 3.]{.footnote}
 
 [^457]: [*Freispitze*:  vergleiche [Freispitze](https://de.wikipedia.org/wiki/Freispitze)]{.footnote}
 
@@ -1300,19 +1300,19 @@ erfolgte nach Fallerschein.^[^519]^
 
 [^466]: [Jb. A. V. 1870, 298; Z.A.V. I, 314.]{.footnote}
 
-[^467]: [N.D.A. Z. 1876, II, 3.]{.footnote}
+[^467]: [N. D. A. Z. 1876, II, 3.]{.footnote}
 
 [^468]: [*Joh. Grill-Köderbacher*:  vergleiche [Johann Grill](https://de.wikipedia.org/wiki/Johann_Grill)]{.footnote}
 
-[^469]: [Z.A.V, 1877, VIO, 114.]{.footnote}
+[^469]: [Z. A. V, 1877, VIO, 114.]{.footnote}
 
 [^470]: [*Alois Zott*:  vergleiche [Alois Zott](https://de.wikisource.org/wiki/Alois_Zott)]{.footnote}
 
-[^471]: [Z.A.V, 1887, 293.]{.footnote}
+[^471]: [Z. A. V, 1887, 293.]{.footnote}
 
 [^472]: [*Gatschkopf*:  vergleiche [Gatschkopf](https://de.wikipedia.org/wiki/Gatschkopf)]{.footnote}
 
-[^473]: [M.A.V. 1885, 22—23.]{.footnote}
+[^473]: [M. A. V. 1885, 22—23.]{.footnote}
 
 [^474]: [*L. Purtscheller*:  vergleiche [Ludwig Purtscheller](https://de.wikipedia.org/wiki/Ludwig_Purtscheller)]{.footnote}
 
@@ -1326,31 +1326,31 @@ erfolgte nach Fallerschein.^[^519]^
 
 [^479]: [M. A. V. 1887, 281.]{.footnote}
 
-[^480]: [Z.A.V. 1887, 297.]{.footnote}
+[^480]: [Z. A. V. 1887, 297.]{.footnote}
 
-[^481]: [Z.A.V. 1887, 302.]{.footnote}
+[^481]: [Z. A. V. 1887, 302.]{.footnote}
 
-[^482]: [Z.A.V. 1887, 300.]{.footnote}
+[^482]: [Z. A. V. 1887, 300.]{.footnote}
 
 [^483]: [*Leiterspitze*:  vergleiche [Leiterspitze](https://de.wikipedia.org/wiki/Leiterspitze)]{.footnote}
 
-[^484]: [Z.A.V. 1887, 287.]{.footnote}
+[^484]: [Z. A. V. 1887, 287.]{.footnote}
 
 [^485]: [M. A. V. 1884, 53.]{.footnote}
 
 [^486]: [Meldung von A. Nairz an die Section Imst d. A. V.]{.footnote}
 
-[^487]: [Z.A.V. 1888, 213.]{.footnote}
+[^487]: [Z. A. V. 1888, 213.]{.footnote}
 
 [^488]: [*Kogelseespitze*:  vergleiche [Kogelseespitze](https://de.wikipedia.org/wiki/Kogelseespitze)]{.footnote}
 
-[^489]: [Z.A.V. 1887, 299.]{.footnote}
+[^489]: [Z. A. V. 1887, 299.]{.footnote}
 
 [^490]: [*Schlenkerspitze*:  vergleiche [Große Schlenkerspitze](https://de.wikipedia.org/wiki/Gro%C3%9Fe_Schlenkerspitze)]{.footnote}
 
-[^491]: [Z.A.V. 1887, 310.]{.footnote}
+[^491]: [Z. A. V. 1887, 310.]{.footnote}
 
-[^492]: [Z.A.V. 1887, 303—310.]{.footnote}
+[^492]: [Z. A. V. 1887, 303—310.]{.footnote}
 
 [^493]: [*Muttekopf*:  vergleiche [Muttekopf (Parzinn)](https://de.wikipedia.org/wiki/Muttekopf_(Parzinn))]{.footnote}
 
@@ -1362,7 +1362,7 @@ erfolgte nach Fallerschein.^[^519]^
 
 [^497]: [*Hahntennen Joch*:  vergleiche [Hahntennjoch](https://de.wikipedia.org/wiki/Hahntennjoch)]{.footnote}
 
-[^498]: [M.A.V. 1885, 133.]{.footnote}
+[^498]: [M. A. V. 1885, 133.]{.footnote}
 
 [^499]: [*Heiterwand*:  vergleiche [Heiterwand](https://de.wikipedia.org/wiki/Heiterwand)]{.footnote}
 
@@ -1374,12 +1374,12 @@ Nachrichten der k. k. Unterrealschule in Imst, 1879.]{.footnote}
 
 [^502]: [*Nasserreit*:  vergleiche [Nassereith](https://de.wikipedia.org/wiki/Nassereith)]{.footnote}
 
-[^503]: [Z.A.V. 1888, 228. Spiehler schreibt dort irrthümlich, dass keine Quelle zu finden sei. Jetzt
+[^503]: [Z. A. V. 1888, 228. Spiehler schreibt dort irrthümlich, dass keine Quelle zu finden sei. Jetzt
 ist dieselbe von der Section Imst des D. u. Oe. A.-V. markirt.]{.footnote}
 
 [^504]: [*Loreakopf*:  vergleiche [Loreakopf](https://de.wikipedia.org/wiki/Loreakopf)]{.footnote}
 
-[^505]: [Z.A.V. 1888, 236.]{.footnote}
+[^505]: [Z. A. V. 1888, 236.]{.footnote}
 
 [^506]: [*Rother Stein*:  vergleiche [Roter Stein (Lechtaler Alpen)](https://de.wikipedia.org/wiki/Roter_Stein_(Lechtaler_Alpen))]{.footnote}
 
@@ -1403,11 +1403,11 @@ ist dieselbe von der Section Imst des D. u. Oe. A.-V. markirt.]{.footnote}
 
 [^516]: [*Namlos*:  vergleiche [Namlos](https://de.wikipedia.org/wiki/Namlos)]{.footnote}
 
-[^517]: [Z.A.V. 1888, 231.]{.footnote}
+[^517]: [Z. A. V. 1888, 231.]{.footnote}
 
 [^518]: [*Kreuzspitze*:  vergleiche [Elmer Kreuzspitze](https://de.wikipedia.org/wiki/Elmer_Kreuzspitze)]{.footnote}
 
-[^519]: [Z.A.V. 1888, 223.]{.footnote}
+[^519]: [Z. A. V. 1888, 223.]{.footnote}
 
 [^520]: [*Fallerschein*:  vergleiche [Fallerschein](https://de.wikipedia.org/wiki/Fallerschein)]{.footnote}
 

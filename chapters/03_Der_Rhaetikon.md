@@ -815,7 +815,7 @@ einige Jahre später von Bapt. Hämmerle aus Dornbirn wiederholt.
 
 [^099]: [*Tschagguns*:  vergleiche [Tschagguns](https://de.wikipedia.org/wiki/Tschagguns)]{.footnote}
 
-[^100]: [Z.A.V. II, 2. Abth., S. 1]{.footnote}
+[^100]: [Z. A. V. II, 2. Abth., S. 1]{.footnote}
 
 [^101]: [*J. Sh. Douglass*:  vergleiche [John Sholto Douglass, 15. Lord of Tilquhillie](https://de.wikipedia.org/wiki/John_Sholto_Douglass,_15._Lord_of_Tilquhillie)]{.footnote}
 
@@ -825,15 +825,15 @@ einige Jahre später von Bapt. Hämmerle aus Dornbirn wiederholt.
 
 [^104]: [*Drei Thürme*:  vergleiche [Drei Türme](https://de.wikipedia.org/wiki/Drei_T%C3%BCrme)]{.footnote}
 
-[^105]: [ Z. A.V. 111, 223.]{.footnote}
+[^105]: [ Z. A. V. 111, 223.]{.footnote}
 
-[^106]: [M. A,V, 1888, 228., Oe. A. Z, 1888, 235.]{.footnote}
+[^106]: [M. A. V. 1888, 228., Oe. A. Z. 1888, 235.]{.footnote}
 
 [^107]: [Alpenfreund 1891, Nr. 7, S. 80.]{.footnote}
 
 [^108]: [*Dr. Blodig*:  vergleiche [Karl Blodig](https://de.wikipedia.org/wiki/Karl_Blodig)]{.footnote}
 
-[^109]: [ Jb.  S.A.C. XXVI, S. 27.]{.footnote}
+[^109]: [ Jb.  S. A. C. XXVI, S. 27.]{.footnote}
 
 [^110]: [*Seewis*:  vergleiche [Seewis im Prättigau](https://de.wikipedia.org/wiki/Seewis_im_Pr%C3%A4ttigau)]{.footnote}
 
@@ -843,9 +843,9 @@ einige Jahre später von Bapt. Hämmerle aus Dornbirn wiederholt.
 
 [^113]: [*Bludenz*:  vergleiche [Bludenz](https://de.wikipedia.org/wiki/Bludenz)]{.footnote}
 
-[^114]: [M. A.V. 1886, 39. Die Anstiegslinie ist in der Zeichnung S. 29 eingetragen.]{.footnote}
+[^114]: [M. A. V. 1886, 39. Die Anstiegslinie ist in der Zeichnung S. 29 eingetragen.]{.footnote}
 
-[^115]: [Oc. A. Z. 1890, 78.]{.footnote}
+[^115]: [Oe. A. Z. 1890, 78.]{.footnote}
 
 [^116]: [*Bürserberg*:  vergleiche [Bürserberg](https://de.wikipedia.org/wiki/B%C3%BCrserberg)]{.footnote}
 
@@ -857,7 +857,7 @@ einige Jahre später von Bapt. Hämmerle aus Dornbirn wiederholt.
 
 [^120]: [*Douglass Hütte*:  vergleiche [Douglasshütte](https://de.wikipedia.org/wiki/Douglassh%C3%BCtte)]{.footnote}
 
-[^121]: [M. A, V. 1878, 161.]{.footnote}
+[^121]: [M. A. V. 1878, 161.]{.footnote}
 
 [^122]: [*Feldkirch*:  vergleiche [Feldkirch](https://de.wikipedia.org/wiki/Feldkirch)]{.footnote}
 
@@ -873,7 +873,7 @@ einige Jahre später von Bapt. Hämmerle aus Dornbirn wiederholt.
 
 [^128]: [*Wildeberg*:  vergleiche [Wildberg (Schesaplanagruppe)](https://de.wikipedia.org/wiki/Wildberg_(Schesaplanagruppe))]{.footnote}
 
-[^129]: [M.A.V. 1889, 38.]{.footnote}
+[^129]: [M. A. V. 1889, 38.]{.footnote}
 
 [^130]: [*Schruns*:  vergleiche [Schruns](https://de.wikipedia.org/wiki/Schruns)]{.footnote}
 
@@ -900,7 +900,7 @@ Berichte veröffentlicht.]{.footnote}
 
 [^141]: [*Feldkirch*:  vergleiche [Feldkirch](https://de.wikipedia.org/wiki/Feldkirch)]{.footnote}
 
-[^142]: [ZA.V.IV, 102.]{.footnote}
+[^142]: [Z. A. V. IV, 102.]{.footnote}
 
 [^143]: [*Frastanz*:  vergleiche [Frastanz](https://de.wikipedia.org/wiki/Frastanz)]{.footnote}
 

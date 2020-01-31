@@ -431,7 +431,7 @@ am 17. Juni 1881, von der Griesener Alpe ausgehend, diese grossartige Tour
 ausführte.
 
 Wegen schlechten Wetters erst um 8½ U. früh die Alpe verlassend, befand
-sich Merzbacher bereits um 9&nbsp;U&nbsp;25 am Fusse der Steinernen Rinne, in beiläufiger
+sich Merzbacher bereits um 9&nbsp;U.&nbsp;25 am Fusse der Steinernen Rinne, in beiläufiger
 Höhe von 1260&nbsp;m. den ersten Anstieg über einen sehr steilen, hartgefrorenen
 Schneehang beginnend. Mühsam wurde der Einstieg in die Felsen erzwungen,
 dann folgte eine wenig Halt bietende abgeschliffene Wand; es musste nach rechts
@@ -483,7 +483,7 @@ Von hier zieht der Hauptkamm westlich, mit bizarren Felszacken und Zinnen gekrö
 Elmauer Haltspitze, während östlich die Ausläufer der Vorderen Karlspitze in furchtbaren
 Wänden abstürzen. Etwa 30&nbsp;m. gegen den Hohen Winkel
 abwärts wurde der Einstieg in die Wände genommen. Babenstuber und Hofmann,
-mit Steigeisen bewaflnet, begannen den Gang über rothfarbigen, sehr
+mit Steigeisen bewaffnet, begannen den Gang über rothfarbigen, sehr
 brüchigen Fels, der massenhaft zur Tiefe fiel. Bald standen die Steiger vor einem
 circa 25&nbsp;Fuss hohen, beinahe überhängenden, kaminartigen Felsklamml, welches
 Mallhansl als den einzigen Zugang zur Karlspitze bezeichnete. Er entledigte sich

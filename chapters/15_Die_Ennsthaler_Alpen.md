@@ -39,8 +39,8 @@ des Ennsthales geblieben. Naturgemäss knüpfen sich auch alles Leben und alle
 Vorkommnisse der vergangenen Zeiten an das Stift Admont.
 
 Was wir über die Vergangenheit unseres Gebietes wissen, das sind fast ausnahmslos
-Nachrichten über die Jagd und das Jagdleben und die einst schwung-
-haft betriebene Salzgewinnung in Hall bei Admont. Zum ersten Male wird das
+Nachrichten über die Jagd und das Jagdleben und die einst schwunghaft betriebene
+Salzgewinnung in Hall bei Admont. Zum ersten Male wird das
 Thal im Jahre 860 n. Chr. urkundlich genannt, als König Ludwig der Deutsche
 dem Grafen Witagowo Grundstücke im Thale Ademundi zum Geschenke machte.^[^1602]^
 
@@ -385,7 +385,7 @@ und A. Heinzel) abermals den Peternpfad, wobei die Planspitze erstiegen wurde.
 Allein die nunmehr zum Vorsatz genommene Ersteigung des Hochthors wurde
 durch mancherlei Zwischenfälle noch jahrelang hinausgeschoben.
 
-Die Ueberschreitung des Hochthor-Nordnordostgrates erfolgte nämlich .erst am
+Die Ueberschreitung des Hochthor-Nordnordostgrates erfolgte nämlich erst am
 31.&nbsp;Mai 1884. Wieder wurde, und zwar von Otto Fischer, Ad. Heinzel, Fritz Kreuzer
 und dem Verfasser von Gstatterboden aus über den Peternpfad die Peternscharte
 betreten. Von dieser umging die Gesellschaft zunächst den die Scharte überhöhenden
@@ -419,7 +419,7 @@ Innthaler^[^1624]^ aus dem Reissthal Leopold Brunner und Rudolf Meidl im Abstieg
 über den Nordnordostgrat,^[^1625]^ und seither wurde diese schönste aller Felstouren in
 den Gesäusebergen ziemlich häufig, darunter im Jahre 1888 von der ersten Dame
 (Frau Director H. Kauer), wiederholt. Eine hübsche Schilderung derselben lieferte
-Leopold Emes im Jahrgang 1889, S. 212 fl. der Oe. A. Z.
+Leopold Emes im Jahrgang 1889, S. 212 ff. der Oe. A. Z.
 
 Am 4. Juni 1892 stiegen C. Chiari und A. Heilmann aus Wien mit Führer
 B. Zettelmaier aus Admont vom Dachl in das Rosskar ab, da schlechtes Wetter
@@ -1228,7 +1228,7 @@ der Gigalalpe, welche rechts blieb, zu einem gewundenen, mit einem kleinen
 Absturz endigenden Couloir, durch welches man zu einer Wand gelangte. Nun
 ging es rechts weiter zu einer mit Krummholz bestandenen Bergrippe bis zu
 einem überhängenden Felsblock und über Schutt und einige Schroffen zu einer
-verhältnissrhässig niedrigen Stelle der senkrechten Partien in der Mitte der Nordwand;
+verhältnissmässig niedrigen Stelle der senkrechten Partien in der Mitte der Nordwand;
 auf einer Bergrippe weiter in ein Couloir und auf ein Band, das nach
 rechts aufwärts führt; auf diesem kam man zu einem Felskopf, nach welchem
 ein seichter Kamin von 70° Neigung auf eine Felsrippe und sodann leichteres,
@@ -1469,7 +1469,7 @@ eine sehr tüchtige Alpinistin, und Professor P. Gabriel Strobel, sowie J. Draxl
 und J. Friedl aus Admont anschlossen, abgestattet. Diese grosse Gesellschaft
 nächtigte in der Grabneralpe, von der um 5&nbsp;U. morgens aufgebrochen und um
 7&nbsp;U.&nbsp;45 der Natterriegel erreicht wurde, um von dort aus den Hexenthurm
-an-zugreifen. Zunächst wurde der Verbindungskamm etwa 300 Schritte weit verfolgt,
+anzugreifen. Zunächst wurde der Verbindungskamm etwa 300 Schritte weit verfolgt,
 dann über Felsstufen und Rasenpolster nach Norden in das Rosskar abgestiegen,
 auf dessen obersten Schutthalden man die tiefe Scharte im Verbindungsgrat gegen
 den Hexenthurm erreichte, um nach Umgehung einer vorspringenden Felsecke wieder

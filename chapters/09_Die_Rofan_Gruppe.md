@@ -16,7 +16,7 @@ Unnütz^[^954]^ getrennt; rechnet man aber diesen noch zur Gruppe, so bildet ers
 Sattel zwischen Ampelsbach und Steinberger Ache die Nordgrenze.
 
 Weniger einfach ist es mit den Namen bestellt; zwar hat sich die von mir
-in der Z. A.V. 1869, II, 18 vorgeschlagene Bezeichnung Rofan Gruppe^[^953]^ so ziemlich
+in der Z. A. V. 1869, II, 18 vorgeschlagene Bezeichnung Rofan Gruppe^[^953]^ so ziemlich
 eingebürgert, wenn sie auch nicht nach dem culminirenden Gipfel gewählt war, als
 welcher sich beim Erscheinen der Specialkarte nicht die Rofan^[^955]^ 2260&nbsp;m.,
 sondern die Hochiss^[^956]^ 2299&nbsp;m. herausstellte.^[^957]^ In der
@@ -45,7 +45,7 @@ Erzherzog Ferdinand im Hinterunnütz Gebirge, am Uebergange zum Steinberg,
 Salzstuben für das Wild errichten und die zwei Thiergärten bei Rothholz und Jenbach
 anlegen, und mit (zum Theile jetzt noch bestehenden) Mauern umgeben liess u. s. w.,
 liest man dann weiter bei Ruf, wie die über den Wildschaden stets murrenden Bauern
-wieder-holt nach Ableben des jeweiligen Landesfürsten aufstanden und alles Wild
+wiederholt nach Ableben des jeweiligen Landesfürsten aufstanden und alles Wild
 zusammenschossen, worauf wieder drakonische Strafbestimmungen folgten, so kann
 man sich der Annahme kaum entschlagen, dass auch unsere Gruppe zu diesem
 Jagdrevier gezählt hat. Ruf erwähnt allerdings nur drei Berge, «den Tristenkopf,
@@ -83,20 +83,20 @@ der eben genannte Sagzahn und der neben der Rofan gelegene Rosskopf.
 Der **Sagzahn**^[^965]^ (auch Hörndl) 2239 m., wenn man ihn nicht als selbständigen
 Gipfel ansehen will, der höchste Punkt des Vorderen Sonnenwendjochs, tritt bei
 der Gratwanderung von der Rofan zum Thurwieser Kreuz sperrend entgegen;
-schon 1869 wurde mir von meinem Begleiter (Z. A.V. II, ii, 22) der Uebergang als
+schon 1869 wurde mir von meinem Begleiter (Z. A. V. II, ιι, 22) der Uebergang als
 möglich bezeichnet. Damals fehlte es uns aber an Zeit zu Versuchen; auch später
 ist mir und vielen anderen Touristen der Uebergang nicht gelungen, bis 1886
 H. W. Meuser aus München, von der Rofan herkommend, das Problem löste
 (M. A. V. 1886, 139), indem ihm von der anderen Seite her ein Schafler den Weg
 ganz oben durchwies; ich verweise auf die interessante Abbildung des Sagzahns
-in der Z. A.V. 1891, 122 (von der Zireiner Seite aus).
+in der Z. A. V. 1891, 122 (von der Zireiner Seite aus).
 
 Den **Rosskopf**^[^966]^ 2259 m., den schönen felsigen, lange als unersteiglich
 geltenden Doppelgipfel im Westen der Rofan, erstiegen L. Purtscheller und Professor
 H. Schöller aus Salzburg am 26. Juli 1883, gelegentlich einer Gratwanderung von
 der Rofan zur Hochiss, in einer Stunde von der Rofan über den Nordwestgrat.
 Wie mir Purtscheller in Ergänzung seiner Notiz in den M. A. V. 1884, 103
-mittheilt, beruht die dort angegebene Cote 2226&nbsp;m. auf Irrthum, und wurde die
+mittheilt, beruht die dort angegebene Côte 2226&nbsp;m. auf Irrthum, und wurde die
 zwischen Rosskopf und Spieljoch gelegene Seekarspitze 2237&nbsp;m. im Süden
 umgangen. Der Rosskopf tritt aus dem Hauptkamme etwas gegen Süden vor, wie
 auch aus der bereits erwähnten Wähner’schen Aufnahme (Z. A. V. 1891) ersichtlich,

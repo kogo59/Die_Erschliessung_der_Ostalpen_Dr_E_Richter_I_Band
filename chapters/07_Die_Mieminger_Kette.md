@@ -843,11 +843,11 @@ erlauben.
 
 [^717]: [Guem hatte die Tour auch noch nie gemacht.]{.footnote}
 
-[^718]: [Z.A.V. 1879, 246—250.]{.footnote}
+[^718]: [Z. A. V. 1879, 246—250.]{.footnote}
 
-[^719]: [M.A.V. 1882, 21.]{.footnote}
+[^719]: [M. A. V. 1882, 21.]{.footnote}
 
-[^720]: [Siegmund Ritter und Edler von Lößl (1856–1938), Bayerischer Staatsrat.]{.footnote}
+[^720]: [Siegmund Ritter und Edler von Lößl (1856—1938), Bayerischer Staatsrat.]{.footnote}
 
 [^721]: [«Schwäbischer Merkur» 1890, beziehungsweise «Schwäbische Chronik», Nr. 172: Emil Schaller,
 «Zugspitze und Sonnenspitze».]{.footnote}
@@ -868,19 +868,19 @@ erlauben.
 
 [^729]: [E. Schaller, «Zugspitze und Sonnenspitze»; a.a.O.]{.footnote}
 
-[^730]: [M.A.V. 1885, 258.]{.footnote}
+[^730]: [M. A. V. 1885, 258.]{.footnote}
 
 [^731]: [Nach persönlicher Mittheilung R. von Lichtenberg’s]{.footnote}
 
 [^732]: [Nach freundlicher Privatmittheilung.]{.footnote}
 
-[^733]: [M.A.V. 1890, 234. Z. A. V. 1892.]{.footnote}
+[^733]: [M. A. V. 1890, 234. Z. A. V. 1892.]{.footnote}
 
 [^734]: [«Aus den nördlichen Kalkalpen», XVII, 378.]{.footnote}
 
 [^735]: [Waltenberger's «Orographie», 58.]{.footnote}
 
-[^736]: [Kilger, «Wanderungen», II. Z.A.V. 1890, 273 f.]{.footnote}
+[^736]: [Kilger, «Wanderungen», II. Z. A. V. 1890, 273 f.]{.footnote}
 
 [^737]: [Nach persönlicher und brieflicher Mittheilung.]{.footnote}
 
@@ -896,7 +896,7 @@ erlauben.
 
 [^743]: [M. A. V. 1895, 234. Z. A. V. 1892.]{.footnote}
 
-[^744]: [Z.A.V. 1890, 277]{.footnote}
+[^744]: [Z. A. V. 1890, 277]{.footnote}
 
 [^745]: [M. A. V. 1890, 234. Z. A, V. 1892.]{.footnote}
 
@@ -914,23 +914,23 @@ erlauben.
 
 [^752]: [Siehe die [Abbildung](#b180).]{.footnote}
 
-[^753]: [M.A.V. 1882, 50—51.]{.footnote}
+[^753]: [M .A. V. 1882, 50—51.]{.footnote}
 
-[^754]: [M.A.V. 1885, 61.]{.footnote}
+[^754]: [M. A. V. 1885, 61.]{.footnote}
 
 [^755]: [Nach einer Privatmittheilung.]{.footnote}
 
-[^756]: [Z.A.V. 1890, 267 f.]{.footnote}
+[^756]: [Z. A. V. 1890, 267 f.]{.footnote}
 
-[^757]: [M. AV. 1891, 219. 7. A. V. 1892.]{.footnote}
+[^757]: [M. A. V. 1891, 219. 7. A. V. 1892.]{.footnote}
 
-[^758]: [Näheres wird die Z. A.V. 1892 bringen.]{.footnote}
+[^758]: [Näheres wird die Z. A. V. 1892 bringen.]{.footnote}
 
 [^759]: [*Hochwand*:  vergleiche [Hochwand](https://de.wikipedia.org/wiki/Hochwand)]{.footnote}
 
 [^760]: [«Nördliche Kalkalpen», XVII, 375 nebst Anmerkung.]{.footnote}
 
-[^761]: [M.A.V. 1890, 234. Z. A. V. 1892.]{.footnote}
+[^761]: [M. A. V. 1890, 234. Z. A. V. 1892.]{.footnote}
 
 [^762]: [Nach freundlicher Privatmittheilung.]{.footnote}
 
@@ -946,9 +946,9 @@ ausgezeichnet.]{.footnote}
 
 [^766]: [Tourist 1881.]{.footnote}
 
-[^767]: [M. A.V. 1890, 234. Z. A.V. 1892.]{.footnote}
+[^767]: [M. A. V. 1890, 234. Z. A.V. 1892.]{.footnote}
 
-[^768]: [M.A.V. 1890, 207. Schon einige Jahre vorher markirte die Section Telfs des D. u. Oe. A.-V. den Weg von Obsteig über das Marienbergjoch nach Bieberwier.]{.footnote}
+[^768]: [M. A. V. 1890, 207. Schon einige Jahre vorher markirte die Section Telfs des D. u. Oe. A.-V. den Weg von Obsteig über das Marienbergjoch nach Bieberwier.]{.footnote}
 
 [^769]: [H. von Barth, «Aus den nördlichen Kalkalpen», 367, Anm.  **.]{.footnote}
 

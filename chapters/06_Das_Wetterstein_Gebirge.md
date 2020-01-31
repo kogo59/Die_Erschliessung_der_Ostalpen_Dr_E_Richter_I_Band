@@ -2077,7 +2077,7 @@ tiefe Scharte an den Fuss der eigentlichen Gipfelerhebung. Damit begannen auch
 die Schwierigkeiten; zunächst legten die beiden Steiger die Schuhe ab, dann folgten
 Rucksack und Bergstock. Ein Steilabsatz machte ihnen besonders viel zu schaffen.
 Endlich 3&nbsp;U. nachmittags erreichten sie die Spitze. Angesichts der nahen Zugspitze
-beschlossen sie, statt des Rückweges zum Ritfelthore zur Zugspitze hinüberzusteigen,
+beschlossen sie, statt des Rückweges zum Riffelthore zur Zugspitze hinüberzusteigen,
 nur mussten sie erst ihre zurückgelassenen Rucksäcke und Bergstöcke holen, was
 etwa 1 Stunde Zeit erforderte. Sie errichteten dann einen Steinmann auf der Spitze
 und befestigten darin einen Bergstock, an den sie ein weisses Tuch gebunden
@@ -2100,7 +2100,7 @@ Den zweiten Besuch erhielt die Riffelwandspitze am 1.&nbsp;September 1889 von
 Hans Rast aus Garmisch, der mit Josef Ostler jun. vulgo Kosersepp, in Begleitung
 des Ingenieurs Trautner und des Johann Ostler, eines Bruders des Josef, 3&nbsp;U.&nbsp;30
 früh von der Diensthütte im Höllenthal aufbrach. In 1&nbsp;Stunde 40&nbsp;Minuten war
-die Riffelscharte (Ritfelthor) erreicht, in weiteren 1½&nbsp;Stunden gelangten sie um
+die Riffelscharte (Riffelthor) erreicht, in weiteren 1½&nbsp;Stunden gelangten sie um
 die Nord- und Nordwestflanke der Kleinen Riffelwandspitze an jene Stelle, wo eine
 tiefe, schneidige Scharte zwischen dieser und der Grossen Riffelwandspitze den
 Grat durchsetzt. Eine kurze Rast benützten sie zum Studium ihres Zieles. «Wie
@@ -2217,7 +2217,7 @@ Mariensprung).
 
 Den Abstieg nahmen sie wieder durch das Hochkar, dann über die Graslehnen und
 Geröllhalden unter den Wänden des Hinteren Waxenstein quer durch
-und an den Riffelspitzen vorbei zum Ritfelweg, den sie ½&nbsp;Stunde unter der Scharte
+und an den Riffelspitzen vorbei zum Riffelweg, den sie ½&nbsp;Stunde unter der Scharte
 in 2&nbsp;Stunden erreichten.
 
 <a name="S168"></a>Der pikante Eckpfeiler des Kammes aber, der Obelisk des **Kleinen Waxenstein**, harrte noch
@@ -2281,20 +2281,20 @@ Christoph Ott. München, Christian Kaiser, 1851.]{.footnote}
 
 [^616]: [*Knorrhütte*:  vergleiche [Knorrhütte](https://de.wikipedia.org/wiki/Knorrh%C3%BCtte)]{.footnote}
 
-[^617]: [Jb. A.V. II, 1867.]{.footnote}
+[^617]: [Jb. A. V. II, 1867.]{.footnote}
 
-[^618]: [Z.A.V.IV, 1873.]{.footnote}
+[^618]: [Z. A. V. IV, 1873.]{.footnote}
 
 [^619]: [*Eibsee*:  vergleiche [Eibsee](https://de.wikipedia.org/wiki/Eibsee)]{.footnote}
 
-[^620]: [Z.A.V. IV, 1873. Kosersepp verunglückte am 23. Juli 1879 beim Abstiege zum Plattachferner,
+[^620]: [Z. A. V. IV, 1873. Kosersepp verunglückte am 23. Juli 1879 beim Abstiege zum Plattachferner,
 indem er Fräulein Laval, die durch eigene Schuld in Gefahr gerathen war, Hilfe brachte.]{.footnote}
 
 [^621]: [*Franz von Schilcher*:  vergleiche [Franz von Schilcher](https://de.wikipedia.org/wiki/Franz_von_Schilcher)]{.footnote}
 
 [^622]: [*Wiener Neustädter Hütte*:  vergleiche [Wiener-Neustädter-Hütte](https://de.wikipedia.org/wiki/Wiener-Neust%C3%A4dter-H%C3%BCtte)]{.footnote}
 
-[^623]: [Z.A.V. 1877.]{.footnote}
+[^623]: [Z. A. V. 1877.]{.footnote}
 
 [^624]: [*Edward T. Compton*:  vergleiche [Edward Theodore Compton](https://de.wikipedia.org/wiki/Edward_Theodore_Compton)]{.footnote}
 
@@ -2347,13 +2347,13 @@ indem er Fräulein Laval, die durch eigene Schuld in Gefahr gerathen war, Hilfe 
 
 [^649]: [*Dreithorspitze*:  vergleiche [Dreitorspitze](https://de.wikipedia.org/wiki/Dreitorspitze)]{.footnote}
 
-[^650]: [Z.A.V. Ill, 1872.]{.footnote}
+[^650]: [Z. A. V. III, 1872.]{.footnote}
 
 [^651]: [*Schachen*:  vergleiche [Schachen (Wetterstein)](https://de.wikipedia.org/wiki/Schachen_(Wetterstein))]{.footnote}
 
-[^652]: [Z. A.V. V, 1874.]{.footnote}
+[^652]: [Z. A. V. V, 1874.]{.footnote}
 
-[^653]: [Z. A.V. XII, 1881.]{.footnote}
+[^653]: [Z. A. V. XII, 1881.]{.footnote}
 
 [^654]: [Z. A. V. XIII, 1882, «Neue Touren im Wettersteingebirge». ]{.footnote}
 
@@ -2385,7 +2385,7 @@ Messungen des königl. bair. Topographischen Bureaus.]{.footnote}
 
 [^668]: [M. A. V. VI, 1880, 174]{.footnote}
 
-[^669]: [Z.A.V. XII, 1882, 419 ff.]{.footnote}
+[^669]: [Z. A. V. XII, 1882, 419 ff.]{.footnote}
 
 [^670]: [M. A. V. IX, 1883, 115.]{.footnote}
 
@@ -2405,7 +2405,7 @@ die Ostabweichung von der nordsüdlichen Richtung dagegen sicher 60° beträgt.
 
 [^676]: [H. von Barth, «Aus den nördlichen Kalkalpen», 567.]{.footnote}
 
-[^677]: [Z.A.V. XI, 1881, 116 ff.]{.footnote}
+[^677]: [Z. A. V. XI, 1881, 116 ff.]{.footnote}
 
 [^678]: [*Stuibensee*:  vergleiche [Stuibensee](https://de.wikipedia.org/wiki/Stuibensee)]{.footnote}
 
@@ -2421,4 +2421,4 @@ die Ostabweichung von der nordsüdlichen Richtung dagegen sicher 60° beträgt.
 
 [^684]: [*Waxenstein*:  vergleiche [Waxenstein](https://de.wikipedia.org/wiki/Waxenstein)]{.footnote}
 
-[^685]: [M.A.V. 17, 1891, 266.]{.footnote}
+[^685]: [M. A. V. 17, 1891, 266.]{.footnote}

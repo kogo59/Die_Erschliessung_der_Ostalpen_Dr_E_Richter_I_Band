@@ -34,9 +34,9 @@ diesbezüglich auf Jahrgang 1872 Z. A. V., Seite 215, und 1873 Z. A. V., S. 104 
 verbessern in «Arrey von Dommer», Es liegt hier eine dialektische Verstümmelung durch die
 Eingebornen vor, Herr von Dommer bestätigt die Richtigkeit der Angabe, dass er der erste Fremde
 gewesen sei, den B. Schraudolph von Einödsbach auf den Berg geführt, vermuthet aber, dass das
-nicht 1855, sondern 1856 oder 1857 geschehen sei,
+nicht 1855, sondern 1856 oder 1857 geschehen sei.
 
-<span style="font-size: medium;">**Biberkopf**.</span>&nbsp;**[Zu Seite 65](ch005.xhtml#S65):**&nbsp;schreibt
+<span style="font-size: medium;">**Biberkopf**.</span>&nbsp;**[Zu Seite 65](ch005.xhtml#S65)**&nbsp;schreibt
 Herr Premierlieutenant Stritzl in Augsburg: Seite 65 ist der
 von Reitner am 25.&nbsp;Juli 1888 vollzogene Aufstieg über den Westgrat des Biberkopfes als neu bezeichnet.
 Da ich nun am 26.&nbsp;September 1886, von Lechleiten aufsteigend, mit Schraudolph den
@@ -49,7 +49,7 @@ nichts Besonderes. Ziemlich starker Neuschnee — der Kamin oder besser gesagt d
 stark verschneit — zwang zur Vorsicht. Zurück folgten wir dem gleichen Wege nach dem oberen
 Rappenalpenthale.
 
-<span style="font-size: medium;">**Höfats**.</span>&nbsp;**[Zu Seite 79](ch005.xhtml#S79):**&nbsp;schreibt
+<span style="font-size: medium;">**Höfats**.</span>&nbsp;**[Zu Seite 79](ch005.xhtml#S79)**&nbsp;schreibt
 Herr Premierlieutenant Stritzl in Augsburg über eine mit Herrn
 Premierlieutenant Kranzfelder am 14.&nbsp;Juli 1891 unternommene Besteigung des südlichsten Gipfels
 der Höfats, nach vorhergegangener Ersteigung der beiden westlichen Gipfel: Die Tour ist von der
@@ -85,7 +85,7 @@ fand ich keinerlei vor. Ich errichtete einen Steinmann und hinterliess meine Kar
 ist es immerhin, dass diese vierte Spitze noch nicht von Touristen besucht war, da ich aus vielfacher Erfahrung
 weiss, wie die Bemerkung [Seite 80, Zeile 14](ch005.xhtml#S80) von unten den Thatsachen entspricht.
 
-<span style="font-size: medium;">**Hochvogel**.</span>&nbsp;**[Zu Seite 86](ch005.xhtml#S86):**&nbsp;
+<span style="font-size: medium;">**Hochvogel**.</span>&nbsp;**[Zu Seite 86](ch005.xhtml#S86)**&nbsp;
 schreibt Herr Dr. August von Böhm: Ich finde im Triangulirungsprotokoll Nr. 41 aus 1817
 und 1818 (Wien, k. u. k. militär-geographisches Institut) folgende Eintragung: «Hochvogel.
 Zur trigonometrischen Bestimmung wurde das auf dem höchsten Punkte des
@@ -94,7 +94,7 @@ einem Hirtenknaben soll errichtet worden sein.»
 
 
 <span style="font-size: large;">**Lechthaler Alpen.**</span>&nbsp;<span style="font-size: medium;">**Rothwandgruppe**.</span>
-&nbsp;**[Zu Seite 96](ch006.xhtml#S96):** schreibt Herr C. Buder in Nenzing:
+&nbsp;**[Zu Seite 96](ch006.xhtml#S96)** schreibt Herr C. Buder in Nenzing:
 Ich habe die Rothwandspitze bereits vor etwa fünfzehn Jahren mit dem verstorbenen Fr. Arnold
 von Feldkirch und Führer Heine von Lagutz über die Furca bestiegen, ausserdem mit dem gleichen
 Freunde die derselben gegenüber befindlichen Künzlespitze und Zitterklapfen im Walserthale,
@@ -114,7 +114,7 @@ Broeg allein.
 <span style="font-size: medium;">**Klein- oder Braunorglenspitze**.</span>&nbsp;**[Zu Seite 97](ch006.xhtml#S97):**&nbsp;
 B. Hämmerle in Dornbirn berichtet über Ersteigungen dieser Spitze in M. A. V. 1892, 197.
 
-<span style="font-size: medium;">**Gesteinsspitze**.</span>&nbsp;**[Auf Seite 102](ch006.xhtml#S102):**&nbsp;
+<span style="font-size: medium;">**Gesteinsspitze**.</span>&nbsp;**[Auf Seite 102](ch006.xhtml#S102)**&nbsp;
 muss es heissen 1889 statt 1886.
 
 <span style="font-size: medium;">**Rother Kopf**.</span>&nbsp;2813 m. und
@@ -148,7 +148,7 @@ interessantes touristisches Problem (das ich für ausführbar halte) wäre der U
 Platte auf die Freispitze, doch müsste man an der Westseite etwas absteigen und über die
 Wandabbrüche einen Durchgang erforschen.
 
-<span style="font-size: medium;">**Hinterer Platteinkopf**.</span>&nbsp;2722&nbsp;m.**[Zu Seite 115](ch006.xhtml#S102)**&nbsp;
+<span style="font-size: medium;">**Hinterer Platteinkopf**.</span>&nbsp;2722&nbsp;m.**&nbsp;[Zu Seite 115](ch006.xhtml#S102)**&nbsp;
 ist nachzutragen: Am 3. April 1885 erstieg L. Purtscheller mit G. Kammerlander den
 Hinteren Platteinkopf. Nähere Beschreibung der damals neuen Tour in M. A. V. 1885, 133.
 
@@ -178,7 +178,7 @@ Gipfeln leben. 1893 wurden dort seitens der Section München Verbesserungen vorg
 Kurze Zeit vor Dr. Mainzer, und zwar am 3. Juli 1891, wurde der neue
 directe Weg in das Grieskar zum ersten Male von Eduard Schmidt aus München in Begleitung
 von Bruno Glatz ausgeführt. Tags zuvor, gelegentlich einer Waxensteinbesteigung, waren die
-gang-baren Stellen ausgekundschaftet worden. Zur Erreichung des östlichen Zugspitz
+gangbaren Stellen ausgekundschaftet worden. Zur Erreichung des östlichen Zugspitz
 Gipfels wurden bei dieser Partie vom Höllenthalanger aus exclusive Rasten 6½&nbsp;Stunden benöthigt.
 
 **[Auf Seite 133, Zeile 14 von unten](ch007.xhtml#S133)**
@@ -202,12 +202,12 @@ unten erwähnte — Seitengrat abzweigt. Hier fanden sie die letzte von mehreren
 Beweis lieferten, dass diese Strecke schon früher betreten worden war. Nun folgte überaus schwierige
 Kletterarbeit südlich neben und auf dem Hauptgrate auf denkbar schlechtestem Gestein über den
 Sattel oberhalb des Kleinen Schneeferners zu den ersten Köpfen der weiteren Gratfortsetzung gegen
-die Innere Höllenthalspitze, Von diesen wandten sie sich in den Felsen östlich der Mulde des Kleinen
+die Innere Höllenthalspitze. Von diesen wandten sie sich in den Felsen östlich der Mulde des Kleinen
 Schneeferners schräg gegen Südosten abwärts und erreichten in leichterem Abstiege zunächst die obere
 Mulde, sodann über eine kleine Wand die untere Sandreisse und den Zugspitzweg. Vom Ostgipfel bis
 zur Knorrhütte brauchten sie 3½&nbsp; Stunden. Wie weitere Nachforschungen ergaben, rühren die
 vorgefundenen Dauben von Josef Praxmaier und Gemeindediener Gansler aus Partenkirchen her,
-welche im August 1882 gelegentlich der Vorarbeiten für die Neuaufstellung des Kreuzes ([Seite 135](ch007.xhtml#S135) )
+welche im August 1882 gelegentlich der Vorarbeiten für die Neuaufstellung des Kreuzes ([Seite 135](ch007.xhtml#S135))
 im Allgemeinen dieselbe Route wie Dr. Mainzer gemacht hatten. Die von ihnen verfolgte Linie fällt
 wenigstens im oberen Theile ganz mit der von Mainzer eingehaltenen zusammen. Ueber ihr
 gelungenes Unternehmen war aber bisher nichts in die Oeffentlichkeit gedrungen. Praxmaier, vulgo
@@ -314,7 +314,7 @@ im September 1853 bereits von der Ersteigung durch Kiendl im Jahre 1853.
 **[Zu Seite 147, nach Zeile 9 von unten](ch007.xhtml#S147):**&nbsp;
 Nach ihnen soll die Partenkirchner Dreithorspitze 1858 von drei Männern aus Partenkirchen
 erstiegen worden sein, welche zu Vermessungszwecken einen hölzernen Pfahl hinaufschleppten
-und aufpflanzten.^[^1910]^ Bergführer Johann Witting (Parienkirchen) behauptet, dass Philipp
+und aufpflanzten.^[^1910]^ Bergführer Johann Witting (Partenkirchen) behauptet, dass Philipp
 Rauth, Josef und Ambros Neuner aus Ober-Leutasch, die acht Tage mit den
 Vermessern thätig waren, damit gemeint seien und verlegt die Ersteigung auf das Jahr 1857. H. von
 Barth^[^1911]^ fand aber auf den Gipfel nur die Stange von Kiendl's Kreuz vor, und zwar mit den
@@ -414,7 +414,7 @@ in das Kirchlkar und verliess dasselbe einmal über das am Ausgange des Kares di
 nach Westen vermittelnde, latschenbehangene Felsband, das andere Mal stieg er über
 das Gemsangerl in das Gemskar über (18. und 21.&nbsp;August). Endlich erstieg er im
 gleichen Jahre den südlichsten der Brunnthalköpfe, der wohl auch ausschliesslich als
-Brunnthalkopf 2265&nbsp;m. bezeichnet wird, von der Knorrhütte aus in ¾&nbsp; Stunden. Erst
+Brunnthalkopf 2265&nbsp;m. bezeichnet wird, von der Knorrhütte aus in ¾&nbsp;Stunden. Erst
 über die Sandreissen 100 m, emporsteigend, erreichte er unter Benützung der grünen Plätze den
 Sattel 2242&nbsp;m. nördlich des Kopfes und dann diesen selbst; den Blick von dem mühelos
 zu erreichenden Gipfel bezeichnet er als sehr interessant und instructiv bezüglich der
@@ -461,7 +461,7 @@ und durch die nach Norden abstürzenden Felsen eines Ausläufers der Riffelwands
 traversirend, gelangten sie auf grosse Geröllflächen östlich der Kleinen Spitze, die sie nun
 bis zum Hauptgrate aufwärts verfolgten, wo sie vergebens einen Durchgang suchten. Sie
 fanden einen solchen erst ziemlich tief unterhalb des Grates in einer sehr steilen,
-brüchigen, weiten Rinne und gewannen durch diese die Gerölllächen unmittelbar nördlich unter dem
+brüchigen, weiten Rinne und gewannen durch diese die Geröllflächen unmittelbar nördlich unter dem
 Gipfel der Kleinen Riffelwandspitze, womit der Weg in die Scharte zur Grossen Spitze offen lag. Der
 vorgeschrittenen Zeit wegen — sie waren verspätet aufgebrochen — wandten sie sich aber nicht der
 Grossen, sondern der Kleinen Riffelwandspitze zu. In nicht allzu schwieriger Felskletterei erreichten
@@ -523,13 +523,13 @@ bis zur Spitze kaum mehr als 2—2½ Stunden erfordern; Bedingung für das Gelin
 aber wahrscheinlich immer das Vorhandensein von Schnee sein, ohne den die grosse Rinne
 nicht durchstiegen werden könnte.
 
-Den <span style="font-size: medium;">**Zwölferkopf**.</span>&nbsp;
+Den <span style="font-size: medium;">**Zwölferkopf**</span>&nbsp;
 bezwang am 20.&nbsp;Juni 1893 Josef Ruederer aus München mit Mathias Schönherr aus
 Ehrwald von Norden her in achtstündiger, grossentheils sehr schwieriger Kletterarbeit.^[^1923]^
 
 <span style="font-size: medium;">**Kleiner Waxenstein**.</span>&nbsp;**[Zu Seite 168, Zeile 6 von unten](ch007.xhtml#S168):**&nbsp;
 Ueber dessen erste und bisher einzige Ersteigung berichtet Oscar Schuster aus Dresden in den
-M.A.V. 1892, 184.
+M. A. V. 1892, 184.
 
 <span style="font-size: medium;">**Südliche und Nördliche Riffelspitze**.</span>&nbsp;**[Zu Seite 167](ch007.xhtml#S167):**&nbsp;
 Gelegentlich eines Ueberganges über die Riffelscharte stattete Eduard Schmidt aus
@@ -543,10 +543,10 @@ früherer Ersteigungen.&nbsp;&nbsp;&nbsp;&nbsp;M. von Prielmayer.
 Die S. München hat am Aufstieg vom Alpelhaus zur Oberen Platte ein 80&nbsp;Meter
 langes Drahtseil anbringen lassen.
 
-<span style="font-size: large;">**Karwendel-Gruppe.**</span>&nbsp;**[Zu Seite 195, Absatz 5, Zeile 4,](ch010.xhtml#S195):**&nbsp;
+<span style="font-size: large;">**Karwendel-Gruppe.**</span>&nbsp;**[Zu Seite 195, Absatz 5, Zeile 4,](ch010.xhtml#S195)**&nbsp;
 statt: J. Fettroy lies: J. Fettow.
 
-<span style="font-size: medium;">**Gratübergang vom Katzenkopf auf die Jägerkarspitzen**.</span>&nbsp;**[Zu Seite 213](ch010.xhtml#S213):**&nbsp;
+<span style="font-size: medium;">**Gratübergang vom Katzenkopf auf die Jägerkarspitzen**.</span>&nbsp;**[Zu Seite 213](ch010.xhtml#S213)**&nbsp;
 schreibt uns Herr k. Secretär Ferdinand Kilger in München: Im Jahre 1883 machten den
 gleichen Gratübergang die Gebrüder Josef und Philipp Zametzer aus München, und zwar
 ohne Führer, und ihnen folgten am 4. August 1887 als fünfte und bis jetzt auch letzte Partie
@@ -563,7 +563,7 @@ die überstandene Mühe, Gefahr und Kälte reichlichst entschädigte.
 **[Zu Seite 225, Absatz 5, Anhang](ch010.xhtml#S225):**&nbsp;
 Die zweite Ersteigung der Kumpfkarspitze, und zwar die erste von der Nordseite, führte
 Ed. Schmidt aus München mit dem Führer Georg Fütterer aus Mittenwald am 29. Mai 1891
-aus. (Siehe M. A.V. 1891, 179.)
+aus. (Siehe M. A. V. 1891, 179.)
 
 **[Zu Seite 225, Zeile 3 von unten](ch010.xhtml#S225):**&nbsp;
 Einen Artikel über die Reitherspitze und die Aussicht von diesem Gipfel von
@@ -606,7 +606,7 @@ muss es heissen: Eduard Schmidt, statt: Schmidl.
 **[Zu Seite 289 ff.](ch014.xhtml#S289)**&nbsp;
 schreibt Herr J. Ruederer in Farchant bei Garmisch: 1. Am 13. August 1892 brachen Josef
 Ruederer und Hans Gazert aus München mit Führer Josef Aschauer, vulgo Wimbacher,
-mittags 12z&nbsp;U. von Ramsau auf und stiegen vom Wimbachschlosse aus durch das
+mittags 12&nbsp;U. von Ramsau auf und stiegen vom Wimbachschlosse aus durch das
 Labyrinth der latschenbewachsenen, schutterfüllten Wasserschluchten
 zum Watzmannsattel hinter dem Watzmannmais, den sie abends 5&nbsp;U.&nbsp;30 nach
 vielen Umwegen erreichten. Das noch 1000&nbsp;Meter hohe Watzmann Massiv wurde trotz
@@ -651,7 +651,7 @@ weggesprengt worden ist. Hier schien ein Weiterkommen anfangs unmöglich, Auhäu
 aber doch, und hatte den Ueberhang, den. weitaus schwierigsten Theil der ganzen Tour, eben
 überwunden, als von oben Steine herabkamen, woraus er schloss, dass Steiner schon oben sei und ihm
 entgegenkomme. Er kletterte daher zurück und suchte Deckung vor den Steinen. Steiner stieg nun
-herab, bis er schliesslich nur mehr 8—9&nbsp;Meter von Auhäusler entiernt war, Nun berichteten die
+herab, bis er schliesslich nur mehr 8—9&nbsp;Meter von Auhäusler entiernt war. Nun berichteten die
 Beiden einander über ihre Wahrnehmungen und kamen überein, dass der künftige Weg über die
 Platte geführt werden solle, während der Gemsenwechsel diese Stelle wegen des Ueberhanges etwas
 weiter östlich umgeht. Steiner stieg dann wieder etwas zurück und kletterte nach dem Gemsenwechsel
@@ -685,7 +685,7 @@ Hallstatt genommen.^[^1926]^ Im Jahre 1875 ist sodann der Dachstein auf dem inzw
 verbesserten Wege noch von vier Partien (mit zusammen 11 Touristen) bestiegen worden,
 während eine Partie (2 Touristen) schlechten Wetters halber unter dem Gipfel umkehren musste.^[^1927]^
 
-<span style="font-size: medium;">**Eiskarlspitze**.</span>&nbsp;**[Zu Seite 356](ch015.xhtml#S356):**&nbsp;
+<span style="font-size: medium;">**Eiskarlspitze**.</span>&nbsp;**[Zu Seite 356](ch015.xhtml#S356)**&nbsp;
 schreibt Herr Robert H. Schmitt Folgendes: Hiezu habe ich zu bemerken: 1. dass ich niemals am Fusse
 jener Spitze war, 2. dass auch keine der namentlich angeführten, mir wohlbekannten Personen jemals
 am Fusse jenes Felszackens gestanden hat. Der ganze Absatz erweist sich somit als durchaus unwahr,
@@ -716,7 +716,7 @@ Ersteigung der <span style="font-size: medium;">**Gasselthürme**</span> bei Ebe
 vollführte Erich von König und Hans Hernler (Gmunden) am 7. Juli 1889 (Tourist 1891, 33).
 
 <span style="font-size: large;">**Ennsthaler Alpen.**</span>&nbsp;<span style="font-size: medium;">**Reichenstein**.</span>&nbsp;
-**[Zu Seite 386](ch017.xhtml#S386):** schreibt Herr Dr. W. Fikeis: Herr
+**[Zu Seite 386](ch017.xhtml#S386)** schreibt Herr Dr. W. Fikeis: Herr
 Heinrich Hess erzählt S. 386, dass zu Pfingsten 1879 die zweite führerlose Partie den Reichenstein
 bestieg, bestehend aus Hess, Fischer, Kratky, Krischker, Schück, C. Spody, Dr. Wagner
 und mir, dass damals der Gipfel erst um 8&nbsp;U. abends erreicht wurde, dass Fischer, Schück und
@@ -735,7 +735,7 @@ bivouakirten, Hess und Genossen aber — weil weit voraus — um 11&nbsp;U. nach
 **[Zu Seite 404](ch018.xhtml#S404)** ergeben sich folgende Nachträge:&nbsp;<span style="font-size: medium;">**Grosser Peilstein**.</span>&nbsp;
 2070&nbsp;m., erste touristische Ersteigung am 10.&nbsp;Juli 1892 durch C. Domenigg in Graz
 und Rudolf Ellinger in Wien (Oe. T. Z. 1892, 179). Nach einer Mittheilung von Dr. J. Rosenthal in Wien war der
-erste Ersteiger Führer Berger 1879. Die &nbsp;<span style="font-size: medium;">**Schaufelwand**.</span>&nbsp;
+erste Ersteiger Führer Berger 1879. Die &nbsp;<span style="font-size: medium;">**Schaufelwand**</span>&nbsp;
 erstiegen am 2. April 1893 M. Schettinz, C. Gelbmann, St. Hefele und F. Kräftner aus Graz (Oe. A. Z. 1893, 107).
  &nbsp;<span style="font-size: medium;">**Kleiner Festibeilstein**.</span>&nbsp;
 Die erste Ersteigung erfolgte durch St. Hefele und C. Gelbmann aus Graz (Oe. A.-Z. 1892, 18).
