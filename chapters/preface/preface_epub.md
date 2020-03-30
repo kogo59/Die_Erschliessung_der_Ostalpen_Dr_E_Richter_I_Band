@@ -1,4 +1,4 @@
-﻿# Die Erschliessung der Ostalpen I. Band. {epub:type=titlepage .unnumbered }
+# Die Erschliessung der Ostalpen I. Band. {epub:type=titlepage .unnumbered }
 
 :::: {.wrap-100 .align_center .break-after}
 ![Die Dirndln.](Ostalpen_Band_I_0.jpg "Ostalpen_Band_I_0.jpg"){#b000}

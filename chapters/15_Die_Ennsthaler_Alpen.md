@@ -260,7 +260,7 @@ nach dem Aufbruche wurde eine Spitze erreicht, welche die beiden Alpinisten
 ebenso wie ihr Vorgänger Schleicher — denn die beiden Partien gingen den
 ganz gleichen Weg — für die höchste Spitze hielten, bis der zerreissende Nebel
 sie eines Besseren belehrte. Professor Frischauf nannte nun^[^1617]^ diesen Vorgipfel
-nach den Angaben seines Wirthes (Kirchenwirth Donner) die «Rosskuppe» , während er
+nach den Angaben seines Wirthes (Kirchenwirth Donner) die «Rosskuppe», während er
 richtig «Die Gugel» heisst. Dass aber Professor Frischauf und Dr. von
 Juraschek sich auf dem Grat der «Gugel», also auf dem östlichen Seitenast des
 Hochthor befanden, geht klar aus der Aeusserung Frischauf’s hervor: «Unmittelbar

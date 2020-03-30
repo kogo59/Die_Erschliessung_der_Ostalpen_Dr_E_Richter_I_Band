@@ -615,7 +615,7 @@ sich von Süden als gewaltige nebeneinander aufragende Felskegel. Der vom Poneck
 südlich abzweigende kurze Grat, der die P.&nbsp;2230 und 2224 trägt, heisst der
 Poneckriedl.
 
-Die **Schönfeldspitze**^[^1166]^ , auf der Pinzgauer Seite Zink, Hochzink, Freithofzink
+Die **Schönfeldspitze**^[^1166]^, auf der Pinzgauer Seite Zink, Hochzink, Freithofzink
 oder Zint genannt, einst der Brennpunkt der Berchtesgadener Bergsagen
 (Barth, «Nördliche Kalkalpen», 23) und wegen ihrer Schwierigkeit einige Zeit
 gemieden, erhebt sich als ein allseits ungemein zierlich und schlank geformter

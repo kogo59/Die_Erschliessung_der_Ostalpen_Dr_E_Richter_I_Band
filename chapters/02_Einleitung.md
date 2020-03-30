@@ -441,7 +441,7 @@ der Alpen steigerte, so hatte doch Ruthner durch die Zahl seiner Touren und
 seine schriftstellerische Art eine unbedingte Führerrolle unter den Bergsteigern der
 Ostalpen, als mit der Eröffnung der alpinen Bahnen die letzte Periode in deren
 Erschliessungsgeschichte eintrat. 1854 war die Semmeringbahn^[^034]^ vollendet worden,
-1860 die Bahn nach Salzburg, 1867 die Brennerbahn^[^035]^ , 1871 die Pusterthaler-^[^036]^, 1872
+1860 die Bahn nach Salzburg, 1867 die Brennerbahn^[^035]^, 1871 die Pusterthaler-^[^036]^, 1872
 die Rudolfsbahn^[^037]^; 1875 folgten die Salzburg-Tiroler Gebirgsbahn^[^038]^, 1884 die Arlbergbahn^[^039]^.
 Es wird nicht unrichtig sein, anzunehmen, dass die ausserordentliche Steigerung,
 welche das Alpenreisen in den letzten zwanzig Jahren erfahren hat, in

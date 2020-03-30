@@ -30,7 +30,7 @@ zum Grubenpasse zwischen Weissblatten^[^079]^ und Sulzfluh^[^080]^, wo er wieder
 in seine Hauptrichtung, die ostwestliche, umbiegt und dieselbe bis zu seinem westlichen
 Eckpfeiler, dem Falknis^[^081]^, beibehält.
 
-Die nach Norden ausstrahlenden Seitenkämme schliessen sechs von Osten nach ,
+Die nach Norden ausstrahlenden Seitenkämme schliessen sechs von Osten nach,
 Westen an Länge zunehmende, wenig verzweigte, ungefähr parallel verlaufende Thäler
 ein, während die südlichen Seitenkämme weniger regelmässigen Bau und verworrene
 Anordnung zeigen.
@@ -229,7 +229,7 @@ malerisch schönen Abschluss des Gauer Thales^[^103]^ bildet. Eine mit grünschi
 Eismassen tief herunter behangene, ungangbare Scharte, das Eisjöchl, spaltet den
 gewaltigen Bau in das westliche Massiv der eigentlichen Drusenfluh, deren
 Cyklopenmauern mit scheinbar glatten Wänden den Oefentobel begleiten, und in die
-wildzerklüftete Gruppe der Drei Thürme^[^104]^ , deren bizarrer Aufbau mit den fast lothrecht
+wildzerklüftete Gruppe der Drei Thürme^[^104]^, deren bizarrer Aufbau mit den fast lothrecht
 aus den Trümmerfeldern emporstarrenden Seiten jeder Annäherung zu spotten
 scheint. Doch sollen die beiden westlichen höheren von Jägern erklettert sein, ohne
 dass sichere Daten vorliegen, der isolirt stehende östliche dagegen allen Versuchen

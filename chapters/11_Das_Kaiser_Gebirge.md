@@ -67,7 +67,7 @@ Sprengungen, Drahtseile und Stiften verbessert, Unterkunftshütten erbaut, so da
 gegenwärtig sowohl der bequeme Tourist als der kühnere Bergsteiger die herrlichen
 Landschaftsbilder, die dieses Gebirge bietet, nach seiner Art geniessen kann. Auch
 literarisch ist das Kaisergebirge keineswegs stiefmütterlich behandelt worden. Die
-Monographie von Trautwein: «Das Kaisergebirge» , II. Auflage, München 1891,
+Monographie von Trautwein: «Das Kaisergebirge», II. Auflage, München 1891,
 bietet erschöpfende Beschreibung und verlässlichen Wegweiser. (Daselbst und Z. A. V.
 1879 findet sich auch die vom Alpenverein herausgegebene Specialkarte, auf die
 hiermit verwiesen sei.)

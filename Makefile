@@ -1,7 +1,7 @@
 BUILD = build
 MAKEFILE = Makefile
 OUTPUT_FILENAME = Die_Erschliessung_der_Ostalpen_Dr_E_Richter_I_Band
-TITLE_NAME = "Die Erschliessung der Ostalpen I. Band."
+TITLE_NAME = "Die Erschliessung der Ostalpen I. Band"
 METADATA = metadata.yml
 CHAPTERS = chapters/*.md
 TOC = --toc --toc-depth=3
@@ -53,9 +53,10 @@ $(BUILD)/epub/$(OUTPUT_FILENAME).epub: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS
 	echo $(IDENT)
 	$(eval BID=$(strip $(IDENT)))
 	$(CALIBRE)calibre
+	rm $(BUILD)/epub/*.azw3
 	$(CALIBRE)calibredb export --single-dir --to-dir $(BUILD)/epub --formats azw3 $(BID)
 	$(CALIBRE)calibredb remove $(BID)
-	rm $(BUILD)/epub/$(OUTPUT_FILENAME).azw3
+	mv $(BUILD)/epub/*.azw3 $(BUILD)/epub/$(OUTPUT_FILENAME).azw3
 
 #$(BUILD)/html/$(OUTPUT_FILENAME).html: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF)
 #mkdir -p $(BUILD)/html
