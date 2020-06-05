@@ -1,8 +1,3 @@
-#
-:::: { .fs-jumbo .align-center }
-<br /><br /><br /><br /><br />**DIE NÖRDLICHEN KALKALPEN.**
-:::
-
 # **`DER RHÄTIKON.`**<br /> {#Rhaetikon .unnumbered}
 
 ::: align-center
@@ -186,7 +181,7 @@ Tschagguns^[^099]^ aufragender Felskopf, wird vom Montavon aus wegen des unvermi
 prächtigen Niederblickes ins Thal häufig von Fremden und Einheimischen besucht,
 indem die Felswände der Nordseite umgangen und von Süden die Spitze erreicht wird.
 
-Geradezu<a name="S24"></a> selten und wohl nur von Liebhabern des Klettersports wird das
+Geradezu<a id="S24"></a> selten und wohl nur von Liebhabern des Klettersports wird das
 Schwarzhorn, jener schwarzgrüne Felskegel im Nordwesten des Tilisuna Sees,
 erstiegen. Fremdartig wie sein Gestein, Serpentin und Diorit, ist auch sein kecker
 zuckerhutförmiger Aufbau unter den Bergformen des Rhätikons. Wie ein drohend

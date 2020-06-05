@@ -895,7 +895,7 @@ in Gesellschaft von G. Geyer aus Graz und des Führers Krachler. Bei dieser Gele
 wurde der obere Theil des Anstieges roth markirt und in der Wand, über
 welche man in der Regel aus der Schlucht ausstieg, einige Eisenstifte angebracht.
 
-<a name="S386"></a>Am 18.&nbsp;August 1878 bestiegen A. Heinzel aus Wien, J. Draxler und J.
+<a id="S386"></a>Am 18.&nbsp;August 1878 bestiegen A. Heinzel aus Wien, J. Draxler und J.
 Friedl aus Admont den Reichenstein von der Flietzenalpe, wo genächtigt worden
 war, als erste führerlose Partie.^[^1651]^ Dieser folgte zu Pfingsten des Jahres 1879 die
 nächste führerlose Partie, bestehend aus Dr. W. Fikeis, Otto Fischer, E. Kratky,

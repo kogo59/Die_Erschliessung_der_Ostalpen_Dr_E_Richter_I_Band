@@ -687,7 +687,7 @@ bald getrennt, wie es Jeder besser zu treffen hoffte. Des Berges Scheitel betrat
 zuerst Klingler, 3&nbsp;Minuten später standen auch Schwarzenberg und Moser
 oben. Ihr Steigen hatte von dem Steine an gegen ¾&nbsp;Stunden gedauert....» Nun
 folgten auch Thurwieser und Langegger und erreichten in 26 Minuten den
-Gipfel.<a name="S278"></a>
+Gipfel.<a id="S278"></a>
 
 Hier bricht Thurwieser’s Bericht ab, so dass es zweifelhaft erscheint, ob
 der beabsichtigte Abstieg zum Funtensee ausgeführt wurde. Den Vorsatz, die
@@ -1180,7 +1180,7 @@ nicht mehr weiter marschiren. Damit war unser Loos entschieden, wir durften
 unseren Gefährten nicht verlassen. Da hiess es nun unter freiem Himmel, ohne
 Lebensmittel, ohne Feuer und Decken die Nacht zubringen. .. .»
 
-<a name="S289"></a>Denselben Abstieg von der Mittelspitze des Watzmanns direct ins Wimbachthal
+<a id="S289"></a>Denselben Abstieg von der Mittelspitze des Watzmanns direct ins Wimbachthal
 führte einige Jahre später (wahrscheinlich 1875) Carl Babenstuber aus München
 mit dem Führer J. Grill (Kederbacher) aus. Wie sehr Kederbacher mit den
 Terrainverhältnissen vertraut war, geht daraus hervor, dass der Abstieg nur
@@ -2918,7 +2918,7 @@ Steinernen Meer», Amthor's Alpenfreund, IX, 1876, 330 ft.]{.footnote}
 [^1189]: [Dr. A. Prinzinger, «Die Höhennamen in der Umgebung von Salzburg. Mittheilungen der
 Gesellschaft für Salzburger Landeskunde», I, 1860— 1861, 45 ff.]{.footnote}
 
-[^1190]: [*Dr. A. Prinzinger sen.*:  vergleiche [August Prinzinger d.Ä.](hhttps://de.wikipedia.org/wiki/August_Prinzinger_d.%C3%84.)]{.footnote}
+[^1190]: [*Dr. A. Prinzinger sen.*:  vergleiche [August Prinzinger d.Ä.](https://de.wikipedia.org/wiki/August_Prinzinger_d.%C3%84.)]{.footnote}
 
 [^1191]: [von Koch-Sternfeld ist in seiner Schrift «Die Gründung des Fürstenthums Berchtesgaden» (Burghausen 1860, 23) der Ansicht, dass der Watzmann seinen Namen von einem im 12. Jahrhunderte an den Salzquellen betheiligten Edelmanne
 schöpfe. Auch den Namen «Karwendel Gebirge» leitet er von einer «vir nobilis Karwentil» im Hausengau

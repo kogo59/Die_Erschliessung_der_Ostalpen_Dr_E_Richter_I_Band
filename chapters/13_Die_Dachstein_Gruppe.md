@@ -279,7 +279,7 @@ an umgeht man den Berg auf österreichischem Boden (S. 676), «bis man wieder
 an der steirischen Seite in der grossen Scharte zwischen dem Thorstein und Dachstein^[^1329]^
 herauskommt und nun die Besteigung des eigentlichen Gipfels an der
 steilen Wand hinauf wieder im Salzburgischen beginnt». Oberhalb der Scharte
-(Untere Windlücke)<a name="S331"></a> ragt eine Felsnase weit hinaus über den Abgrund, das ist der
+(Untere Windlücke)<a id="S331"></a> ragt eine Felsnase weit hinaus über den Abgrund, das ist der
 «Predigtstuhl». Von hier klettert man (S. 684) «über verwittertes Gestein, von
 Schnee und Eis oft trügerisch verdeckt, an der gähen Wand des ungeheueren Abgrundes
 hinan» und erreicht nach einer Viertelstunde eine Kluft an einer zwischen
@@ -599,7 +599,7 @@ Koppenkarsteins eingeschlagen, doch war der Abstieg vom Grat auf das Firnfeld
 des Schladminger Gletschers nicht Jedermanns Sache, und so kam diese Route^[^1384]^
 niemals recht in Aufnahme.
 
-<a name="S339"></a>Man war deshalb bestrebt, einen kürzeren, directeren Weg von Schladming
+<a id="S339"></a>Man war deshalb bestrebt, einen kürzeren, directeren Weg von Schladming
 auf den Dachstein ausfindig zu machen. Da erinnerte sich denn Auhäusler, dass
 er einst auf einer Gemspürsch in der Schwadering, Anfangs der Sechzigerjahre,
 Gemsen über die Wand zur Hunerscharte habe hinaufsteigen sehen. Er meinte,
@@ -848,7 +848,7 @@ Eine zwischen ihnen sich zeigende Lücke wird das «Steinfensterl» genannt und
 ist nicht mit dem gleichnamigen Gebilde im Grat des Koppenkarsteins zu verwechseln.
 
 Das Südliche Dirndl circa 2800&nbsp;m. ist das höhere; es wurde zum ersten
-Mal am 5.&nbsp;August 1879 von <a name="S345"></a>Dr. W. Fikeis und Dr. F. Krischker (ohne Führer)
+Mal am 5.&nbsp;August 1879 von <a id="S345"></a>Dr. W. Fikeis und Dr. F. Krischker (ohne Führer)
 am Rückweg vom Dachstein erklettert. Sie stiegen an seiner Nordseite über
 die steile Schneehalde zu einem Felskamin an und theils durch diesen, theils
 über die rechtsseitigen Felsbänder auf den Gipfelgrat, der sich bis auf ⅓&nbsp;m.
@@ -1247,7 +1247,7 @@ Felsen und Rasen auf den Grat, dann etwas abwärts in den obersten Theil des
 gegen den Reissgang verlaufenden Kars. Ueber die westlichen Felsflanken (zwei
 Kamine) wieder auf den Grat und zur Spitze (Steinmannd]).^[^1491]^
 
-<a name="S356"></a>**Eiskarlspitze**. Diese kühne Felsspitze zwischen Windleger und Hochkessel
+<a id="S356"></a>**Eiskarlspitze**. Diese kühne Felsspitze zwischen Windleger und Hochkessel
 ist noch unbestiegen, obwohl sie schon mannigfach belagert wurde; so von Schmitt,
 Oroszlany, Merz, Dr. Helversen und Anderen.
 :::
@@ -1417,7 +1417,7 @@ Die Uebung eingehender Kritik und genauer Nachforschung war damals nicht Mode.]{
 [^1348]: [So am 3. September 1880 von Markgraf Alfred Pallavicini und H. R. von Rumpler mit S. Höhenegger und Michael Gamsjäger (Oe. A. Z. 1880, 251 und Fremdenbücher am Dachsteingipfel und in der Simonyhütte); am 6. Juni 1881 Auhäusler und Johann Knauss auf eigene Faust (Knauss, Tourist 1884, 92—93, auf und ab bei gutem Schnee durch die Schneerinne); am 17.&nbsp;Juli 1881 Dr. von Lederer mit Johann Steiner (Briefl. Mitth. Lederer’s an Geyer, durch die Eisrinne, oben links ausgewichen); am 17.&nbsp;September 1881 dieselben (Fremdenbuch der Austriahütte); am 25. August 1884 Julius Neukirch mit Matthias Knauss (Fremdenbuch am Dachsteingipfel); am 10.&nbsp;August 1885 Toni Kranner mit Johann Steiner (ebendaselbst); am 11.&nbsp;Juli 1889 R. H. Schmitt und F. Drasch ohne Führer
 (siehe unten).]{.footnote}
 
-[^1349]: [*Robert R. von Lendenfeld*:  vergleiche [Robert Lendlmayer von Lendenfeld](hhttps://de.wikipedia.org/wiki/Robert_Lendlmayer_von_Lendenfeld)]{.footnote}
+[^1349]: [*Robert R. von Lendenfeld*:  vergleiche [Robert Lendlmayer von Lendenfeld](https://de.wikipedia.org/wiki/Robert_Lendlmayer_von_Lendenfeld)]{.footnote}
 
 [^1350]: [*Carl Blodig*:  vergleiche [Karl Blodig](https://de.wikipedia.org/wiki/Karl_Blodig)]{.footnote}
 

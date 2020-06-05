@@ -90,7 +90,7 @@ des Jahres besucht, und die vielen Tausende, welche den Gipfeln dieser Berge
 zustreben, zeigen damit, dass die Freude an der Hochgebirgsnatur in die breiten
 Schichten des Volkes eingedrungen ist und dort festen Fuss gefasst hat.
 
-<a name="S407"></a>Bis zum Gipfel hinauf begrünt, mit kleinen, perennirenden Schneelagern,
+<a id="S407"></a>Bis zum Gipfel hinauf begrünt, mit kleinen, perennirenden Schneelagern,
 welche sich in den Vertiefungen der plateauartigen Abdachungen, in wenigen Runsen
 und Schluchten auch im Sommer erhalten, bildet der **Schneeberg**^[^1806]^ 2075&nbsp;m.
 zugleich die höchste Erhebung des Kronlandes Niederösterreich. Der Gipfel entragt einem
@@ -147,7 +147,7 @@ October 1882 erfolgten Begehung des Weichthales gleichfalls erstiegen. Dieser Fe
 auf der Schneide zwischen Weichthal und Frohnbachgraben stehend, wird
 von der Süd- oder Südwestseite erklommen.
 
-<a name="S408"></a>Vom Thurmstein gerade aufwärts und sodann nach links schreitend, gelangt
+<a id="S408"></a>Vom Thurmstein gerade aufwärts und sodann nach links schreitend, gelangt
 man in die Ausmündung des Schneegrabens und kann nun von hier über den
 diesen Graben rechter Hand flankirenden Rücken das Klosterwappen oder, über
 den Felskamm des Schauerstein den Schneegraben querend, den Kaiserstein ersteigen.
