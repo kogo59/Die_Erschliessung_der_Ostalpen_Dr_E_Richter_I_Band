@@ -31,7 +31,14 @@ language: de-DE
 date: 1893
 publisher: Verlag des deutschen und oesterreichischen Alpenvereins
 subject: [Ostalpen]
-rights:  Public Domain
+rights: |
+  <br /><br />Die Urheber  dieses Werks sind vor 1950 gestorben, es ist daher gemeinfrei,
+  weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das
+  Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen
+  Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers.
+  Dieses Werk ist gemeinfrei in den Vereinigten Staaten, weil es
+  vor dem 1. Januar 1924 veröffentlicht wurde.<br /><br />
+
 ibooks:
 iphone-orientation-lock: portrait-only
 reference-section-title: "Anmerkungen"

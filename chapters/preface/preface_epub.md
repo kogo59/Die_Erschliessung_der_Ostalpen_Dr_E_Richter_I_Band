@@ -45,7 +45,7 @@ I. BAND.
 **DIE NÖRDLICHEN KALKALPEN.**
 :::
 
-:::: { .wrap-30 }
+:::: { .align-center .wrap-30 }
 ![](logo.jpg "logo.jpg"){ .align_center }
 ::::
 
