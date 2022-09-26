@@ -797,7 +797,6 @@ nicht, wie Herr Forster schreibt: Fickeis, sondern wie Herr Dr. Böhm [S.&nbsp;3
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1900]: [M. A. V. 1892, 176.]{.footnote}
 

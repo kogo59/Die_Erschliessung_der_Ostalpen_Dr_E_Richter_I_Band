@@ -1103,7 +1103,6 @@ Führer vorhanden sind.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1050]: [*Anton Karg*:  vergleiche [Anton Karg](https://de.wikipedia.org/wiki/Anton_Karg)]{.footnote}
 

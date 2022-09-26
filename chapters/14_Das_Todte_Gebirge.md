@@ -403,7 +403,6 @@ Lehnen den von drei Gipfeln gekrönten Kamm zu gewinnen.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1500]: [*G. Geyer*:  vergleiche [Georg Geyer](https://de.wikipedia.org/wiki/Georg_Geyer_(Geologe))]{.footnote}
 

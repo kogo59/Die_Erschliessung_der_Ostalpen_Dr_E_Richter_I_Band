@@ -1575,7 +1575,6 @@ Arlingalpe betreten.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1601]: [*Ennsthaler Alpen*:  vergleiche [Ennstaler Alpen](https://de.wikipedia.org/wiki/Ennstaler_Alpen)]{.footnote}
 

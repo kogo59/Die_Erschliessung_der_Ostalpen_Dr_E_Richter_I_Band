@@ -492,8 +492,6 @@ Notizen erreicht.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^975]: [*Heinrich Noë*:  vergleiche [Heinrich Noë](https://de.wikipedia.org/wiki/Heinrich_No%C3%AB)]{.footnote}
 
 [^976]: [Ein Netz enthält der «Kartographische Führer» von Th. Riedel in München.]{.footnote}

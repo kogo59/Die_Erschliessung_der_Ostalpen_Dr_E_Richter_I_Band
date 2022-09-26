@@ -2234,7 +2234,6 @@ Immer noch hat das Wettersteingebirge Neues zu bieten; es gilt nur, dasselbe zu 
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^600]: [*Zugspitze*:  vergleiche [Zugspitze](https://de.wikipedia.org/wiki/Zugspitze)]{.footnote}
 

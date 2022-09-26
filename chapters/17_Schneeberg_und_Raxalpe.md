@@ -439,7 +439,6 @@ genommen werden kann, als «neu» zu gelten.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1800]: [*Schneeberg und Raxalpe*:  vergleiche [Rax-Schneeberg-Gruppe](https://de.wikipedia.org/wiki/Rax-Schneeberg-Gruppe)]{.footnote}
 

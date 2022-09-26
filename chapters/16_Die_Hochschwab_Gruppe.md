@@ -125,7 +125,6 @@ wiederholt.^[^1772]^
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1750]: [*Hochschwab Gruppe*:  vergleiche [Hochschwabgruppe](https://de.wikipedia.org/wiki/Hochschwabgruppe)]{.footnote}
 

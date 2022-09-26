@@ -750,7 +750,6 @@ einige Jahre später von Bapt. Hämmerle aus Dornbirn wiederholt.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^070]: [*Wilhelm Strauss*:  vergleiche Wilhelm Strauß (1838–1927), deutscher Alpinist und Autor]{.footnote}
 

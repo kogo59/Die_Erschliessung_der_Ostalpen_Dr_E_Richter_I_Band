@@ -2771,7 +2771,6 @@ wurde.
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1125]: [Das nach Dr. A. Böhm’s Eintheilung ebenfalls zu dieser Gruppe gehörige Dachstein- und
 Ausseer Gebirge wird einen selbständigen Abschnitt bilden.]{.footnote}

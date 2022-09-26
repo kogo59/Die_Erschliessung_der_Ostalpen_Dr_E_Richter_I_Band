@@ -2550,7 +2550,6 @@ H. Schwaiger im Alpenfreund 1891, Nr. 13.)
 ****
 ::::
 
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^200]: [*Anton Spiehler*:  vergleiche [Anton Spiehler (Alpinist)](https://de.wikipedia.org/wiki/Anton_Spiehler_(Alpinist))]{.footnote}
 
