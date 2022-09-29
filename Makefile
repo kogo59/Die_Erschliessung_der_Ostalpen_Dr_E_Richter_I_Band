@@ -39,7 +39,6 @@ epub: $(BUILD)/epub/$(OUTPUT_FILENAME).epub
 
 html: $(BUILD)/html/$(OUTPUT_FILENAME).html
 
-pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 
 docx: $(BUILD)/docx/$(OUTPUT_FILENAME).docx
 
@@ -57,14 +56,20 @@ $(BUILD)/html/$(OUTPUT_FILENAME).html: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS
 	$(PANDOC) $(ARGS_HTML) --self-contained --standalone --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html5 -o $@ $(METADATA_PDF) $(PREFACE_EPUB) $(CHAPTERS) $(HTML_LINKS)
 	rm  $(IMAGES_FOLDER)/*.css
 
+pdf: $(BUILD)/pdf/$(OUTPUT_FILENAME).pdf
 
-#$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(CSS_FILE_PRINT) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF) $(PREFACE_HTML_PDF)
-#mkdir -p $(BUILD)/pdf
-#cp  $(IMAGES_FOLDER)/*.jpg .
-#	cp  $(IMAGES_FOLDER)/*.png .
-#	pandoc $(ARGS) $(CSS_ARG_PRINT) --self-contained --standalone --pdf-engine=weasyprint --resource-path=$(IMAGES_FOLDER) --from markdown+yaml_metadata_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans  --to=html5  -o $@  $(METADATA_PDF) $(PREFACE_HTML_PDF) $(CHAPTERS)
-#	rm *.jpg
-#	rm *.png
+$(BUILD)/pdf/$(OUTPUT_FILENAME).pdf: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(IMAGES) $(COVER_IMAGE) $(METADATA_PDF) $(PREFACE_EPUB)
+	mkdir -p $(BUILD)/pdf
+	cp  *.css  $(IMAGES_FOLDER)
+	cp  $(IMAGES_FOLDER)/Ostalpen_Band_I_*.jpg .
+	cp  $(IMAGES_FOLDER)/cover.jpg .
+	cp  $(IMAGES_FOLDER)/logo.jpg .
+	pandoc $(ARGS_HTML)  $(METADATA_ARG) $(CSS_ARG_PRINT) --pdf-engine=prince --resource-path=$(IMAGES_FOLDER) --from markdown+pandoc_title_block+raw_html+fenced_divs+fenced_code_attributes+bracketed_spans+yaml_metadata_block --to=html -o $@ $(METADATA_PDF) $(PREFACE_EPUB) $(CHAPTERS) $(HTML_LINKS)
+	rm  $(IMAGES_FOLDER)/*.css
+	rm Ostalpen_Band_I_*.jpg
+	rm  cover.jpg 
+	rm logo.jpg
+
 
 $(BUILD)/docx/$(OUTPUT_FILENAME).docx: $(MAKEFILE) $(METADATA) $(CHAPTERS) $(CSS_FILE) $(CSS_FILE_KINDLE) $(IMAGES) \
 																			 $(COVER_IMAGE) 
