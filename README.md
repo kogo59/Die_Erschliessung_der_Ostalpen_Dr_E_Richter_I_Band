@@ -38,5 +38,4 @@ before January 1, 1924.
 # Sources
 Die nördlichen Kalkalpen. [Princeton-USA](https://babel.hathitrust.org/cgi/pt?id=njp.32101073694455)
 
-# ePUB
-Die nördlichen Kalkalpen. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=346069)
+
