@@ -1,5 +1,7 @@
 # Die Erschliessung der Ostalpen
 
+<img align="right" height="200" src="https://user-images.githubusercontent.com/13177792/193358430-4cf2184c-269b-4242-bd24-403ca073af60.jpg">
+
 This is a git repository of the source files for the book
 "Die Erschliessung der Ostalpen unter Redaction von Prof. Dr. E . Richter I. Band"
 
@@ -35,6 +37,3 @@ before January 1, 1924.
 
 # Sources
 Die nördlichen Kalkalpen. [Princeton-USA](https://babel.hathitrust.org/cgi/pt?id=njp.32101073694455)
-
-# ePUB
-Die nördlichen Kalkalpen. [mobileread.com](https://www.mobileread.com/forums/showthread.php?t=346069)
