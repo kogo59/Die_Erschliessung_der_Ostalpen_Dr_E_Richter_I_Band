@@ -234,7 +234,7 @@ mehrere naturwissenschaftliche Zeitschriften, reformirte das salzburgische Bergw
 und besass Sammlungen, für welche er ein eigenes Haus einrichtete. Der Aufenthalt
 im Zillerthale machte Moll als jungen Mann zum Bergsteiger. Nur mit wahrem
 Genuss wird man seine Beschreibung eines Besuches der Schwarzensteinalpe im
-Zemmgrund und der dortigen Gletscher, dann des Floitenthales lesen können.[^003] Obwohl
+Zemmgrund und der dortigen Gletscher, dann des Floitenthales lesen können.^[^003]^ Obwohl
 er später der persönlichen Thätigkeit in den Bergen sich entrückt fühlte, so blieb
 ihm doch das Interesse an der Erforschung der Hochregion lebendig. Dafür ist ein
 sprechender Beweis ein längerer Zusatz zu dem Tagebuch der ersten Glocknerersteigung,
