@@ -1,5 +1,7 @@
 # Die Erschliessung der Ostalpen
 
+<img align="right" height="150" src="https://github.com/kogo59/Die_Erschliessung_der_Ostalpen_Dr_E_Richter_I_Band/assets/13177792/d1c0f009-32dd-42a8-9c98-791be1a8fbfa">
+
 This is a git repository of the source files for the book
 "Die Erschliessung der Ostalpen unter Redaction von Prof. Dr. E . Richter I. Band"
 
