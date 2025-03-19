@@ -121,10 +121,6 @@ aus Graz^[^1771]^ und am 15.&nbsp;Mai 1892 von K. Domenigg und G. Macher
 wiederholt.^[^1772]^
 :::
 
-::: align-center
-****
-::::
-
 
 [^1750]: [*Hochschwab Gruppe*:  vergleiche [Hochschwabgruppe](https://de.wikipedia.org/wiki/Hochschwabgruppe)]{.footnote}
 

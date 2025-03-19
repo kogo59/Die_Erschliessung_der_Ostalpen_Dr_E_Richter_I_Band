@@ -488,9 +488,6 @@ Notizen erreicht.
 
 :::
 
-:::: align-center
-****
-::::
 
 [^975]: [*Heinrich Noë*:  vergleiche [Heinrich Noë](https://de.wikipedia.org/wiki/Heinrich_No%C3%AB)]{.footnote}
 

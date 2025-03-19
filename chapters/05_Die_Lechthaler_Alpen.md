@@ -1160,10 +1160,6 @@ erfolgte nach Fallerschein.^[^519]^
 
 :::
 
-:::: align-center
-****
-::::
-
 [^400]: [*Lechthaler Alpen*:  vergleiche [Lechtaler Alpen](https://de.wikipedia.org/wiki/Lechtaler_Alpen)]{.footnote}
 
 [^401]: [*Fernpass*:  vergleiche [Fernpass](https://de.wikipedia.org/wiki/Fernpass)]{.footnote}

@@ -1747,10 +1747,6 @@ ihnen bereits durch Pock und Griensteidl am 23. Mai 1886 touristisch zum ersten 
 
 :::
 
-:::: align-center
-****
-::::
-
 
 [^800]: [*Karwendelgruppe*:  vergleiche [Karwendel](https://de.wikipedia.org/wiki/Karwendel)]{.footnote}
 

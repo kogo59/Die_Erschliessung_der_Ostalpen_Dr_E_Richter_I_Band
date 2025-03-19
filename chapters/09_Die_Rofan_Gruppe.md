@@ -106,10 +106,6 @@ Scherbensteinalm erblickt.
 
 :::
 
-:::: align-center
-****
-::::
-
 
 [^950]: [Theodor Trautwein (1833–1894), deutscher Alpinist.]{.footnote}
 

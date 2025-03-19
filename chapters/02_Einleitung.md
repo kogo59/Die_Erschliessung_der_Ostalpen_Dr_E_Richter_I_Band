@@ -797,12 +797,6 @@ unschätzbaren Kleinod, das uns ein gütiges Geschick beschieden hat, an unseren
 herrlichen Alpen.
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^001]: [Reise durch die Norischen Alpen, Vorrede.]{.footnote}
 
 [^002]: [Reise durch die Norischen Alpen, 260. Verzeichniss seiner Schriften bei Wurzbach, Biograph.

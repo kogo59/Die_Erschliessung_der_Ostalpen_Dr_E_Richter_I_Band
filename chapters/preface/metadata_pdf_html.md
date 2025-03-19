@@ -11,7 +11,7 @@
   [Heinrich Heß](https://de.wikipedia.org/wiki/Heinrich_He%C3%9F_(Alpinist)) (1857—1944)
   [Carl Deutsch](https://de.wikipedia.org/wiki/Karl_Deutsch_(Mundartdichter)) (1859—1923) Imst Apotheker
   [Edmund Forster](http://www.literature.at/viewer.alo?objid=1026187&viewmode=fullscreen&rotate=&scale=3.33&page=43) (???? —1911) Wien<br /><br />
-  E-Buch erstellt von kogo@gmx.de.<br /><br />
+  E-Buch erstellt von kogo<br /><br />
   Die Urheber  dieses Werks sind vor 1950 gestorben, es ist daher gemeinfrei,
   weil seine urheberrechtliche Schutzfrist abgelaufen ist. Dies gilt für das
   Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen

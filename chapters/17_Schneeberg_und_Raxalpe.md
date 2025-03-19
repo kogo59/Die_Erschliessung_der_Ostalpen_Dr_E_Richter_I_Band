@@ -435,10 +435,6 @@ ausgedehnte Plateau. Nur jene Steige wurden hier angeführt, welche zu den
 genommen werden kann, als «neu» zu gelten.
 :::
 
-::: align-center
-****
-::::
-
 
 [^1800]: [*Schneeberg und Raxalpe*:  vergleiche [Rax-Schneeberg-Gruppe](https://de.wikipedia.org/wiki/Rax-Schneeberg-Gruppe)]{.footnote}
 

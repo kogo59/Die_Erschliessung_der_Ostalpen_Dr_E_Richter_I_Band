@@ -231,9 +231,6 @@ und von der Section Salzburg des D. u. Oe. A.-V. Weganlagen und Wegmarkirungen a
 den Hochkönig, Hohen Göll, Kammerlinghorn und in den östlichen Theilen des
 Tennengebirges.
 :::
-:::: align-center
-****
-::::
 
 ## I. Die Uebergossene Alpe^[^1135]^
 
@@ -908,9 +905,6 @@ dem eine Pfadspur (etwas oberhalb von P.&nbsp;1533 der A.-V.-Karte) zur Mündung
 Buchweissbaches hinabführte. Der Abstieg hatte 2 Stunden 35 Minuten in Anspruch
 genommen.
 :::
-:::: align-center
-****
-::::
 
 
 ## III. Die Wimbach Gruppe.
@@ -1779,10 +1773,6 @@ den Fuss der Felsen, über die auch der Verfasser den Einstieg bewerkstelligt ha
 dann in einem sehr steilen Kamine verlief. Nach Ueberwindung mehrerer durch
 die Jahreszeit gegebenen Schwierigkeiten erreichte er die Spitze um 2&nbsp;U.&nbsp;20.
 :::
-:::: align-center
-****
-::::
-
 
 ## IV. Das Hagen Gebirge.^[^1227]^
 
@@ -1958,9 +1948,6 @@ von welchen Gipfeln mehrere von Touristen noch unbetreten sein dürften. Als
 Ausgangspunkt für alle diese Touren, mit Ausnahme jener auf den Schneibstein, Tristkopf,
 die Fillinger Höhe, Gratzspitze und den Rothwandkopf, diente das Jagdschloss Blühnbach.
 :::
-:::: align-center
-****
-::::
 
 ## V. Die Göllkette^[^1237]^
 
@@ -2091,9 +2078,6 @@ Einen neuen Anstieg auf das Hintere Freieck direct von der Alpe Alpwinkel in der
 Bluntau vollführte der Verfasser mit dem Jäger R. von Lonski
 am 19.&nbsp;März 1882, wozu vom Dorfe Torren 5&nbsp;Stunden benöthigt wurden.
 :::
-:::: align-center
-****
-::::
 
 ## VI. Der Untersberg.^[^1244]^
 
@@ -2176,9 +2160,6 @@ betragen circa 7000 fl., während sich deren Länge über 9000&nbsp;m. beläuft.
 Der Gedanke der Erbauung eines Unterkunftshauses auf dem Untersberge, der
 schon 1873 ins Auge gefasst wurde, konnte erst 1883 zur That werden.
 :::
-:::: align-center
-****
-::::
 
 ## VII. Das Tennen Gebirge.^[^1247]^
 
@@ -2313,9 +2294,6 @@ und Schrot- oder Schartwand 2319&nbsp;m. am 21.&nbsp;October 1888 von Werfen-Wen
 aus. Mehrere dieser Gipfel wurden wiederholt, auch zur Winterszeit besucht, und befinden
 sich unter denselben mehrere von Touristen noch unerstiegene Erhebungen.^[^1261]^
 :::
-:::: align-center
-****
-::::
 
 ## VIII. Die Mühlsturz-^[^1263]^ und die Grundübelhörner^[^1264]^ im Reiter Steingebirge^[^1262]^.
 
@@ -2468,9 +2446,6 @@ Nach Ersteigung dieses letzteren und der beiden Grundübelhörner stiegen sie ü
 die bisher gebräuchliche Route der Nordwand in das Wagendrischelkar ab, wozu
 sie 1&nbsp;Stunde 50&nbsp;Minuten benöthigten.^[^1276]^
 :::
-:::: align-center
-****
-::::
 
 ## IX. Die Loferer^[^1277]^ und Leoganger Steinberge^[^1278]^.
 
@@ -2767,10 +2742,6 @@ etwas exponirten Wandstufen der Südseite, bis endlich der östlich verlaufende
 Grat und bald darauf auch (10&nbsp;U.&nbsp;17) die Spitze des Mitterhorns erreicht
 wurde.
 :::
-:::: align-center
-****
-::::
-
 
 [^1125]: [Das nach Dr. A. Böhm’s Eintheilung ebenfalls zu dieser Gruppe gehörige Dachstein- und
 Ausseer Gebirge wird einen selbständigen Abschnitt bilden.]{.footnote}

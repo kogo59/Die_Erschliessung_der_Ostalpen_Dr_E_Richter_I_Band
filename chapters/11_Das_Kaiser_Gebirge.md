@@ -1099,11 +1099,6 @@ Führer vorhanden sind.
 
 :::
 
-:::: align-center
-****
-::::
-
-
 [^1050]: [*Anton Karg*:  vergleiche [Anton Karg](https://de.wikipedia.org/wiki/Anton_Karg)]{.footnote}
 
 [^1051]: [Die drei diesem Abschnitte beigegebenen Ansichten gewähren Einblick in die Hauptpartien des

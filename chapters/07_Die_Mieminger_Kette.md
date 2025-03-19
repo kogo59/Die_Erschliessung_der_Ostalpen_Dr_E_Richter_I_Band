@@ -801,10 +801,6 @@ erlauben.
 
 :::
 
-:::: align-center
-****
-::::
-
 [^700]: [*Mieminger Kette*:  vergleiche [Mieminger Gebirge](https://de.wikipedia.org/wiki/Mieminger_Gebirge)]{.footnote}
 
 [^701]: [Ausland 1873, 801.]{.footnote}

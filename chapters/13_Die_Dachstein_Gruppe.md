@@ -1289,10 +1289,6 @@ Südseite. Abstieg am Aufstiegswege Suchanek’s, jedoch noch vor dem Kleinen
 Grimming rechts hinab ins Kar.^[^1495]^ Seither wurde der kühne Gipfel öfter bestiegen.
 :::
 
-:::: align-center
-****
-::::
-
 [^1300]: [*August von Böhm*:  vergleiche [August Böhm von Böhmersheim](https://de.wikipedia.org/wiki/August_B%C3%B6hm_von_B%C3%B6hmersheim)]{.footnote}
 
 [^1301]: [J. A. Schultes, «Reisen durch Oberösterreich». 1. Theil, Tübingen 1809, 110.]{.footnote}
