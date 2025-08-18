@@ -38,7 +38,7 @@ Nordgrat, der von einer Felsscharte oberhalb des Neuwaldeggsattels aus über bö
 plattige Wandstellen und durch einen schrägen Kamin gewonnen wurde, und
 erforderte inclusive Rasten 5¾&nbsp; Stunden.^[^1755]^
 
-:::: {.wrap-70 .break-before }
+:::: {.wrap-70 }
 ![Der Turm von Südosten. <small>(Anstiegslinien von Hefele und Schettniz.)</small>](Ostalpen_Band_I_402.jpg "Ostalpen_Band_I_402.jpg"){#b402}
 ::::
 

@@ -460,7 +460,7 @@ Spitze in senkrechten Wänden gegen die Wochenbrunner Alpe ab. Schon hieraus
 ist ersichtlich, dass die Karlspitzen zu den schwierigeren Touren in unserer Gruppe
 zu zählen sind.
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100  }
 ![Das Kaisergebirge von Süden gesehen.](Ostalpen_Band_I_249.jpg "Ostalpen_Band_I_249.jpg"){#b249}
 ::::
 

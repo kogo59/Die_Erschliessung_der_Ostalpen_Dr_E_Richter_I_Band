@@ -627,7 +627,7 @@ Südwestlich der Schönfeldspitze erhebt sich in der Form einer mässig zugespit
 Pyramide das Schöneck 2410&nbsp;m. Das «Streichenbeil» befindet sich etwas
 unterhalb des P.&nbsp;2404 der A.-V.-Karte.
 
-:::: {.wrap-100   .break-before}
+:::: {.wrap-100  }
 ![Die Schönfeldspitze vom Steinernen Meer aus.](Ostalpen_Band_I_278.jpg "Ostalpen_Band_I_278.jpg"){#b278}
 ::::
 
@@ -967,7 +967,7 @@ Watzmann-Ersteigung auf 1799 oder 1801 fällt. 1803 kann Stanig die Watzmannfahr
 mehr ausgeführt haben, da er in diesem Jahre Salzburg verliess, wohl aber die
 Ersteigung des Hohen Göll.^[^1193]^
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100 }
 ![Die vordere und die mittlere Spitze des Watzmanns.](Ostalpen_Band_I_284.jpg "Ostalpen_Band_I_284.jpg"){#b284}
 ::::
 
@@ -2425,7 +2425,7 @@ plattigen Stufen unterbrochene, doch sichere Rinne erklettert, die zu dem Sattel
 beiden Spitzen emporführt und von dem jede derselben in circa 8&nbsp;Minuten zu
 erreichen war.^[^1275]^
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100 }
 ![Die Mühlsturzhörner von der Hirschbühelstrasse.](Ostalpen_Band_I_315.jpg "Ostalpen_Band_I_315.jpg"){#b315}
 ::::
 

@@ -495,7 +495,7 @@ Die erste Besteigung von der Hallstätter Seite aus vollbrachten im Jahre 1841
 Zimmerknecht Johann Ramsauer und Pfannknecht Franz Linertner aus Kaltenbach
 nächst Ischl, «zwei der kühnsten Bergsteiger».^[^1372]^
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100 }
 ![Der Gipfel des Hohen Dachstein.](Ostalpen_Band_I_337.jpg "Ostalpen_Band_I_337.jpg"){#b337}
 ::::
 
@@ -682,7 +682,7 @@ aber doch höchst interessante Aufgabe wäre. Er meinte, dass die Erklimmung der
 Scharte von Süden her trotz der enormen Steilheit und Höhe der Felswand
 «immerhin nicht ohne Aussicht auf Erfolg versucht werden könnte».^[^1402]^
 
-:::: {.wrap-100 .break-before }
+:::: {.wrap-100  }
 ![Die Dachsteinsüdwand von der Neustattalpe. (Mitterspitze, Dachstein und Dirndeln vom Gipfel des Thorsteins)](Ostalpen_Band_I_341.jpg "Ostalpen_Band_I_341.jpg"){#b341}
 ::::
 
@@ -963,7 +963,7 @@ beizukommen, nahe dem Gipfelgrat scheiterte, da sich Auhäusler «nicht mehr
 auf die damals eingeschlagene Richtung erinnern» konnte; allerdings spielten dabei
 sehr ungünstige Schneeverhältnisse und Nebel eine Rolle.^[^1450]^
 
-:::: {.break-before .wrap-100 }
+:::: { .wrap-100 }
 ![Grosser und Kleiner Koppenkarstein aus der Gegend der Edelgrieshöhe (Süden) gesehen.
 ..... Route G. Geyer, 5. Juni 1879.](Ostalpen_Band_I_348.jpg "Ostalpen_Band_I_348.jpg"){#b348}
 ::::
@@ -1245,14 +1245,14 @@ Gosauer Gletscher zum Thorsteineck gegangen, dann scharf um dieses herum und
 gleicher Höhe WNW. bis an den Fuss der nördlich abzweigenden Felswand. Ueber
 Felsen und Rasen auf den Grat, dann etwas abwärts in den obersten Theil des
 gegen den Reissgang verlaufenden Kars. Ueber die westlichen Felsflanken (zwei
-Kamine) wieder auf den Grat und zur Spitze (Steinmannd]).^[^1491]^
+Kamine) wieder auf den Grat und zur Spitze (Steinmanndl).^[^1491]^
 
 <a id="S356"></a>**Eiskarlspitze**. Diese kühne Felsspitze zwischen Windleger und Hochkessel
 ist noch unbestiegen, obwohl sie schon mannigfach belagert wurde; so von Schmitt,
 Oroszlany, Merz, Dr. Helversen und Anderen.
 :::
 
-:::: {.wrap-70 .break-before}
+:::: {.wrap-70 }
 ![Die Schartenspitze.](Ostalpen_Band_I_354.jpg "Ostalpen_Band_I_354.jpg"){#b354}
 ::::
 

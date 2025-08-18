@@ -26,7 +26,7 @@ creator:
 - role: author
   text: Edmund Forster (???? —1911)
 - role: contributor
-  text: E-Buch erstellt von kogo@gmx.de.
+  text: E-Buch erstellt von kogo
 language: de-DE
 date: 1893
 publisher: Verlag des deutschen und oesterreichischen Alpenvereins
@@ -37,7 +37,7 @@ rights: |
   Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen
   Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers.
   Dieses Werk ist gemeinfrei in den Vereinigten Staaten, weil es
-  vor dem 1. Januar 1924 veröffentlicht wurde.<br /><br />
+  vor dem 1. Januar 1929 veröffentlicht wurde.<br /><br />
 
 ibooks:
 iphone-orientation-lock: portrait-only

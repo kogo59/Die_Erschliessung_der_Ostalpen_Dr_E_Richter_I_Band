@@ -834,7 +834,7 @@ nicht für den Südgipfel, sondern für dessen südlichen Nachbar, den jetzigen
 Bockkarkopf in Gebrauch stand. Dazu treten noch die Variationen in Schreibweise
 und Deutung der Hauptbezeichnung.^[^253]^
 
-:::: {.wrap-100  .break-before}
+:::: {.wrap-100 }
 ![Gruppe der Mädelegabel <small>von Buchenrain</small>.](Ostalpen_Band_I_56.jpg "Ostalpen_Band_I_56.jpg"){#b056}
 ::::
 
@@ -1028,7 +1028,7 @@ von der Neuzeit erfunden worden: das einer ersten touristischen Ersteigung.»
 Dieselbe fand am 29. Juli 1869 mit Führer Schraudolph statt und ist sowohl im
 «Wegweiser» als in den «Nördlichen Kalkalpen» ausführlich beschrieben.
 
-:::: {.wrap-100  .break-before}
+:::: {.wrap-100 }
 ![Trettachspitze vom Norden.](Ostalpen_Band_I_61.jpg "Ostalpen_Band_I_61.jpg"){#b061}
 ::::
 
@@ -1511,7 +1511,7 @@ in östlicher Richtung auf dem Grat zum Gipfel (von der Scharte 1 Stunde).
 Abstieg auf der gleichen Linie zur Marchhütte, Petersbergalpe und Hinterhornbach
 5½&nbsp;Stunden.» (Wolff.) Dies scheint der beste Anstieg gewesen zu sein.
 
-:::: {.wrap-100  .break-before}
+:::: {.wrap-100  }
 ![Die Hornbacher Kette von Süden.](Ostalpen_Band_I_74b.jpg "Ostalpen_Band_I_74b.jpg"){#b074b}
 ::::
 
@@ -1795,7 +1795,7 @@ Oythal nach der Scharte und die ‘Stiege’ betrachtet, eine senkrechte Felswan
 der Nordseite. Da freut es immer noch den Alten, die Gemsen zu höhnen, denen
 seine Pfade unzugänglich sind.»
 
-:::: {.wrap-100  .break-before}
+:::: {.wrap-100  }
 ![Höfats vom Himmeleck.](Ostalpen_Band_I_79.jpg "Ostalpen_Band_I_79.jpg"){#b079}
 ::::
 
@@ -2087,9 +2087,6 @@ Interesse die von Probst mit Brutscher am 17. Juli 1890 vorgenommene Recognoscir
 die vom Nebelhornhaus ausgehend durch die Hochregionen am Grossen
 Seekopf, Schochen und Schnecken vorbei zum Himmeleck führte.
 
-:::
-
-::: break-before
 :::
 
 ### 5. Hochvogel Gruppe
@@ -2727,7 +2724,7 @@ nicht Gräben, spricht man wenigstens in Spielmannsau und Einödsbach. Hohe Tret
 
 [^280]: [*Hochkrummbach*:  vergleiche [Warth (Voralberg)](https://de.wikipedia.org/wiki/Warth_(Vorarlberg))]{.footnote}
 
-[^281]: [M. A. Oe. V. 1864. — °)M. A. V. 1888, 187.]{.footnote}
+[^281]: [M. A. Oe. V. 1864. — M. A. V. 1888, 187.]{.footnote}
 
 [^282]: [*Rappensee*:  vergleiche [Rappensee](https://de.wikipedia.org/wiki/Rappensee)]{.footnote}
 

@@ -23,7 +23,7 @@ PREFACE_HTML_PDF = chapters/preface/preface_epub.md
 HTML_LINKS = chapters/preface/18_Nachtraege_und_Berichtigungen_html.md
 EPUB_LINKS = chapters/preface/18_Nachtraege_und_Berichtigungen_epub.md
 ARGS_HTML = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) --reference-location=section --metadata=lang:de
-ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --metadata=lang:de
+ARGS = $(TOC) $(MATH_FORMULAS) $(CSS_ARG) $(METADATA_ARG) --metadata=lang:de --reference-location=section
 #CALIBRE="../../calibre/Calibre Portable/Calibre/"
 CALIBRE=""
 PANDOC = "pandoc"

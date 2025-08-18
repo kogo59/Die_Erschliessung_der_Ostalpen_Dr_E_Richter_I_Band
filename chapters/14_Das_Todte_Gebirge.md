@@ -89,8 +89,8 @@ haben, sind in erster Linie der Nestor der österreichischen Alpinistik Dr. A. v
 Ruthner,^[^1505]^  G. Hauenschild,^[^1506]^  A. und O. Simony^[^1507]^  und
 Josef Hinterberger^[^1508]^  zu nennen.
 
-:::: {.wrap-50 .break-before}
-![](Ostalpen_Band_I_358.jpg "Ostalpen_Band_I_358.jpg"){#b358}
+:::: {.wrap-100 }
+![Priel und Spitzmauer von der Polsterlucke aus.](Ostalpen_Band_I_358.jpg "Priel und Spitzmauer von der Polsterlucke aus."){#b358}
 ::::
 
 Dagegen war es dem Verfasser vorbehalten, zuerst in zusammenhängender
@@ -397,11 +397,6 @@ durch das gleichnamige Thal gegen die Mayralpe führt und noch vor der genannten
 Alpe bei dem sogenannten Kaisersitz nach links abbiegt, um über steile, schuttbedeckte
 Lehnen den von drei Gipfeln gekrönten Kamm zu gewinnen.
 :::
-
-
-:::: align-center
-****
-::::
 
 
 [^1500]: [*G. Geyer*:  vergleiche [Georg Geyer](https://de.wikipedia.org/wiki/Georg_Geyer_(Geologe))]{.footnote}

@@ -222,7 +222,7 @@ Eisen-Cylindern war in  Theile zerlegbar, deren Gesammtgewicht über 150&nbsp;Kg
 die Anfertigungskosten betrugen 443 fl.^[^615]^ 10 kr. (765 Mark), die Gesammtkosten, bis
 das Kreuz auf dem Gipfel stand, 610 fl. 36 kr. (1047 Mark).
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100  }
 ![Zugspitze und Höllenthalferner.](Ostalpen_Band_I_125.jpg "Ostalpen_Band_I_125.jpg"){#b125}
 ::::
 
@@ -369,7 +369,7 @@ die steile glatte Fläche. Doch gelang es ihnen, sich zu fangen, und bald erreic
 sie das Gerölle und den Rasen der Luttergrube, 3¾&nbsp;U. nachmittags, und wanderten
 hinaus zwischen Felstrümmern, Latschen und Alpenrosen an den Eibsee.
 
-:::: {.wrap-80 .break-before  }
+:::: {.wrap-80  }
 ![Zugspitze vom Eibsee.](Ostalpen_Band_I_128.jpg "Ostalpen_Band_I_128.jpg"){#b128}
 ::::
 
@@ -772,7 +772,7 @@ Als interessante Publication muss noch das Panorama von der Zugspitze, eine
 Arbeit des fürstl. Thurn und Taxis’schen Baurathes Max Schultze aus Regensburg
 angeführt werden. (Z. A.V. 1882.)
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100   }
 ![Zugspitze und Plattachferner mit seiner Umrandung von der Mieminger Hochwand aus.
 <small>1. Gewöhnlicher Zugspitzweg von der Knorrhütte auf den Westgipfel. 2. Directer Anstieg Babenstuber’s auf den Ostgipfel. 3. Anstieg (Annäherung) an den Schneefernerkopf. 4. Anstieg Barth's zum Wetterwandeck und Abstieg. 5. Barth’s Uebergang von der Plattspitze zur Gatterlspitze. 6. Barth’s Uebergang vom Westgipfel der Zugspitze zum Ostgipfel.
  </small>](Ostalpen_Band_I_137.jpg "Ostalpen_Band_I_137.jpg"){#b137}
@@ -1094,7 +1094,7 @@ die Ersteigung der rechtsseitigen Wand ermöglichte, hierauf über gelbe Schutth
 mühelos schräg rechts aufwärts zum schmalen, schroffigen Grat. Der höchste
 Punkt ist von da mit Ausweichen in die Nordflanke leicht erreichbar.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100  }
 ![Scharnitzspitze und Oberreinthalschroffen von Norden.](Ostalpen_Band_I_144.jpg "Ostalpen_Band_I_144.jpg"){#b144}
 ::::
 
@@ -1109,7 +1109,7 @@ hinab in das grosse Kar der Wangalpe.
 
 <a id="S145"></a>Nach ihm betrat Niemand mehr den trotzigen Gipfelklotz bis zum 8. August 1883.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100   }
 ![Scharnitzspitze und Oberreinthalschroffen von Süden.](Ostalpen_Band_I_145.jpg "Ostalpen_Band_I_145.jpg"){#b145}
 ::::
 
@@ -1686,7 +1686,7 @@ dann in einigen Minuten den Gipfel der Aeusseren Höllenthalspitze, wo sie ein
 verfallenes Signal vorfanden, 9&nbsp;U.&nbsp;5. Der Anstieg von der Diensthütte hatte
 einschliesslich einer unfreiwilligen ½&nbsp;stündigen Rast 4&nbsp;Stunden in Anspruch genommen.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100   }
 ![Der Blassenkamm von der Mieminger Hochwand.](Ostalpen_Band_I_157.jpg "Ostalpen_Band_I_157.jpg"){#b157}
 ::::
 

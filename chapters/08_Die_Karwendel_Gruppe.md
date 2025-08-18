@@ -222,7 +222,7 @@ Linie noch ein Stück weiter vorzudringen, so war dieser Weg doch so
 schlimm, dass die beiden Herren es vorzogen, den weiten Weg über Ladiz als
 Abstieg zu wählen, und einen neuen Versuch auf der Falkenkarseite nicht unternahmen.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100   }
 ![Vogelkarspitze von der Vereinsalpe aus.](Ostalpen_Band_I_194.jpg "Ostalpen_Band_I_194.jpg"){#b194}
 ::::
 
@@ -560,7 +560,7 @@ des Marxenkars dahinzieht, und erreichte nicht ganz 2&nbsp;Stunden
 nach Verlassen der Seekarspitze die Angeralpe im Karwendelthale, wo er Nachtquartier
 bezog.
 
-:::: {.wrap-80 .break-before  }
+:::: {.wrap-100  }
 ![Die Hinterauthaler Kette von der Voglkarspitze gesehen.](Ostalpen_Band_I_200.jpg "Ostalpen_Band_I_200.jpg"){#b200}
 ::::
 
@@ -920,7 +920,7 @@ durch Anlage zweier Wege gehoben. Dadurch war auch den genannten
 Herren schon die Ersteigung der Spritzkarspitze erleichtert.
 
 :::: {.wrap-100  }
-![Umgebung des Zwerchlochs..](Ostalpen_Band_I_208.jpg "Ostalpen_Band_I_208.jpg"){#b208}
+![Umgebung des Zwerchlochs.](Ostalpen_Band_I_208.jpg "Ostalpen_Band_I_208.jpg"){#b208}
 ::::
 
 Die kleine, aus dem Hauptkamme als scharfe Spitze aufragende, von Barth

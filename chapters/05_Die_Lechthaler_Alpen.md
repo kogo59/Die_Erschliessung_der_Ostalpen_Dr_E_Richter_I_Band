@@ -326,7 +326,7 @@ steile Halde, auf welcher abgestufte Grasbänke das Ansteigen erleichtern, zur
 **Rothschrofenspitze** 2600&nbsp;m. Auch über die **Greutjochspitze**^[^445]^  ^[^446]^2305&nbsp;m.,
 welche von Bach aus bestiegen wird, sind nur die Mittheilungen A. Spiehler’s vorhanden.
 
-:::: {.wrap-100 .break-before  }
+:::: {.wrap-100  }
 ![Wetterspitze und Feuerspitze von der Rothschrofenspitze.](Ostalpen_Band_I_74a.jpg "Ostalpen_Band_I_74a.jpg"){#b074a}
 ::::
 

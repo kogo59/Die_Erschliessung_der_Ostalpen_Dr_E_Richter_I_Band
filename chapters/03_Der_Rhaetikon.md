@@ -199,7 +199,7 @@ Scharte «Fürkele» zwischen der höchsten und einer ihr im Süden vorgelagerte
 niedrigeren Spitze gelangten und über den Südgrat die Spitze erreichten. Von
 Tschagguns in 5 Stunden zur Spitze.
 
-:::: {.wrap-100  .break-before}
+:::: {.wrap-100 }
 ![Drusenfluh von Süden.](Ostalpen_Band_I_25.jpg "Ostalpen_Band_I_25.jpg"){#b025}
 ::::
 
@@ -212,7 +212,7 @@ Spitze erreicht. Abgestiegen wurde unschwer durch die Wände des Nordabsturzes
 zum Grate, der nach der Mittagspitze führt, und über diese ins Gampadel Thal und
 nach Schruns.
 
-:::: {.wrap-100  .break-before}
+:::: {.wrap-100 }
 ![Sulzfluh vom Gauerthal.](Ostalpen_Band_I_25a.jpg "Ostalpen_Band_I_25a.jpg"){#b025a}
 ::::
 
@@ -289,7 +289,7 @@ für den Abstieg seine Aufstiegsroute beizubehalten. Von der Sporer Alpe bis zum
 Gipfel betrug der Zeitaufwand ohne Rasten ½  Stunden, vom Gipfel bis zum
 Oefenpass 2¼   Stunden.
 
-:::: {.wrap-100  .break-before}
+:::: {.wrap-100 }
 ![Zimbaspitze durch das Sarotla Thal gesehen.](Ostalpen_Band_I_26.jpg "Ostalpen_Band_I_26.jpg"){#b026}
 ::::
 
@@ -392,7 +392,7 @@ am Seile überwunden. «Wir stiegen, den Rücken an der Wand, Hände und
 Füsse fest einstemmend, Tritt für Tritt suchend, in die Tiefe.» Um 1&nbsp;U. waren
 die kühnen Alpinisten wieder bei der oberen Alphütte im Sarotla Thale.
 
-:::: {.wrap-100  .break-before}
+:::: {.wrap-100 }
 ![Zimbaspitze vom Rells Thal.](Ostalpen_Band_I_29.jpg "Ostalpen_Band_I_29.jpg"){#b029}
 ::::
 
@@ -464,7 +464,7 @@ die Ufer des Schwäbischen Meeres hinaus Aller Augen auf sich zieht, ist
 vielleicht gerade desshalb von allen höheren Gipfeln der Ostalpen zuerst bestiegen
 worden, obwohl die Schwierigkeiten der Ersteigung nicht ganz unbedeutend sind.
 
-:::: {.wrap-100  .break-before}
+:::: {.wrap-100 }
 ![Die Scesaplana vom Lüner See.](Ostalpen_Band_I_31.jpg "Ostalpen_Band_I_31.jpg"){#b031}
 ::::
 
@@ -629,7 +629,7 @@ geschilderten Kletterei auf den Gipfel des Blaukopfs 2790&nbsp;m.
 «über einen messerscharfen Grat» rittlings der Mottenkopf 2179&nbsp;m. und durch das
 Geschröfle absteigend die Alpe Sonnenlagant und Brand^[^125]^ erreicht wurde.
 
-:::: {.wrap-100  .break-before}
+:::: {.wrap-100 }
 ![Panüler Schroffen mit Straussweg.](Ostalpen_Band_I_35.jpg "Ostalpen_Band_I_35.jpg"){#b035}
 ::::
 

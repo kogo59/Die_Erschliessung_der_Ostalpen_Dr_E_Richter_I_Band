@@ -56,7 +56,7 @@ Hilfsmittel verschafft hat. Ihm gebührt unser Aller wärmster Dank.<br /><br />
 * [Das Kaisergebirge von Süden gesehen.](ch013.xhtml#b249)
 * [Die Schönfeldspitze vom Steinernen Meere aus.](ch014.xhtml#b278)
 * [Der Gipfel des Hohen Dachsteins.](ch015.xhtml#b337)
-* Priel und Spitzmauer von der Polsterlucke aus .
+* [Priel und Spitzmauer von der Polsterlucke aus.](ch016.xhtml#b358)
 
 Die Heliogravure «Das Fluchthorn», welche dem 3. Hefte beigegeben war, ist für den
 II. Band zurückzulegen.

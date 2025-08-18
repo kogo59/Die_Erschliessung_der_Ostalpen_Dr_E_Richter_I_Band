@@ -241,7 +241,7 @@ und auch die erwähnte «kleine Einsattlung hoch oben», und zwar oberhalb einer
 seichten seitlichen Mulde, ist sichtbar. Schleicher nahm den Abstieg auf gleichem
 Wege.
 
-:::: {.break-before .wrap-100  }
+:::: { .wrap-100  }
 ![Der Hochthorgrat vom Gesäuseeingang.](Ostalpen_Band_I_371.jpg "Ostalpen_Band_I_371.jpg"){#b371}
 ::::
 
@@ -796,7 +796,7 @@ abfallenden Gipfel. Nach der Riffel 2105&nbsp;m. verschmälert sich der Rücken
 wieder zum Grat, leitet bogenförmig zur letzten Erhebung, dem Kreuzkogel 2012&nbsp;m.,
 und fällt dann langsam in den Lichtmessgraben ab.
 
-:::: {.break-before .wrap-100  }
+:::: {.wrap-100  }
 ![Der Reichenstein von Nordosten. (Aus dem Grossen Griesgraben.)](Ostalpen_Band_I_384.jpg "Ostalpen_Band_I_384.jpg"){#b384}
 ::::
 
@@ -1571,9 +1571,6 @@ ziemlich complicirt. Nach circa 2&nbsp;Stunden vom Gipfel weg, wurde der Sattel 
 Arlingalpe betreten.
 :::
 
-::: align-center
-****
-::::
 
 
 [^1601]: [*Ennsthaler Alpen*:  vergleiche [Ennstaler Alpen](https://de.wikipedia.org/wiki/Ennstaler_Alpen)]{.footnote}
@@ -1624,7 +1621,7 @@ Arlingalpe betreten.
 [^1622]: [Oe. A. Z. 1884, 133.]{.footnote}
 
 [^1623]: [Oe. A. Z. 1884, 154.]{.footnote}
-[
+
 [^1624]: [*Daniel Innthaler*:  vergleiche [Daniel Innthaler](https://de.wikipedia.org/wiki/Daniel_Innthaler)]{.footnote}
 
 [^1625]: [Oe. A. Z. 1885, 236.]{.footnote}
