@@ -1,4 +1,4 @@
-# Die Erschliessung der Ostalpen
+# Die Erschliessung der Ostalpen. I. Band
 
 <img align="right" width="200" src="https://github.com/kogo59/Die_Erschliessung_der_Ostalpen_Dr_E_Richter_I_Band/assets/13177792/d1c0f009-32dd-42a8-9c98-791be1a8fbfa">
 

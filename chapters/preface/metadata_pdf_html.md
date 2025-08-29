@@ -17,7 +17,7 @@
   Herkunftsland des Werks und alle weiteren Staaten mit einer gesetzlichen
   Schutzfrist von 70 oder weniger Jahren nach dem Tod des Urhebers.
   Dieses Werk ist gemeinfrei in den Vereinigten Staaten, weil es
-  vor dem 1. Januar 1924 veröffentlicht wurde.<br /><br />
+  vor dem 1. Januar 1929 veröffentlicht wurde.<br /><br />
 % 1893, Verlag des deutschen und oesterreichischen Alpenvereins
 
 :::: {.w-100 .break-before .break-after }
